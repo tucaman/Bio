@@ -1,0 +1,811 @@
+,ticker,company_name,NASDAQ_sector
+0,JNJ,Johnson &amp; Johnson Common Stock,Healthcare
+1,RHHBY,Roche Holding Ltd ADR (Sponsored),Healthcare
+2,RHHVF,Roche Holding Div Rts,Healthcare
+3,UNH,UnitedHealth Group Incorporated Common Stock (DE),Healthcare
+4,PFE,"Pfizer, Inc. Common Stock",Healthcare
+5,MRK,"Merck &amp; Company, Inc. Common Stock (new)",Healthcare
+6,NVS,Novartis AG Common Stock,Healthcare
+7,ABBV,AbbVie Inc. Common Stock,Healthcare
+8,ABT,Abbott Laboratories Common Stock,Healthcare
+9,LLY,Eli Lilly and Company Common Stock,Healthcare
+10,NVO,Novo Nordisk A/S Common Stock,Healthcare
+11,BMY,Bristol-Myers Squibb Company Common Stock,Healthcare
+12,AMGN,Amgen Inc. Common Stock,Healthcare
+13,AZN,Astrazeneca PLC Common Stock,Healthcare
+14,TMO,Thermo Fisher Scientific Inc Common Stock,Healthcare
+15,MDT,Medtronic plc. Ordinary Shares,Healthcare
+16,SNYNF,Sanofi,Healthcare
+17,SNY,Sanofi ADR,Healthcare
+18,DHR,Danaher Corporation Common Stock,Healthcare
+19,GSK,GlaxoSmithKline PLC Common Stock,Healthcare
+0,GILD,"Gilead Sciences, Inc. Common Stock",Healthcare
+1,CSLLY,CSL Ltd ADR (Sponsored),Healthcare
+2,CMXHF,Csl Ltd,Healthcare
+3,VRTX,Vertex Pharmaceuticals Incorporated Common Stock,Healthcare
+4,BDX,"Becton, Dickinson and Company Common Stock",Healthcare
+5,CI,Cigna Corporation Common Stock,Healthcare
+6,ANTM,"Anthem, Inc. Common Stock",Healthcare
+7,CHGCF,Chugai Pharmaceutical,Healthcare
+8,SYK,Stryker Corporation Common Stock,Healthcare
+9,REGN,"Regeneron Pharmaceuticals, Inc. Common Stock",Healthcare
+10,BAYRY,Bayer AG ADR (Sponsored),Healthcare
+11,ISRG,"Intuitive Surgical, Inc. Common Stock",Healthcare
+12,ZTS,Zoetis Inc. Class A Common Stock,Healthcare
+13,TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock),Healthcare
+14,TKPHF,Takeda Pharmaceutical Co Ltd,Healthcare
+15,HUM,Humana Inc. Common Stock,Healthcare
+16,BIIB,Biogen Inc. Common Stock,Healthcare
+17,ESLOY,EssilorLuxottica ADR,Healthcare
+18,ILMN,"Illumina, Inc. Common Stock",Healthcare
+19,BSX,Boston Scientific Corporation Common Stock,Healthcare
+0,SEMHF,Siemens Healthineers AG,Healthcare
+1,DSKYF,Daiichi Sankyo Co Ltd,Healthcare
+2,EW,Edwards Lifesciences Corporation Common Stock,Healthcare
+3,BAX,Baxter International Inc. Common Stock,Healthcare
+4,CNC,Centene Corporation Common Stock,Healthcare
+5,DXCM,"DexCom, Inc. Common Stock",Healthcare
+6,PHG,Koninklijke Philips N.V. NY Registry Shares,Healthcare
+7,HOCPF,Hoya Corp.,Healthcare
+8,LZAGY,Lonza Group AG ADR,Healthcare
+9,HOCPY,Hoya Corp. ADR (Sponsored),Healthcare
+10,HCA,"HCA Healthcare, Inc. Common Stock",Healthcare
+11,ALPMF,Astellas Pharma Inc,Healthcare
+12,ALC,Alcon Inc. Ordinary Shares,Healthcare
+13,SGEN,"Seattle Genetics, Inc. Common Stock",Healthcare
+14,TRUMF,Terumo Corp.,Healthcare
+15,IQV,"IQVIA Holdings, Inc. Common Stock",Healthcare
+16,A,"Agilent Technologies, Inc. Common Stock",Healthcare
+17,IDXX,"IDEXX Laboratories, Inc. Common Stock",Healthcare
+18,MRNA,"Moderna, Inc. Common Stock",Healthcare
+19,RMD,ResMed Inc. Common Stock,Healthcare
+0,FSNUY,Fresenius SE &amp; Co KGaA ADR (Sponored),Healthcare
+1,ZBH,"Zimmer Biomet Holdings, Inc. Common Stock",Healthcare
+2,FMS,Fresenius Medical Care AG Common Stock,Healthcare
+3,ALXN,"Alexion Pharmaceuticals, Inc. Common Stock",Healthcare
+4,OTSKY,Otsuka Holdings Co. Ltd. ADR,Healthcare
+5,INCY,Incyte Corp. Common Stock,Healthcare
+6,ESALY,Eisai Co. Ltd. ADR (Sponsored),Healthcare
+7,WXIBF,Wuxi Biologics Cayman Inc,Healthcare
+8,OCPNY,Olympus Corp Sponsored ADR,Healthcare
+9,SBMFF,Sino Biopharmaceutical Ltd,Healthcare
+10,GMAB,Genmab A/S ADS,Healthcare
+11,OCPNF,Olympus Corp,Healthcare
+12,ESALF,Eisai Co Ltd,Healthcare
+13,BMRN,BioMarin Pharmaceutical Inc. Common Stock,Healthcare
+14,MTD,"Mettler-Toledo International, Inc. Common Stock",Healthcare
+15,SNN,"Smith &amp; Nephew SNATS, Inc. Common Stock",Healthcare
+16,AHICF,Asahi Intec Co Ltd,Healthcare
+17,LH,Laboratory Corporation of America Holdings Common Stock,Healthcare
+18,ALGN,"Align Technology, Inc. Common Stock",Healthcare
+19,ALNY,"Alnylam Pharmaceuticals, Inc. Common Stock",Healthcare
+0,FSNUY,Fresenius SE &amp; Co KGaA ADR (Sponored),Healthcare
+1,ZBH,"Zimmer Biomet Holdings, Inc. Common Stock",Healthcare
+2,FMS,Fresenius Medical Care AG Common Stock,Healthcare
+3,ALXN,"Alexion Pharmaceuticals, Inc. Common Stock",Healthcare
+4,OTSKY,Otsuka Holdings Co. Ltd. ADR,Healthcare
+5,INCY,Incyte Corp. Common Stock,Healthcare
+6,ESALY,Eisai Co. Ltd. ADR (Sponsored),Healthcare
+7,WXIBF,Wuxi Biologics Cayman Inc,Healthcare
+8,OCPNY,Olympus Corp Sponsored ADR,Healthcare
+9,SBMFF,Sino Biopharmaceutical Ltd,Healthcare
+10,GMAB,Genmab A/S ADS,Healthcare
+11,OCPNF,Olympus Corp,Healthcare
+12,ESALF,Eisai Co Ltd,Healthcare
+13,BMRN,BioMarin Pharmaceutical Inc. Common Stock,Healthcare
+14,MTD,"Mettler-Toledo International, Inc. Common Stock",Healthcare
+15,SNN,"Smith &amp; Nephew SNATS, Inc. Common Stock",Healthcare
+16,AHICF,Asahi Intec Co Ltd,Healthcare
+17,LH,Laboratory Corporation of America Holdings Common Stock,Healthcare
+18,ALGN,"Align Technology, Inc. Common Stock",Healthcare
+19,ALNY,"Alnylam Pharmaceuticals, Inc. Common Stock",Healthcare
+0,TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares,Healthcare
+1,SONVY,Sonova Holding AG ADR,Healthcare
+2,KYKOF,Kyowa Kirin Co. Ltd. - Ordinary Shares,Healthcare
+3,CTLT,"Catalent, Inc. Common Stock",Healthcare
+4,BNTX,BioNTech SE American Depositary Share,Healthcare
+5,WAT,Waters Corporation Common Stock,Healthcare
+6,SRPT,"Sarepta Therapeutics, Inc. Common Stock (DE)",Healthcare
+7,IHHHF,Ihh Healthcare Bhd Ord,Healthcare
+8,NBIX,"Neurocrine Biosciences, Inc. Common Stock",Healthcare
+9,MOH,Molina Healthcare Inc Common Stock,Healthcare
+10,VAR,"Varian Medical Systems, Inc. Common Stock",Healthcare
+11,PKI,"PerkinElmer, Inc. Common Stock",Healthcare
+12,FSPKF,Fisher &amp; Paykel Healthcare Corp. Ltd.,Healthcare
+13,TECH,Bio-Techne Corp Common Stock,Healthcare
+14,DVA,DaVita Inc. Common Stock,Healthcare
+15,QGEN,Qiagen N.V. Common Shares ,Healthcare
+16,GH,"Guardant Health, Inc. Common Stock",Healthcare
+17,RMSYF,Ramsay Health Care Ltd. (Australia),Healthcare
+18,SFOSF,Shanghai Fosun Pharmaceutical (Group) Co. Ltd.,Healthcare
+19,HZNP,Horizon Therapeutics Public Limited Company Ordinary Shares,Healthcare
+0,OPHLF,Ono Pharmaceutical Co Ltd (Japan),Healthcare
+1,ABMD,"ABIOMED, Inc. Common Stock",Healthcare
+2,QDEL,Quidel Corporation Common Stock,Healthcare
+3,XRAY,DENTSPLY SIRONA Inc. Common Stock,Healthcare
+4,ICLR,ICON plc Ordinary Shares,Healthcare
+5,SHTDF,Sinopharm Group Co. Ltd.,Healthcare
+6,RDY,Dr. Reddy's Laboratories Ltd Common Stock,Healthcare
+7,SKHHY,Sonic Healthcare Ltd ADR (Sponsored),Healthcare
+8,ACAD,ACADIA Pharmaceuticals Inc. Common Stock,Healthcare
+9,CHEOF,Cochlear Plc Ord,Healthcare
+10,EXEL,"Exelixis, Inc. Common Stock",Healthcare
+11,UHS,"Universal Health Services, Inc. Common Stock",Healthcare
+12,IMMU,"Immunomedics, Inc. Common Stock",Healthcare
+13,MYL,Mylan N.V. Ordinary Shares,Healthcare
+14,SHWGF,Shandong Weigao Group Medical Polymer Co. Ltd.,Healthcare
+15,AMBFF,Ambu A/S,Healthcare
+16,TXG,"10x Genomics, Inc. Class A Common Stock",Healthcare
+17,SHTDY,Sinopharm Group Co. Ltd. ADR,Healthcare
+18,HKMPY,Hikma Pharmaceuticals Plc ADR (Sponsored),Healthcare
+19,IONS,"Ionis Pharmaceuticals, Inc. Common Stock",Healthcare
+0,RGEN,Repligen Corporation Common Stock,Healthcare
+1,CHE,Chemed Corp,Healthcare
+2,SNPHF,Santen Pharmaceutical Co. Ltd.,Healthcare
+3,PRGO,Perrigo Company plc Ordinary Shares,Healthcare
+4,SNPHY,Santen Pharmaceutical Co. Ltd. ADR,Healthcare
+5,HLUYY,H Lundbeck A/S S/Adr,Healthcare
+6,ASND,Ascendis Pharma A/S American Depositary Shares,Healthcare
+7,ARGX,argenx SE American Depositary Shares,Healthcare
+8,HRC,Hill-Rom Holdings Inc Common Stock,Healthcare
+9,NVCR,NovoCure Limited Ordinary Shares,Healthcare
+10,EHC,Encompass Health Corporation Common Stock,Healthcare
+11,IVBXF,Innovent Biologics Inc - Ordinary Shares,Healthcare
+12,BRKR,Bruker Corporation Common Stock,Healthcare
+13,TGLVY,Top Glove Corp Berhad ADR (Sponsored),Healthcare
+14,JAZZ,Jazz Pharmaceuticals plc Common Stock (Ireland),Healthcare
+15,PEN,"Penumbra, Inc. Common Stock",Healthcare
+16,AMED,Amedisys Inc Common Stock,Healthcare
+17,GZPHF,Guangzhou Baiyunshan Pharmaceutical Holdings Co Ltd,Healthcare
+18,SYNH,"Syneos Health, Inc. Class A Common Stock",Healthcare
+19,WILLF,Demant A/S,Healthcare
+0,MYOK,"MyoKardia, Inc. Common Stock",Healthcare
+1,DNPUF,Dai Nippon Pharm Ord,Healthcare
+2,ALLO,"Allogene Therapeutics, Inc. Common Stock",Healthcare
+3,BHC,Bausch Health Companies Inc. Common Stock,Healthcare
+4,XLRN,Acceleron Pharma Inc. Common Stock,Healthcare
+5,TNDM,"Tandem Diabetes Care, Inc. Common Stock",Healthcare
+6,ZLAB,Zai Lab Limited American Depositary Shares,Healthcare
+7,MCRPF,Microport Scientific Corp,Healthcare
+8,RHCGF,Ryman Healthcare Ltd,Healthcare
+9,RETA,"Reata Pharmaceuticals, Inc. Class A Common Stock",Healthcare
+10,UTHR,United Therapeutics Corporation Common Stock,Healthcare
+11,KBYPF,Kobayashi Pharmaceutical Co. Ltd.,Healthcare
+12,PPTDF,PeptiDream Inc,Healthcare
+13,HAE,Haemonetics Corporation Common Stock,Healthcare
+14,LHCG,LHC Group Common Stock,Healthcare
+15,GNGBY,Getinge AB ADR,Healthcare
+16,STDAF,Stada Arzneimittel Ag Ord,Healthcare
+17,SHPMF,Shanghai Pharms Hl H Ord,Healthcare
+18,IOVA,"Iovance Biotherapeutics, Inc. Common Stock",Healthcare
+19,MRTX,"Mirati Therapeutics, Inc. Common Stock",Healthcare
+0,GMED,"Globus Medical, Inc. Class A Common Stock",Healthcare
+1,GBT,"Global Blood Therapeutics, Inc. Common Stock",Healthcare
+2,EBS,"Emergent Biosolutions, Inc. Common Stock",Healthcare
+3,PTKFY,P.T. Kalbe Farma ADR,Healthcare
+4,RARE,Ultragenyx Pharmaceutical Inc. Common Stock,Healthcare
+5,TCHBF,Tecan Ag Hombrchtkn,Healthcare
+6,MOR,MorphoSys AG American Depositary Shares,Healthcare
+7,TAISF,Taisho Pharm Hldgs Co,Healthcare
+8,CBPO,"China Biologic Products Holdings, Inc. Ordinary Shares",Healthcare
+9,ONEM,"1Life Healthcare, Inc. Common Stock",Healthcare
+10,NVRO,Nevro Corp. Common Stock,Healthcare
+11,IART,Integra LifeSciences Holdings Corporation Common Stock,Healthcare
+12,NKTR,Nektar Therapeutics  Common Stock,Healthcare
+13,BBIO,"BridgeBio Pharma, Inc. Common Stock",Healthcare
+14,ICUI,"ICU Medical, Inc. Common Stock",Healthcare
+15,WMGI,Wright Medical Group N.V. Ordinary Shares,Healthcare
+16,GNNSF,Genscript Biotech Corp,Healthcare
+17,CRSP,CRISPR Therapeutics AG Common Shares,Healthcare
+18,EVTCY,Evotec SE ADR (Sponsored),Healthcare
+19,MNTA,"Momenta Pharmaceuticals, Inc. Common Stock",Healthcare
+0,ARWR,"Arrowhead Pharmaceuticals, Inc. Common Stock",Healthcare
+1,TRSBF,3SBIO Inc - Ordinary Shares,Healthcare
+2,GWPH,GW Pharmaceuticals Plc American Depositary Shares,Healthcare
+3,TPGVF,Top Glove Corp Berhad,Healthcare
+4,VIR,"Vir Biotechnology, Inc. Common Stock",Healthcare
+5,GWPRF,GW Pharmaceuticals Plc,Healthcare
+6,NTRA,"Natera, Inc. Common Stock",Healthcare
+7,IRTC,"iRhythm Technologies, Inc. Common Stock",Healthcare
+8,PTKFF,P.T. Kalbe Farma,Healthcare
+9,LVZPF,Livzon Pharmaceutical Group Inc,Healthcare
+10,BPMC,Blueprint Medicines Corporation Common Stock,Healthcare
+11,NEOG,Neogen Corporation Common Stock,Healthcare
+12,RGEDF,Chemical Works Of Richter Gedeon Plc,Healthcare
+13,CCXI,"ChemoCentryx, Inc. Common Stock",Healthcare
+14,ALLK,Allakos Inc. Common Stock,Healthcare
+15,HALO,"Halozyme Therapeutics, Inc. Common Stock",Healthcare
+16,APNHF,Aspen Pharmacare Holdings Plc,Healthcare
+17,AXSM,"Axsome Therapeutics, Inc. Common Stock",Healthcare
+18,FGEN,"FibroGen, Inc Common Stock",Healthcare
+19,PTCT,"PTC Therapeutics, Inc. Common Stock",Healthcare
+0,AGIO,"Agios Pharmaceuticals, Inc. Common Stock",Healthcare
+1,APNHY,Aspen Pharmacare Holdings Plc ADR,Healthcare
+2,BLUE,"bluebird bio, Inc. Common Stock",Healthcare
+3,NEO,"NeoGenomics, Inc. Common Stock",Healthcare
+4,CHSYF,China Medical Sys Hldgs,Healthcare
+5,HCM,Hutchison China MediTech Limited American Depositary Shares,Healthcare
+6,HTSUF,Hisamitsu Pharm Co Ltd,Healthcare
+7,FOLD,"Amicus Therapeutics, Inc. Common Stock",Healthcare
+8,AMRN,Amarin Corporation plc,Healthcare
+9,NUVA,"NuVasive, Inc. Common Stock",Healthcare
+10,DCPH,"Deciphera Pharmaceuticals, Inc. Common Stock",Healthcare
+11,AKBLF,Alk-Abello A/S,Healthcare
+12,AATP,Agape ATP Corp,Healthcare
+13,ICPT,"Intercept Pharmaceuticals, Inc. Common Stock",Healthcare
+14,BHVN,Biohaven Pharmaceutical Holding Company Ltd. Common Shares,Healthcare
+15,NKNIF,NKNIF,Healthcare
+16,LTGHF,Life Healthcare Group Holdings Ltd,Healthcare
+17,BNTC,Benitec Biopharma Inc. Common Stock,Healthcare
+18,SDC,"SmileDirectClub, Inc. Class A Common Stock",Healthcare
+19,OSSFF,Ossur HF,Healthcare
+0,VIE,"Viela Bio, Inc. Common Stock",Healthcare
+1,SWPIF,Sawai Pharm Co,Healthcare
+2,QURE,uniQure N.V. Ordinary Shares,Healthcare
+3,INSM,"Insmed, Inc. Common Stock",Healthcare
+4,LJUIF,SSY Group Ltd,Healthcare
+5,NVST,Envista Holdings Corporation Common Stock,Healthcare
+6,NVAX,"Novavax, Inc. Common Stock",Healthcare
+7,TARO,Taro Pharmaceutical Industries Ltd. Ordinary Shares,Healthcare
+8,KOD,Kodiak Sciences Inc Common Stock,Healthcare
+9,ALKS,Alkermes plc Ordinary Shares,Healthcare
+10,DNLI,Denali Therapeutics Inc. Common Stock,Healthcare
+11,ARNA,"Arena Pharmaceuticals, Inc. Common Stock",Healthcare
+12,APLS,"Apellis Pharmaceuticals, Inc. Common Stock",Healthcare
+13,LIVN,LivaNova PLC Ordinary Shares,Healthcare
+14,TPTX,"Turning Point Therapeutics, Inc. Common Stock",Healthcare
+15,FATE,"Fate Therapeutics, Inc. Common Stock",Healthcare
+16,OPCH,"Option Care Health, Inc. Common Stock",Healthcare
+17,ACHC,"Acadia Healthcare Company, Inc. Common Stock",Healthcare
+18,TGTX,"TG Therapeutics, Inc. Common Stock",Healthcare
+19,MMSI,"Merit Medical Systems, Inc. Common Stock",Healthcare
+0,ALEC,"Alector, Inc. Common Stock",Healthcare
+1,PINC,"Premier, Inc. Class A Common Stock",Healthcare
+2,INO,"Inovio Pharmaceuticals, Inc. Common Stock",Healthcare
+3,PRNB,Principia Biopharma Inc. Common Stock,Healthcare
+4,KRTX,"Karuna Therapeutics, Inc. Common Stock",Healthcare
+5,NVTA,Invitae Corporation Common Stock,Healthcare
+6,ENSG,"The Ensign Group, Inc. Common Stock",Healthcare
+7,INSP,"Inspire Medical Systems, Inc. Common Stock",Healthcare
+8,PBH,Prestige Consumer Healthcare Inc. Common Stock,Healthcare
+9,RVMD,"Revolution Medicines, Inc. Common Stock",Healthcare
+10,TSMRF,Tsumura &amp; Co Ord,Healthcare
+11,BFEHF,Bachem Hldg Ltd Akt B,Healthcare
+12,AUPH,Aurinia Pharmaceuticals Inc Ordinary Shares,Healthcare
+13,ATRC,"AtriCure, Inc. Common Stock",Healthcare
+14,CNMD,CONMED Corporation Common Stock,Healthcare
+15,SAGE,"Sage Therapeutics, Inc. Common Stock",Healthcare
+16,SEM,Select Medical Holdings Corporation Common Stock,Healthcare
+17,NUNZ,Nunzia Pharmaceutical Corp,Healthcare
+18,SGFEF,Siegfried Holding AG (Switzerland),Healthcare
+19,MDGL,"Madrigal Pharmaceuticals, Inc. Common Stock",Healthcare
+0,CNST,"Constellation Pharmaceuticals, Inc. Common Stock",Healthcare
+1,IGMS,"IGM Biosciences, Inc. Common Stock",Healthcare
+2,THC,Tenet Healthcare Corporation Common Stock,Healthcare
+3,XNCR,"Xencor, Inc. Common Stock",Healthcare
+4,EPZM,"Epizyme, Inc. Common Stock",Healthcare
+5,IRWD,"Ironwood Pharmaceuticals, Inc. Class A Common Stock",Healthcare
+6,ARVN,"Arvinas, Inc. Common Stock",Healthcare
+7,OPK,"OPKO Health, Inc. Common Stock",Healthcare
+8,PCRX,"Pacira BioSciences, Inc. Common Stock",Healthcare
+9,PMCUF,Pro Medicus Ltd Ord,Healthcare
+10,TBPH,"Theravance Biopharma, Inc. Ordinary Shares",Healthcare
+11,MGLN,"Magellan Health, Inc. Common Stock",Healthcare
+12,STAA,STAAR Surgical Company Common Stock,Healthcare
+13,ZYME,Zymeworks Inc. Common Shares,Healthcare
+14,GNIIF,GNI Group Ltd,Healthcare
+15,TWST,Twist Bioscience Corporation Common Stock,Healthcare
+16,CRTX,"Cortexyme, Inc. Common Stock",Healthcare
+17,AKBA,"Akebia Therapeutics, Inc. Common Stock",Healthcare
+18,RCUS,"Arcus Biosciences, Inc. Common Stock",Healthcare
+19,CORT,Corcept Therapeutics Incorporated Common Stock,Healthcare
+0,SWTX,"SpringWorks Therapeutics, Inc. Common Stock",Healthcare
+1,DRNA,"Dicerna Pharmaceuticals, Inc. Common Stock",Healthcare
+2,LFCYF,Veloxis Pharms As Ord,Healthcare
+3,LGND,Ligand Pharmaceuticals Incorporated Common Stock,Healthcare
+4,HAWPF,Haw Par Corp. Ltd.,Healthcare
+5,GKOS,Glaukos Corporation Common Stock,Healthcare
+6,QUAIF,QUAIF,Healthcare
+7,TCDA,"Tricida, Inc. Common Stock",Healthcare
+8,LMNX,Luminex Corporation Common Stock,Healthcare
+9,EIDX,"Eidos Therapeutics, Inc. Common Stock",Healthcare
+10,YMAB,"Y-mAbs Therapeutics, Inc. Common Stock",Healthcare
+11,ZGNX,"Zogenix, Inc. Common Stock",Healthcare
+12,AKCA,"Akcea Therapeutics, Inc. Common Stock",Healthcare
+13,NGM,"NGM Biopharmaceuticals, Inc. Common Stock",Healthcare
+14,CYDY,CytoDyn Inc,Healthcare
+15,ITCI,Intra-Cellular Therapies Inc. Common Stock,Healthcare
+16,BDTX,"Black Diamond Therapeutics, Inc. Common Stock",Healthcare
+17,ADVM,"Adverum Biotechnologies, Inc. Common Stock",Healthcare
+18,EDIT,"Editas Medicine, Inc. Common Stock",Healthcare
+19,RGNX,REGENXBIO Inc. Common Stock,Healthcare
+0,BEAT,"BioTelemetry, Inc. Common Stock",Healthcare
+1,SRNE,"Sorrento Therapeutics, Inc.  Common Stock",Healthcare
+2,SGMO,"Sangamo Therapeutics, Inc. Common Stock",Healthcare
+3,INVA,"Innoviva, Inc. Common Stock",Healthcare
+4,AXNX,"Axonics Modulation Technologies, Inc. Common Stock",Healthcare
+5,PTLA,"Portola Pharmaceuticals, Inc. Common Stock",Healthcare
+6,SHHPF,Ship Healthcare Holdings Inc,Healthcare
+7,KPTI,Karyopharm Therapeutics Inc. Common Stock,Healthcare
+8,BVNRY,Bavarian Nordic A/S ADR (Sponsored),Healthcare
+9,MRCHF,Miraca Holdings Inc Ord,Healthcare
+10,CMD,Cantel Medical Corp. Common Stock,Healthcare
+11,HRTX,"Heron Therapeutics, Inc. Common Stock",Healthcare
+12,SWAV,"ShockWave Medical, Inc. Common Stock",Healthcare
+13,TTALF,Terveystalo Oy,Healthcare
+14,PHCRF,Healius Ltd,Healthcare
+15,CDNA,"CareDx, Inc. Common Stock",Healthcare
+16,NNCSF,Nanosonics Ltd Ord,Healthcare
+17,SILK,"Silk Road Medical, Inc. Common Stock",Healthcare
+18,ADUS,Addus HomeCare Corporation Common Stock,Healthcare
+19,QULRY,Qualicorp Consultoria e Corretora de Seguros S.A. - ADR,Healthcare
+0,MEDGF,Medacta Group SA,Healthcare
+1,VCYT,"Veracyte, Inc. Common Stock",Healthcare
+2,CYTK,"Cytokinetics, Incorporated Common Stock",Healthcare
+3,ZEAL,Zealand Pharma A/S American Depositary Shares,Healthcare
+4,MESO,Mesoblast Limited American Depositary Shares,Healthcare
+5,MGNX,"MacroGenics, Inc. Common Stock",Healthcare
+6,NRC,National Research Corporation Common Stock,Healthcare
+7,ESPR,"Esperion Therapeutics, Inc. Common Stock",Healthcare
+8,AVNS,"Avanos Medical, Inc. Common Stock",Healthcare
+9,PHMMF,Pharma Mar SA,Healthcare
+10,ZNTL,"Zentalis Pharmaceuticals, Inc. Common Stock",Healthcare
+11,AMRX,"Amneal Pharmaceuticals, Inc. Class A Common Stock",Healthcare
+12,SUPN,"Supernus Pharmaceuticals, Inc. Common Stock",Healthcare
+13,CSII,"Cardiovascular Systems, Inc. Common Stock",Healthcare
+14,RAFLF,Raffles Medical Group Ltd,Healthcare
+15,KARBF,Karo Pharma Aktiebolag,Healthcare
+16,KNSA,"Kiniksa Pharmaceuticals, Ltd. Class A Common Stock",Healthcare
+17,PLHNF,Paul Hartmann AG Heidenhein An Der Brenz,Healthcare
+18,CHRS,"Coherus BioSciences, Inc. Common Stock",Healthcare
+19,NSTG,"NanoString Technologies, Inc. Common Stock",Healthcare
+0,ATRI,Atrion Corporation Common Stock,Healthcare
+1,SMGRF,Summerset Group Holdings Ltd,Healthcare
+2,MD,"Mednax, Inc. Common Stock",Healthcare
+3,PHAT,"Phathom Pharmaceuticals, Inc. Common Stock",Healthcare
+4,ENTA,"Enanta Pharmaceuticals, Inc. Common Stock",Healthcare
+5,BEAM,Beam Therapeutics Inc. Common Stock,Healthcare
+6,RVNC,"Revance Therapeutics, Inc. Common Stock",Healthcare
+7,MYGN,"Myriad Genetics, Inc. Common Stock",Healthcare
+8,MYOV,Myovant Sciences Ltd. Common Shares,Healthcare
+9,RCKT,"Rocket Pharmaceuticals, Inc. Common Stock",Healthcare
+10,IMAB,I-MAB American Depositary Shares,Healthcare
+11,KSPHF,Kissei Pharmaceuticals Co Ltd,Healthcare
+12,CALZF,Calzada Ltd.,Healthcare
+13,AIMT,"Aimmune Therapeutics, Inc. Common Stock",Healthcare
+14,TGRNF,Tong Ren Tang Techs,Healthcare
+15,MLAB,"Mesa Laboratories, Inc. Common Stock",Healthcare
+16,BMLKF,BMLKF,Healthcare
+17,KRYS,"Krystal Biotech, Inc. Common Stock",Healthcare
+18,OSUR,"OraSure Technologies, Inc. Common Stock",Healthcare
+19,TBIO,"Translate Bio, Inc. Common Stock",Healthcare
+0,ORIC,"Oric Pharmaceuticals, Inc. Common Stock",Healthcare
+1,NXTC,"NextCure, Inc. Common Stock",Healthcare
+2,ARQT,"Arcutis Biotherapeutics, Inc. Common Stock",Healthcare
+3,CGEN,Compugen Ltd. Ordinary Shares,Healthcare
+4,PASG,"Passage Bio, Inc. Common Stock",Healthcare
+5,APLT,"Applied Therapeutics, Inc. Common Stock",Healthcare
+6,BTAI,"BioXcel Therapeutics, Inc. Common Stock",Healthcare
+7,TCMD,"Tactile Systems Technology, Inc. Common Stock",Healthcare
+8,GOSS,"Gossamer Bio, Inc. Common Stock",Healthcare
+9,SOLTF,Sosei Co Ltd Ord,Healthcare
+10,GNMLF,Genomma Lab Intl Sab Ord,Healthcare
+11,ORTX,Orchard Therapeutics plc American Depositary Shares,Healthcare
+12,PAHC,Phibro Animal Health Corporation Class A Common Stock,Healthcare
+13,NTLA,"Intellia Therapeutics, Inc. Common Stock",Healthcare
+14,ZLDPF,Zealand Pharma A/S Ord,Healthcare
+15,ODT,"Odonate Therapeutics, Inc. Common Stock",Healthcare
+16,ARCT,Arcturus Therapeutics Holdings Inc. Common Stock,Healthcare
+17,NHC,National HealthCare Corporation Common Stock,Healthcare
+18,JLFNF,Japan Lifeline Co Ltd,Healthcare
+19,CYBQF,Cyberdyne Inc,Healthcare
+0,ENDP,Endo International plc Ordinary Shares,Healthcare
+1,ULIHF,United Labs Intl Hldg Ord,Healthcare
+2,USPH,"U.S. Physical Therapy, Inc. Common Stock",Healthcare
+3,BITGF,Biotage Ab Ord A,Healthcare
+4,ATNX,"Athenex, Inc. Common Stock",Healthcare
+5,CERS,Cerus Corporation Common Stock,Healthcare
+6,PHGUF,Pharming Group Nv Ord,Healthcare
+7,AMPH,"Amphastar Pharmaceuticals, Inc. Common Stock",Healthcare
+8,CRY,"CryoLife, Inc. Common Stock",Healthcare
+9,MEOBF,Mesoblast Ltd Ord,Healthcare
+10,INGN,"Inogen, Inc Common Stock",Healthcare
+11,KIDS,OrthoPediatrics Corp. Common Stock,Healthcare
+12,CLLS,Cellectis S.A. American Depositary Shares,Healthcare
+13,STOK,"Stoke Therapeutics, Inc. Common Stock",Healthcare
+14,RYTM,"Rhythm Pharmaceuticals, Inc. Common Stock",Healthcare
+15,BCRX,"BioCryst Pharmaceuticals, Inc. Common Stock",Healthcare
+16,GNMK,"GenMark Diagnostics, Inc. Common Stock",Healthcare
+17,TOPCF,Topcon Corp,Healthcare
+18,INMD,InMode Ltd. Ordinary Shares,Healthcare
+19,BRBR,"BellRing Brands, Inc. Class A Common Stock",Healthcare
+0,IMGN,"ImmunoGen, Inc. Common Stock",Healthcare
+1,BGAIF,BioGaia AB (Sweden),Healthcare
+2,OMER,Omeros Corporation Common Stock,Healthcare
+3,APRE,"Aprea Therapeutics, Inc. Common stock",Healthcare
+4,SNDX,"Syndax Pharmaceuticals, Inc. Common Stock",Healthcare
+5,COLL,"Collegium Pharmaceutical, Inc. Common Stock",Healthcare
+6,RDNT,"RadNet, Inc. Common Stock",Healthcare
+7,CLVS,"Clovis Oncology, Inc. Common Stock",Healthcare
+8,CUE,"Cue Biopharma, Inc. Common Stock",Healthcare
+9,REPL,"Replimune Group, Inc. Common Stock",Healthcare
+10,OXBDF,Oxford BioMedica,Healthcare
+11,GUERF,Guerbet SA,Healthcare
+12,MTEM,"Molecular Templates, Inc. Common Stock",Healthcare
+13,PETQ,"PetIQ, Inc. Class A Common Stock",Healthcare
+14,NTUS,Natus Medical Incorporated Common Stock,Healthcare
+15,EGRX,"Eagle Pharmaceuticals, Inc. Common Stock",Healthcare
+16,QTRX,Quanterix Corporation Common Stock,Healthcare
+17,KHTRF,Knight Therapeutics Inc ,Healthcare
+18,TRXPF,Torii Pharm Co Ltd Ord,Healthcare
+19,VIVO,Meridian Bioscience Inc. Common Stock,Healthcare
+0,CARA,"Cara Therapeutics, Inc. Common Stock",Healthcare
+1,ZYXI,"Zynex, Inc. Common Stock",Healthcare
+2,KURA,"Kura Oncology, Inc. Common Stock",Healthcare
+3,AERI,"Aerie Pharmaceuticals, Inc. Common Stock",Healthcare
+4,ASMB,"Assembly Biosciences, Inc. Common Stock",Healthcare
+5,SNBIF,SanBio Co Ltd,Healthcare
+6,VREX,Varex Imaging Corporation Common Stock,Healthcare
+7,KDMN,"Kadmon Holdings, Inc. Common Stock",Healthcare
+8,HSKA,Heska Corporation Common Stock,Healthcare
+9,RLMD,"Relmada Therapeutics, Inc. Common Stock",Healthcare
+10,VCEL,Vericel Corporation Common Stock,Healthcare
+11,KALA,"Kala Pharmaceuticals, Inc. Common Stock",Healthcare
+12,CLVLF,Clinuvel Pharms Ord,Healthcare
+13,CAMRF,Camurus AB,Healthcare
+14,RTRX,"Retrophin, Inc. Common Stock",Healthcare
+15,ARDX,"Ardelyx, Inc. Common Stock",Healthcare
+16,AKRO,"Akero Therapeutics, Inc. Common Stock",Healthcare
+17,BLU,BELLUS Health Inc. Common Shares,Healthcare
+18,CKDXF,Opthea Ltd,Healthcare
+19,CRNX,"Crinetics Pharmaceuticals, Inc. Common Stock",Healthcare
+0,OFIX,Orthofix Medical Inc. Common Stock (DE),Healthcare
+1,RCEL,Avita Medical Limited American Depositary Shares,Healthcare
+2,CSTL,"Castle Biosciences, Inc. Common Stock",Healthcare
+3,SVA,"Sinovac Biotech, Ltd. Ordinary Shares",Healthcare
+4,STML,"Stemline Therapeutics, Inc. Common Stock",Healthcare
+5,ATRA,"Atara Biotherapeutics, Inc. Common Stock",Healthcare
+6,PRVB,"Provention Bio, Inc. Common Stock",Healthcare
+7,OYST,"Oyster Point Pharma, Inc. Common Stock",Healthcare
+8,VNDA,Vanda Pharmaceuticals Inc. Common Stock,Healthcare
+9,RDUS,"Radius Health, Inc. Common Stock",Healthcare
+10,CMVLF,Cellectis Romainville Ord,Healthcare
+11,GTHX,"G1 Therapeutics, Inc. Common Stock",Healthcare
+12,FIXX,"Homology Medicines, Inc. Common Stock",Healthcare
+13,ADAP,Adaptimmune Therapeutics plc American Depositary Shares,Healthcare
+14,FREQ,"Frequency Therapeutics, Inc. Common Stock",Healthcare
+15,PNTG,"The Pennant Group, Inc. Common Stock ",Healthcare
+16,APTO,"Aptose Biosciences, Inc. Common Shares",Healthcare
+17,ATHX,"Athersys, Inc. Common Stock",Healthcare
+18,QTNT,Quotient Limited Ordinary Shares,Healthcare
+19,CVM,Cel-Sci Corporation Common Stock,Healthcare
+0,MRSN,"Mersana Therapeutics, Inc. Common Stock",Healthcare
+1,DBVT,DBV Technologies S.A. American Depositary Shares,Healthcare
+2,AMEH,"Apollo Medical Holdings, Inc. Common Stock",Healthcare
+3,ZIOP,ZIOPHARM Oncology Inc Common Stock,Healthcare
+4,HNGR,"Hanger, Inc. Common Stock",Healthcare
+5,LWEL,Luckywel Pharmaceuticals Inc,Healthcare
+6,AUTL,Autolus Therapeutics plc American Depositary Share,Healthcare
+7,IPHYF,Innate Pharma,Healthcare
+8,AVRO,"AVROBIO, Inc. Common Stock",Healthcare
+9,URGN,UroGen Pharma Ltd. Ordinary Shares,Healthcare
+10,VAPO,"Vapotherm, Inc. Common Stock",Healthcare
+11,PACB,"Pacific Biosciences of California, Inc. Common Stock",Healthcare
+12,BKD,Brookdale Senior Living Inc. Common Stock,Healthcare
+13,ACIU,AC Immune SA Common Stock,Healthcare
+14,VKTX,"Viking Therapeutics, Inc. Common Stock",Healthcare
+15,CLHLF,Coltene Holding AG,Healthcare
+16,ANAB,"AnaptysBio, Inc. Common Stock",Healthcare
+17,NLTX,"Neoleukin Therapeutics, Inc. Common Stock",Healthcare
+18,PRVL,Prevail Therapeutics Inc. Common Stock,Healthcare
+19,SRRK,Scholar Rock Holding Corporation Common Stock,Healthcare
+0,MGTX,MeiraGTx Holdings plc Ordinary Shares,Healthcare
+1,SGRY,"Surgery Partners, Inc. Common Stock",Healthcare
+2,NERV,"Minerva Neurosciences, Inc Common Stock",Healthcare
+3,CRBP,"Corbus Pharmaceuticals Holdings, Inc. Common Stock",Healthcare
+4,PBYI,Puma Biotechnology Inc Common Stock,Healthcare
+5,LMAT,"LeMaitre Vascular, Inc. Common Stock",Healthcare
+6,AXDX,"Accelerate Diagnostics, Inc. Common Stock",Healthcare
+7,MLLCF,Molecular Partners AG - Ordinary Shares,Healthcare
+8,TRIL,Trillium Therapeutics Inc. Common Shares,Healthcare
+9,MORF,"Morphic Holding, Inc. Common Stock",Healthcare
+10,DRRX,DURECT Corporation Common Stock,Healthcare
+11,LNTH,"Lantheus Holdings, Inc. Common Stock",Healthcare
+12,BYSI,BeyondSpring Inc. Ordinary Shares,Healthcare
+13,SHPHF,Sihuan Pharm Holdings Gp,Healthcare
+14,IMRA,IMARA Inc. Common Stock,Healthcare
+15,CALA,"Calithera Biosciences, Inc. Common Stock",Healthcare
+16,CPRX,"Catalyst Pharmaceuticals, Inc. Common Stock",Healthcare
+17,AVDL,Avadel Pharmaceuticals plc American Depositary Shares,Healthcare
+18,CODX,"Co-Diagnostics, Inc. Common Stock",Healthcare
+19,PTGX,"Protagonist Therapeutics, Inc. Common Stock",Healthcare
+0,SRDX,"Surmodics, Inc. Common Stock",Healthcare
+1,MAYNF,Mayne Pharma Ord,Healthcare
+2,XENE,Xenon Pharmaceuticals Inc. Common Shares,Healthcare
+3,SIGA,SIGA Technologies Inc. Common Stock,Healthcare
+4,RUBY,"Rubius Therapeutics, Inc. Common Stock",Healthcare
+5,PRTA,Prothena Corporation plc Ordinary Shares,Healthcare
+6,SIBN,"SI-BONE, Inc. Common Stock",Healthcare
+7,VYGR,"Voyager Therapeutics, Inc. Common Stock",Healthcare
+8,MIRM,"Mirum Pharmaceuticals, Inc. Common Stock",Healthcare
+9,VBIV,"VBI Vaccines, Inc. New Common Stock (Canada)",Healthcare
+10,BDSI,"BioDelivery Sciences International, Inc. Common Stock",Healthcare
+11,PGEN,"Precigen, Inc. Common Stock",Healthcare
+12,SYRS,"Syros Pharmaceuticals, Inc. Common Stock",Healthcare
+13,ABSCF,Ab Science Paris Ord,Healthcare
+14,NK,"NantKwest, Inc. Common Stock",Healthcare
+15,ANIK,Anika Therapeutics Inc. Common Stock,Healthcare
+16,MRUS,Merus N.V. Common Shares,Healthcare
+17,ATRS,"Antares Pharma, Inc. Common Stock",Healthcare
+18,BSTC,BioSpecifics Technologies Corp. Common Stock,Healthcare
+19,DVAX,Dynavax Technologies Corporation Common Stock,Healthcare
+0,TVTY,"Tivity Health, Inc. Common Stock",Healthcare
+1,INVVY,Indivior PLC ADR (Sponsored),Healthcare
+2,CTMX,"CytomX Therapeutics, Inc. Common Stock",Healthcare
+3,XBIT,XBiotech Inc. Common Stock,Healthcare
+4,FHAI,Fountain Healthy Aging,Healthcare
+5,KRMD,"Repro Med Systems, Inc. Common Stock",Healthcare
+6,AGEN,Agenus Inc. Common Stock,Healthcare
+7,DTIL,"Precision BioSciences, Inc. Common Stock",Healthcare
+8,MDXG,MiMedx Group Inc,Healthcare
+9,GTS,Triple-S Management Corporation Class B Common Stock,Healthcare
+10,FULC,"Fulcrum Therapeutics, Inc. Common Stock",Healthcare
+11,STSA,"Satsuma Pharmaceuticals, Inc. Common Stock",Healthcare
+12,ALBO,"Albireo Pharma, Inc. Common Stock",Healthcare
+13,ESTA,Establishment Labs Holdings Inc. Common Shares,Healthcare
+14,ANIP,"ANI Pharmaceuticals, Inc.",Healthcare
+15,ETNB,"89bio, Inc. Common Stock",Healthcare
+16,RAPT,"RAPT Therapeutics, Inc. Common Stock",Healthcare
+17,OZYMF,Orphazyme A S,Healthcare
+18,ANGO,"AngioDynamics, Inc. Common Stock",Healthcare
+19,CPPSF,Cassiopea SpA,Healthcare
+0,CTSO,Cytosorbents Corporation Common Stock,Healthcare
+1,SPPI,"Spectrum Pharmaceuticals, Inc.Common Stock",Healthcare
+2,PDLI,"PDL BioPharma, Inc. Common Stock",Healthcare
+3,XENT,"Intersect ENT, Inc. Common Stock",Healthcare
+4,OCUL,"Ocular Therapeutix, Inc. Common Stock",Healthcare
+5,WVE,Wave Life Sciences Ltd. Ordinary Shares,Healthcare
+6,CATS,"Catasys, Inc. Common Stock",Healthcare
+7,HARP,"Harpoon Therapeutics, Inc. Common Stock",Healthcare
+8,IMMVF,Immunovia AB,Healthcare
+9,PSNL,"Personalis, Inc. Common Stock",Healthcare
+10,FLGT,"Fulgent Genetics, Inc. Common Stock",Healthcare
+11,EMIS,Emisphere Technologies Inc.,Healthcare
+12,GERN,Geron Corporation Common Stock,Healthcare
+13,MGTA,"Magenta Therapeutics, Inc. Common Stock",Healthcare
+14,UBX,"Unity Biotechnology, Inc. Common Stock",Healthcare
+15,FLDM,Fluidigm Corporation Common Stock,Healthcare
+16,MCRB,"Seres Therapeutics, Inc. Common Stock",Healthcare
+17,KMDA,Kamada Ltd. Ordinary Shares,Healthcare
+18,FLXN,"Flexion Therapeutics, Inc. Common Stock",Healthcare
+19,CYH,"Community Health Systems, Inc. Common Stock",Healthcare
+0,PGNX,Progenics Pharmaceuticals Inc. Common Stock,Healthcare
+1,CO,Global Cord Blood Corporation Common Stock,Healthcare
+2,AXGN,"Axogen, Inc. Common Stock",Healthcare
+3,TXMD,"TherapeuticsMD, Inc. Common Stock",Healthcare
+4,AGLE,"Aeglea BioTherapeutics, Inc. Common Stock",Healthcare
+5,BLFS,"BioLife Solutions, Inc. Common Stock",Healthcare
+6,CDMO,"Avid Bioservices, Inc. Common Stock",Healthcare
+7,UTMD,"Utah Medical Products, Inc. Common Stock",Healthcare
+8,TMDX,"TransMedics Group, Inc. Common Stock",Healthcare
+9,MEIP,"MEI Pharma, Inc. Common Stock",Healthcare
+10,QUTEF,Lumibird - Ordinary Shares,Healthcare
+11,EIGR,"Eiger BioPharmaceuticals, Inc. Common Stock",Healthcare
+12,OXFD,Oxford Immunotec Global PLC Ordinary Shares,Healthcare
+13,VMD,"Viemed Healthcare, Inc. Common Shares",Healthcare
+14,RIGL,"Rigel Pharmaceuticals, Inc. Common Stock",Healthcare
+15,OASMY,Oasmia Pharmaceutical AB - ADR,Healthcare
+16,BSGM,"BioSig Technologies, Inc. Common Stock",Healthcare
+17,PBBIF,Probi AB,Healthcare
+18,SPNE,SeaSpine Holdings Corporation Common Stock,Healthcare
+19,SELB,"Selecta Biosciences, Inc. Common Stock",Healthcare
+0,VSTM,"Verastem, Inc. Common Stock",Healthcare
+1,CBMG,"Cellular Biomedicine Group, Inc. Common Stock",Healthcare
+2,CBAY,CymaBay Therapeutics Inc. Common Stock,Healthcare
+3,HQDA,HQDA Elderly Life Network Corp - Ordinary Shares,Healthcare
+4,PRQR,ProQR Therapeutics N.V. Ordinary Shares,Healthcare
+5,VRAY,"ViewRay, Inc. Common Stock",Healthcare
+6,GRTX,"Galera Therapeutics, Inc. Common Stock",Healthcare
+7,LCI,Lannett Co Inc Common Stock,Healthcare
+8,SMLR,Semler Scientific Inc.,Healthcare
+9,XVIPF,Xvivo Perfusion Ab Ord,Healthcare
+10,BCYC,Bicycle Therapeutics plc American Depositary Shares,Healthcare
+11,ATEC,"Alphatec Holdings, Inc. Common Stock",Healthcare
+12,VRCA,Verrica Pharmaceuticals Inc. Common Stock,Healthcare
+13,MNK,Mallinckrodt plc Ordinary Shares,Healthcare
+14,UROV,Urovant Sciences Ltd. Common Stock,Healthcare
+15,VERU,Veru Inc. Common Stock,Healthcare
+16,EVFM,"Evofem Biosciences, Inc. Common Stock",Healthcare
+17,MNKD,MannKind Corporation Common Stock,Healthcare
+18,VRML,"Vermillion, Inc. Common Stock",Healthcare
+19,ABEO,Abeona Therapeutics Inc. Common Stock,Healthcare
+0,IRMD,iRadimed Corporation Common Stock,Healthcare
+1,CNCE,"Concert Pharmaceuticals, Inc. Common Stock",Healthcare
+2,PSTI,"Pluristem Therapeutics, Inc. Common Stock",Healthcare
+3,SPRO,"Spero Therapeutics, Inc. Common Stock",Healthcare
+4,GRTS,"Gritstone Oncology, Inc. Common Stock",Healthcare
+5,CEMI,"Chembio Diagnostics, Inc. Common Stock",Healthcare
+6,MNOV,Medicinova Inc Common Stock,Healthcare
+7,IMSU,Kavtek Software Corp - Ordinary Shares,Healthcare
+8,NEPT,Neptune Wellness Solutions Inc. Ordinary Shares,Healthcare
+9,HOOK,HOOKIPA Pharma Inc. Common Stock,Healthcare
+10,ADRO,"Aduro Biotech, Inc. Common Stock",Healthcare
+11,OSMT,Osmotica Pharmaceuticals plc Ordinary Shares,Healthcare
+12,STXS,"Stereotaxis, Inc. Common Stock",Healthcare
+13,RDHL,Redhill Biopharma Ltd. American Depositary Shares,Healthcare
+14,REDIF,Redhill Biopharma Ltd Ord,Healthcare
+15,AMAG,"AMAG Pharmaceuticals, Inc. Common Stock",Healthcare
+16,MNLO,Menlo Therapeutics Inc. Common Stock,Healthcare
+17,CMICF,Cmic Co Ltd,Healthcare
+18,ADMA,ADMA Biologics Inc Common Stock,Healthcare
+19,PLSE,"Pulse Biosciences, Inc Common Stock (DE)",Healthcare
+0,AGRX,"Agile Therapeutics, Inc. Common Stock",Healthcare
+1,OVID,Ovid Therapeutics Inc. Common Stock,Healthcare
+2,PFNX,Pfenex Inc. Common Stock,Healthcare
+3,GNFT,GENFIT S.A. American Depositary Shares,Healthcare
+4,INFU,"InfuSystems Holdings, Inc. Common Stock",Healthcare
+5,CHMA,"Chiasma, Inc. Common Stock",Healthcare
+6,SMMT,Summit Therapeutics plc American Depositary Shares,Healthcare
+7,SCPH,scPharmaceuticals Inc. Common Stock,Healthcare
+8,NRBO,"NeuroBo Pharmaceuticals, Inc. Common Stock",Healthcare
+9,TLPPF,Telix Pharmaceuticals Ltd,Healthcare
+10,NYMX,Nymox Pharmaceutical Corporation Common Stock (Bahamas),Healthcare
+11,TCRR,TCR2 Therapeutics Inc. Common Stock,Healthcare
+12,GNFTF,Genfit Ord,Healthcare
+13,CUTR,"Cutera, Inc. Common Stock",Healthcare
+14,GMDA,Gamida Cell Ltd. Ordinary Shares,Healthcare
+15,XOMA,XOMA Corporation Common Stock,Healthcare
+16,FBIO,"Fortress Biotech, Inc. Common Stock",Healthcare
+17,ARA,"American Renal Associates Holdings, Inc Common Stock",Healthcare
+18,STRO,"Sutro Biopharma, Inc. Common Stock",Healthcare
+19,LQDA,"Liquidia Technologies, Inc. Common Stock",Healthcare
+0,VXRT,"Vaxart, Inc Common Stock",Healthcare
+1,LFVN,Lifevantage Corporation Common Stock (Delaware),Healthcare
+2,SPHRF,Starpharma Holdings Ltd,Healthcare
+3,AVXL,Anavex Life Sciences Corp. Common Stock,Healthcare
+4,GMDTF,Golden Meditech Holdings Ltd.,Healthcare
+5,APT,"Alpha Pro Tech, Ltd. Common Stock",Healthcare
+6,IVC,Invacare Corporation Common Stock,Healthcare
+7,VTVT,vTv Therapeutics Inc. Class A Common Stock,Healthcare
+8,LXRX,"Lexicon Pharmaceuticals, Inc. Common Stock",Healthcare
+9,ARAV,"Aravive, Inc. Common Stock",Healthcare
+10,KLDO,"Kaleido Biosciences, Inc. Common Stock",Healthcare
+11,MRNS,"Marinus Pharmaceuticals, Inc. Common Stock",Healthcare
+12,ORXOF,Orexo AB,Healthcare
+13,KZR,"Kezar Life Sciences, Inc. Common Stock",Healthcare
+14,CMRX,"Chimerix, Inc. Common Stock",Healthcare
+15,IFRX,InflaRx N.V. Common Stock,Healthcare
+16,ITMR,Itamar Medical Ltd. American Depository Shares,Healthcare
+17,OCX,OncoCyte Corporation Common Stock,Healthcare
+18,PBIGF,Paradigm Biopharmaceuticals Ltd,Healthcare
+19,VPAHF,Volpara Health Technologies Ltd,Healthcare
+0,CASI,"CASI Pharmaceuticals, Inc. Common Stock",Healthcare
+1,KIN,"Kindred Biosciences, Inc. Common Stock",Healthcare
+2,MSON,"MISONIX, Inc. Common Stock (DE)",Healthcare
+3,AIH,Aesthetic Medical International Holdings Group Ltd. American Depositary Shares,Healthcare
+4,LJPC,La Jolla Pharmaceutical Company Common Stock,Healthcare
+5,AYLA,"Ayala Pharmaceuticals, Inc. Common Stock",Healthcare
+6,FENC,Fennec Pharmaceuticals Inc. Common Stock,Healthcare
+7,PRTK,"Paratek Pharmaceuticals, Inc. Common Stock",Healthcare
+8,TLC,"Taiwan Liposome Company, Ltd. American Depository Shares",Healthcare
+9,AQST,"Aquestive Therapeutics, Inc. Common Stock",Healthcare
+10,TYME,"Tyme Technologies, Inc. Common Stock",Healthcare
+11,LYRA,"Lyra Therapeutics, Inc. Common Stock",Healthcare
+12,LMNL,Liminal BioSciences Inc. Common Shares,Healthcare
+13,KALV,"KalVista Pharmaceuticals, Inc. Common Stock",Healthcare
+14,NBSE,"NeuBase Therapeutics, Inc.  Common Stock",Healthcare
+15,AFMD,Affimed N.V.,Healthcare
+16,TLSA,Tiziana Life Sciences plc American Depository Share,Healthcare
+17,NCNA,NuCana plc American Depositary Share,Healthcare
+18,OPTN,"OptiNose, Inc. Common Stock",Healthcare
+19,XGN,Exagen Inc. Common Stock,Healthcare
+0,ARAY,Accuray Incorporated Common Stock,Healthcare
+1,ELVAF,Evolva Holding Ag,Healthcare
+2,SLGL,Sol-Gel Technologies Ltd. Ordinary Shares,Healthcare
+3,JYNT,The Joint Corp. Common Stock,Healthcare
+4,BVXV,BiondVax Pharmaceuticals Ltd. American Depositary Shares,Healthcare
+5,CLYYF,Celyad SA,Healthcare
+6,CABA,"Cabaletta Bio, Inc. Common Stock",Healthcare
+7,RVP,"Retractable Technologies, Inc. Common Stock",Healthcare
+8,OBSV,ObsEva SA Ordinary Shares,Healthcare
+9,DYAI,"Dyadic International, Inc. Common Stock",Healthcare
+10,PHCUF,Photocure ASA - Ordinary Shares,Healthcare
+11,APTX,Aptinyx Inc. Common Stock,Healthcare
+12,ATXI,"Avenue Therapeutics, Inc. Common Stock",Healthcare
+13,GALT,Galectin Therapeutics Inc. Common Stock,Healthcare
+14,ORGS,Orgenesis Inc. Common Stock,Healthcare
+15,THTX,Theratechnologies Inc. Common Shares,Healthcare
+16,IDYA,"IDEAYA Biosciences, Inc. Common Stock",Healthcare
+17,RTIX,"RTI Surgical Holdings, Inc. Common Stock",Healthcare
+18,CXRXF,Advanz Pharma Corp Ltd - Ordinary Shares (Limited Voting),Healthcare
+19,JNCE,"Jounce Therapeutics, Inc. Common Stock",Healthcare
+0,BCLI,Brainstorm Cell Therapeutics Inc. Common Stock,Healthcare
+1,BNIGF,Beroni Group Ltd,Healthcare
+2,SBBP,Strongbridge Biopharma plc Ordinary Shares,Healthcare
+3,ISEE,"IVERIC bio, Inc. Common Stock",Healthcare
+4,BDABF,Boule Diagnostics AB,Healthcare
+5,IBIO,"iBio, Inc. Common Stock",Healthcare
+6,MTNB,"Matinas Biopharma Holdings, Inc. Common Stock",Healthcare
+7,VNRX,VolitionRX Limited Common Stock,Healthcare
+8,SOLY,"Soliton, Inc. Common Stock",Healthcare
+9,SLNO,"Soleno Therapeutics, Inc. Common Stock",Healthcare
+10,FPRX,"Five Prime Therapeutics, Inc. Common Stock",Healthcare
+11,ABUS,Arbutus Biopharma Corporation Common Stock,Healthcare
+12,CBIXF,Carna Biosciences Inc. - Ordinary Shares,Healthcare
+13,XFOR,"X4 Pharmaceuticals, Inc. Common Stock",Healthcare
+14,PIRS,"Pieris Pharmaceuticals, Inc. Common Stock",Healthcare
+15,XERS,"Xeris Pharmaceuticals, Inc. Common Stock",Healthcare
+16,LOGC,"LogicBio Therapeutics, Inc. Common Stock",Healthcare
+17,ITMMF,Itamar Medical Ltd Ord,Healthcare
+18,EVLO,"Evelo Biosciences, Inc. Common Stock",Healthcare
+19,CERC,Cerecor Inc. Common Stock,Healthcare
+0,TARA,"Protara Therapeutics, Inc.  Common Stock",Healthcare
+1,NMRD,"Nemaura Medical, Inc. Common Stock",Healthcare
+2,RMTI,"Rockwell Medical, Inc. (DE) Common Stock",Healthcare
+3,AVEO,"AVEO Pharmaceuticals, Inc. Common Stock",Healthcare
+4,ATBPF,Antibe Therapeutics,Healthcare
+5,SIEN,"Sientra, Inc. Common Stock",Healthcare
+6,ERYP,Erytech Pharma S.A. American Depositary Shares,Healthcare
+7,ACBM,Acro Biomedical Co Ltd,Healthcare
+8,IMV,IMV Inc. Common Shares,Healthcare
+9,LCTX,"Lineage Cell Therapeutics, Inc. Common Stock",Healthcare
+10,GLYC,"GlycoMimetics, Inc. Common Stock",Healthcare
+11,BFRA,Biofrontera AG American Depositary Shares,Healthcare
+12,TELA,"TELA Bio, Inc. Common Stock",Healthcare
+13,ALDX,"Aldeyra Therapeutics, Inc. Common Stock",Healthcare
+14,NWPHF,Newron Pharms Spa Ord,Healthcare
+15,SLDB,Solid Biosciences Inc. Common Stock,Healthcare
+16,WINTD,Windtree Therapeutics Inc.,Healthcare
+17,FONR,Fonar Corporation Common Stock,Healthcare
+18,ENZ,"Enzo Biochem, Inc. Common Stock ($0.01 Par Value)",Healthcare
+19,CRHM,CRH Medical Corporation Common Shares of Beneficial Interest,Healthcare
+0,DMTRF,3-D Matrix Ltd,Healthcare
+1,EOLS,"Evolus, Inc. Common Stock",Healthcare
+2,IMUX,"Immunic, Inc. Common Stock",Healthcare
+3,SRRA,"Sierra Oncology, Inc. Common Stock",Healthcare
+4,AXGT,Axovant Gene Therapies Ltd. Common Shares,Healthcare
+5,AVCO,Avalon GloboCare Corp. Common Stock,Healthcare
+6,ALIOF,ALIOF,Healthcare
+7,APYX,Apyx Medical Corporation Common Stock,Healthcare
+8,BBLG,Bone Biologics Corp,Healthcare
+9,PHAS,"PhaseBio Pharmaceuticals, Inc. Common Stock",Healthcare
+10,CDTX,"Cidara Therapeutics, Inc. Common Stock",Healthcare
+11,RCAR,Renovacare Inc,Healthcare
+12,SVRA,Savara Inc. Common Stock,Healthcare
+13,CYAD,Celyad SA American Depositary Shares,Healthcare
+14,SYNMF,Synthetic MR AB,Healthcare
+15,IRCLF,Intercure Ltd,Healthcare
+16,MBIO,"Mustang Bio, Inc. Common Stock",Healthcare
+17,NXSCF,Next Science Ltd,Healthcare
+18,ELMD,"Electromed, Inc. Common Stock",Healthcare
+19,ACRX,"AcelRx Pharmaceuticals, Inc. Common Stock",Healthcare
+0,TRVN,"Trevena, Inc. Common Stock",Healthcare
+1,NWBO,Northwest Biotherapeutics Inc.,Healthcare
+2,CWBR,"CohBar, Inc. Common Stock",Healthcare
+3,CATB,"Catabasis Pharmaceuticals, Inc. Common Stock",Healthcare
+4,CSBR,"Champions Oncology, Inc. Common Stock",Healthcare
+5,KBBTF,Kubota Pharmaceutical Holdings Co Ltd,Healthcare
+6,CBIO,"Catalyst Biosciences, Inc. Common Stock",Healthcare
+7,GLMD,Galmed Pharmaceuticals Ltd. Ordinary Shares,Healthcare
+8,KDEVF,Karolinska Development AB,Healthcare
+9,CLSD,"Clearside Biomedical, Inc. Common Stock",Healthcare
+10,HROW,"Harrow Health, Inc. Common Stock",Healthcare
+11,CYCN,"Cyclerion Therapeutics, Inc. Common Stock",Healthcare
+12,GNPX,"Genprex, Inc. Common Stock",Healthcare
+13,BRRGF,Brent Resources Group Ltd,Healthcare
+14,COOSF,Carbios SA,Healthcare
+15,EDTXF,Spectral Medical Inc,Healthcare
+16,AGTC,Applied Genetic Technologies Corporation Common Stock,Healthcare
+17,XXII,"22nd Century Group, Inc. Common Stock",Healthcare
+18,IVIXF,Invion Ltd Ord,Healthcare
+19,FVE,Five Star Senior Living Inc. Common Stock,Healthcare
+0,BLPH,"Bellerophon Therapeutics, Inc. Common Stock",Healthcare
+1,CRMD,CorMedix Inc. Common Stock,Healthcare
+2,PTN,"Palatin Technologies, Inc. Common Stock",Healthcare
+3,REPH,"Recro Pharma, Inc. Common Stock",Healthcare
+4,NURPF,Neuren Pharms Ltd Ord,Healthcare
+5,ELOX,"Eloxx Pharmaceuticals, Inc. Common Stock",Healthcare
+6,PAVM,PAVmed Inc. Common Stock,Healthcare
+7,IIN,Intricon Corporation Common Stock,Healthcare
+8,CKPT,"Checkpoint Therapeutics, Inc. Common Stock",Healthcare
+9,ZYNE,"Zynerba Pharmaceuticals, Inc. Common Stock",Healthcare

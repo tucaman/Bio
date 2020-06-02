@@ -1,0 +1,1532 @@
+,ticker,company_name,NASDAQ_sector
+0,BRK/B,Berkshire Hathaway Inc.,Financial
+1,BRK/A,Berkshire Hathaway Inc.,Financial
+2,V,Visa Inc.,Financial
+3,MA,Mastercard Incorporated Common Stock,Financial
+4,JPM,JP Morgan Chase &amp; Co. Common Stock,Financial
+5,IDCBF,Industrial &amp; Coml Bk H Sh,Financial
+6,IDCBY,Industrial and Commercial Bank of China Ltd ADR,Financial
+7,CICHF,China Construction Bank Corp,Financial
+8,BAC,Bank of America Corporation Common Stock,Financial
+9,PIAIF,Ping An Insurance (Group) Co of China Ltd.,Financial
+10,ACGBF,Agricultural Bank of China,Financial
+11,CIHHF,China Merchants Bank Co Ltd,Financial
+12,BACHY,Bank of China Ltd ADR,Financial
+13,BACHF,Bank of China Ltd,Financial
+14,AAGIY,AIA Group Ltd. ADR (Sponsored),Financial
+15,AAIGF,AIA Group Ltd.,Financial
+16,AMT,American Tower Corporation (REIT) Common Stock,Financial
+17,HSBC,"HSBC Holdings, plc. Common Stock",Financial
+18,WFC,Wells Fargo &amp; Company Common Stock,Financial
+19,C,"Citigroup, Inc. Common Stock",Financial
+0,RY,Royal Bank Of Canada Common Stock,Financial
+1,BLK,"BlackRock, Inc. Common Stock",Financial
+2,TD,Toronto Dominion Bank (The) Common Stock,Financial
+3,CMWAY,Commonwealth Bank of Australia ADR (Sponsored),Financial
+4,HDB,HDFC Bank Limited Common Stock,Financial
+5,AXP,American Express Company Common Stock,Financial
+6,AKSJF,Sberbank of Russia. - Ordinary Shares,Financial
+7,CME,CME Group Inc. Class A Common Stock,Financial
+8,CCI,Crown Castle International Corp. (REIT) Common Stock,Financial
+9,PLD,"Prologis, Inc. Common Stock",Financial
+10,BX,The Blackstone Group Inc. Class A Common Stock,Financial
+11,GS,"Goldman Sachs Group, Inc. (The) Common Stock",Financial
+12,MS,Morgan Stanley Common Stock,Financial
+13,EQIX,"Equinix, Inc. Common Stock REIT",Financial
+14,CILJF,China Life Insurance Co Ltd,Financial
+15,SBRCY,Sberbank of Russia. - ADR,Financial
+16,LFC,China Life Insurance Company Limited American Depositary Shares,Financial
+17,MMC,"Marsh &amp; McLennan Companies, Inc. Common Stock",Financial
+18,MBFJF,Mitsubishi UFJ Financial Group Inc,Financial
+19,ICE,Intercontinental Exchange Inc. Common Stock,Financial
+0,VZHGF,VZ Holding Ag Zuerich,Financial
+1,MUFG,"Mitsubishi UFJ Financial Group, Inc. Common Stock",Financial
+2,BAM,Brookfield Asset Management Inc. Common Stock,Financial
+3,USB,U.S. Bancorp Common Stock,Financial
+4,CB,Chubb Limited  Common Stock,Financial
+5,PGR,Progressive Corporation (The) Common Stock,Financial
+6,AON,Aon plc Class A Ordinary Shares (Ireland),Financial
+7,PBCRF,P.T. Bank Central Asia,Financial
+8,BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,Financial
+9,TFC,Truist Financial Corporation Common Stock,Financial
+10,ZURVY,Zurich Insurance Group Ltd ADR (Sponsored),Financial
+11,SCHW,Charles Schwab Corporation (The) Common Stock,Financial
+12,ZFSVF,Zurich Ins Group Ord,Financial
+13,PNC,"PNC Financial Services Group, Inc. (The) Common Stock",Financial
+14,HKXCY,Hong Kong Exchanges &amp; Clearing Ltd. ADR,Financial
+15,BKFCF,Bank of Communications Co. Ltd.,Financial
+16,HKXCF,Hong Kong Exchanges &amp; Clearing Ltd.,Financial
+17,MIUFF,MIUFF,Financial
+18,SUHJF,Sun Hung Kai Properties Ltd,Financial
+19,AXAHY,AXA S.A. ADR (Sponsored),Financial
+0,LBSI,Liberty Bancshares Inc (OH) CDT-CAP STK,Financial
+1,CHVKF,China Vanke Co Ltd,Financial
+2,ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares),Financial
+3,CAOVF,China Overseas Ld &amp; Inv Ltd,Financial
+4,BNPQY,BNP Paribas (France) ADR (Sponsored) repr 1/4 Shs,Financial
+5,WBK,Westpac Banking Corporation Common Stock,Financial
+6,SMFNF,Sumitomo Mitsui Financial Group Inc Tokyo,Financial
+7,DLR,"Digital Realty Trust, Inc. Common Stock",Financial
+8,NAUBF,National Australia Bank Ltd.,Financial
+9,DBSDY,DBS Group Holdings Ltd. ADR (Sponsored),Financial
+10,SMFG,Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan),Financial
+11,DBSDF,DBS Group Holdings Ltd.,Financial
+12,WEBNF,Westpac Banking Corp,Financial
+13,PUK,Prudential Public Limited Company Common Stock,Financial
+14,UBS,UBS Group AG Registered Ordinary Shares,Financial
+15,TKOMF,Tokio Marine Holdings Inc,Financial
+16,SAN,"Banco Santander, S.A. Sponsored ADR (Spain)",Financial
+17,BNKHF,Boc Hong Kong Holdings Ltd,Financial
+18,JPSTF,Japan Post Bank Co Ltd,Financial
+19,HSNGF,Hang Seng Bank Ltd.,Financial
+0,SBAC,SBA Communications Corporation Class A Common Stock,Financial
+1,NABZY,National Australia Bank Ltd. ADR (Sponsored),Financial
+2,CGMBF,China Minsheng Banking Corp Ltd,Financial
+3,PSA,Public Storage Common Stock,Financial
+4,JPHLF,Japan Post Holdings Co Ltd,Financial
+5,PCSO,Protective Cap Strctures,Financial
+6,LNGPF,Longfor Group Holdings Ltd,Financial
+7,ALL,Allstate Corporation (The) Common Stock,Financial
+8,MZHOF,Mizuho Financial Group Inc,Financial
+9,BSBR,"Banco Santander Brasil SA American Depositary Shares, each representing one unit",Financial
+10,CRBJF,China Resources Land Ltd,Financial
+11,TKOMY,Tokio Marine Holdings Inc ADR,Financial
+12,MET,"MetLife, Inc. Common Stock",Financial
+13,MFG,"Mizuho Financial Group, Inc. Sponosred ADR (Japan)",Financial
+14,MSCI,MSCI Inc Common Stock,Financial
+15,BK,The Bank of New York Mellon Corporation Common Stock,Financial
+16,BMO,Bank Of Montreal Common Stock,Financial
+17,ANZBY,Australia &amp; New Zealand Banking Group Ltd ADR (Sponsored),Financial
+18,CTRYF,Country Garden Holdings Co. Ltd.,Financial
+19,SCCCF,Sunac China Holdings Ltd,Financial
+0,MURGY,Muenchener Rueckversicherungs-Gesellschaft AG (Germany) ADR,Financial
+1,OVCHF,Overseas Chinese Bk Lcl,Financial
+2,IBN,ICICI Bank Limited Common Stock,Financial
+3,CHPXF,China Pacific Insurance (Group) Co. Ltd.,Financial
+4,ANEWF,Australia &amp; New Zealand Banking Group Ltd,Financial
+5,INFO,IHS Markit Ltd. Common Shares,Financial
+6,EGRNF,China Evergrande Group,Financial
+7,COF,Capital One Financial Corporation Common Stock,Financial
+8,CEBCF,China Everbright Bank Co Ltd,Financial
+9,ISNPY,Intesa Sanpaolo S.P.A. ADR (Sponsored) Repstg Ord Shs,Financial
+10,AKBNF,AKBNF,Financial
+11,BBD,Banco Bradesco Sa American Depositary Shares,Financial
+12,TROW,"T. Rowe Price Group, Inc. Common Stock",Financial
+13,WLTW,Willis Towers Watson Public Limited Company Ordinary Shares,Financial
+14,PINXF,PINXF,Financial
+15,VRSK,"Verisk Analytics, Inc. Common Stock",Financial
+16,CM,Canadian Imperial Bank of Commerce Common Stock,Financial
+17,MQBKY,Macquarie Group Ltd ADR (New),Financial
+18,MCQEF,Macquarie Group Ltd,Financial
+19,AFL,AFLAC Incorporated Common Stock,Financial
+0,UOVEF,United Overseas Bank Ltd. (Singapore),Financial
+1,LYG,Lloyds Banking Group Plc American Depositary Shares,Financial
+2,CIIHF,CITIC Securities Co. Ltd.,Financial
+3,TRV,"The Travelers Companies, Inc. Common Stock",Financial
+4,AIG,"American International Group, Inc. New Common Stock",Financial
+5,NBNKF,Nordea Bank ABp,Financial
+6,NRDBY,Nordea Bank ABp ADR (Sponsored),Financial
+7,UOVEY,United Overseas Bank Ltd. (Singapore) ADR (Sponsored),Financial
+8,MFC,Manulife Financial Corporation Common Stock,Financial
+9,CHBJF,China Citic Bank Corp Ltd,Financial
+10,CHKGF,CK Asset Holdings Ltd,Financial
+11,MITEF,Mitsubishi Estate Co. Ltd.,Financial
+12,EQR,Equity Residential Common Shares of Beneficial Interest,Financial
+13,AVB,"AvalonBay Communities, Inc. Common Stock",Financial
+14,ARZGY,Assicurazioni Generali S.p.A. ADR,Financial
+15,PRU,"Prudential Financial, Inc. Common Stock",Financial
+16,KKR,KKR &amp; Co. Inc. Class A Common Stock,Financial
+17,CRARY,Credit Agricole SA ADR,Financial
+18,ING,"ING Group, N.V. Common Stock",Financial
+19,BCS,Barclays PLC Common Stock,Financial
+0,MITEY,Mitsubishi Estate Co. Ltd. ADR,Financial
+1,STT,State Street Corporation Common Stock,Financial
+2,PPCCF,PICC Property and Casualty Co Ltd,Financial
+3,HLDVF,Henderson Land Development Co. Ltd.,Financial
+4,KBCSY,KBC Group Sa Nv ADR,Financial
+5,SLF,Sun Life Financial Inc. Common Stock,Financial
+6,BBVA,Banco Bilbao Vizcaya Argentaria S.A. Common Stock,Financial
+7,MKTX,"MarketAxess Holdings, Inc. Common Stock",Financial
+8,NDAQ,"Nasdaq, Inc. Common Stock",Financial
+9,CS,Credit Suisse Group American Depositary Shares,Financial
+10,MLYNF,Malayan Banking Berhad,Financial
+11,HLDCY,Henderson Land Development Co. Ltd. ADR (Sponsored),Financial
+12,AMTD,TD Ameritrade Holding Corporation Common Stock,Financial
+13,BKRKF,Bank Rakyat Indonesia (P.T.),Financial
+14,LKREF,Link Rl Est Invt Tr Uts,Financial
+15,ARE,"Alexandria Real Estate Equities, Inc. Common Stock",Financial
+16,SSREY,Swiss Re Ltd. ADR (Sponsored),Financial
+17,SSREF,Swiss Re Ltd.,Financial
+18,DNHBY,DNB ASA ADR (Sponsored),Financial
+19,HVRRY,Hannover Rueckversicherung SE ADR (Sponsored),Financial
+0,O,Realty Income Corporation Common Stock,Financial
+1,MTSFY,Mitsui Fudosan Co. Ltd. ADR,Financial
+2,WELL,Welltower Inc. Common Stock,Financial
+3,HUATF,Huatai Securities Co. Ltd.,Financial
+4,AJG,Arthur J. Gallagher &amp; Co. Common Stock,Financial
+5,MTSFF,Mitsui Fudosan Co. Ltd.,Financial
+6,FRC,FIRST REPUBLIC BANK Common Stock,Financial
+7,SPG,"Simon Property Group, Inc. Common Stock",Financial
+8,MSADF,MS&amp;AD Insurance Group Holdings,Financial
+9,GMGSF,Goodman Gp Sydney Stpld,Financial
+10,RBS,Royal Bank of Scotland Group Plc New (The) ADS,Financial
+11,IBKR,"Interactive Brokers Group, Inc. Class A Common Stock",Financial
+12,SCBFF,Standard Chartered Plc,Financial
+13,UNCFF,Unicredito SpA,Financial
+14,DWHHF,Deutsche Wohnen Ag Ord,Financial
+15,SPHXF,Sm Prime Holding Intl Shs,Financial
+16,AMP,"Ameriprise Financial, Inc. Common Stock",Financial
+17,ESS,"Essex Property Trust, Inc. Common Stock",Financial
+18,AYYLF,Ayala Corp,Financial
+19,NTRS,Northern Trust Corporation Common Stock,Financial
+0,PBLOF,Public Bank Ltd Local,Financial
+1,IX,Orix Corp Ads Common Stock,Financial
+2,DCNSF,Dai-ichi Life Insurance Co Ltd,Financial
+3,WHLKF,Wheelock &amp; Co Ltd,Financial
+4,ORXCF,Orix Corp,Financial
+5,DWAHF,Daiwa House Ind Ord,Financial
+6,SIOPF,Shimao Property Holdings Ltd,Financial
+7,LGGNY,Legal &amp; General Group PLC (United Kingdom) ADR (Sponsored),Financial
+8,DB,Deutsche Bank AG Common Stock,Financial
+9,INVH,Invitation Homes Inc. Common Stock,Financial
+10,WY,Weyerhaeuser Company Common Stock,Financial
+11,BDORY,Banco do Brasil S.A. ADR (Sponsored),Financial
+12,CTRGF,Country Garden Services Holdings Co Ltd,Financial
+13,SUI,"Sun Communities, Inc. Common Stock",Financial
+14,NTIOF,National Bank of Canada,Financial
+15,MAA,"Mid-America Apartment Communities, Inc. Common Stock",Financial
+16,OTPBF,National Savings &amp; Commercial Bank Ltd. (Hungary),Financial
+17,SURDF,Sumitomo Rlty &amp; Dev Co Ltd,Financial
+18,CBRE,CBRE Group Inc Common Stock Class A,Financial
+19,NRSCF,Nomura Holdings Inc,Financial
+0,HIG,"Hartford Financial Services Group, Inc. (The) Common Stock",Financial
+1,PEAK,"Healthpeak Properties, Inc. Common Stock",Financial
+2,NHOLF,Sompo Holdings Inc,Financial
+3,BXP,"Boston Properties, Inc. Common Stock",Financial
+4,DFS,Discover Financial Services Common Stock,Financial
+5,FANDF,FirstRand Ltd.,Financial
+6,PPERY,Bank Mandiri Persero Tbk PT ADR,Financial
+7,WRFRF,Wharf Real Estate Investment Co Ltd,Financial
+8,SWDBY,Swedbank AB ADR (Sponsored),Financial
+9,SKHSF,Sekisui House Ltd. (Japan),Financial
+10,FITB,Fifth Third Bancorp Common Stock,Financial
+11,MKL,Markel Corporation Common Stock,Financial
+12,MTB,M&amp;T Bank Corporation Common Stock,Financial
+13,DRE,Duke Realty Corporation Common Stock,Financial
+14,NMR,Nomura Holdings Inc ADR American Depositary Shares,Financial
+15,SHG,Shinhan Financial Group Co Ltd American Depositary Shares,Financial
+16,EXXRF,Exor NV,Financial
+17,FOSUF,Fosun International Ltd,Financial
+18,CBOE,"Cboe Global Markets, Inc. Common Stock",Financial
+19,AVVIY,Aviva Plc (United Kingdom) ADR,Financial
+0,SCGLY,Societe Generale ADR (Sponsored),Financial
+1,NDVLF,New World Development Co. Ltd.,Financial
+2,BAP,Credicorp Ltd. Common Stock,Financial
+3,EXR,Extra Space Storage Inc Common Stock,Financial
+4,BRO,"Brown &amp; Brown, Inc. Common Stock",Financial
+5,VTR,"Ventas, Inc. Common Stock",Financial
+6,HTNGF,Haitong Securities Co. Ltd.,Financial
+7,NBFJF,Nippon Building Fund Inc,Financial
+8,ELS,"Equity Lifestyle Properties, Inc. Common Stock",Financial
+9,SWSDF,Swiss Life Holding AG,Financial
+10,UDR,"UDR, Inc. Common Stock",Financial
+11,CMTDF,Sumitomo Mitsui Trust Holdings Inc,Financial
+12,ASXFF,ASX Ltd,Financial
+13,CKHGF,Capitec Bank Holdings Ltd,Financial
+14,KB,KB Financial Group Inc,Financial
+15,ZIJMF,Zijin Mining Group Co Ltd,Financial
+16,BRPBF,BRPBF,Financial
+17,OSCUF,Japan Exchange Group Inc.,Financial
+18,CLLDF,Capitaland Ltd (Singapore),Financial
+19,SYF,Synchrony Financial Common Stock,Financial
+0,KEY,KeyCorp Common Stock,Financial
+1,WPC,W. P. Carey Inc. REIT,Financial
+2,ACGL,Arch Capital Group Ltd. Common Stock,Financial
+3,APO,"Apollo Global Management, Inc. Class A Common Stock",Financial
+4,SLMAF,Sanlam Ltd Ord,Financial
+5,PFG,Principal Financial Group Inc Common Stock,Financial
+6,SNLAY,Sino Land Co. Ltd. ADR (Sponsored),Financial
+7,SNLAF,Sino Land Co. Ltd.,Financial
+8,DKNG,DraftKings Inc. Class A Common Stock,Financial
+9,AYAAF,Ayala Land Inc. (Philippines),Financial
+10,AGRPF,Absa Group Ltd (New),Financial
+11,CAIXY,CaixaBank SA ADR,Financial
+12,HLPPF,Hang Lung Properties Ltd,Financial
+13,DNKEY,Danske Bank A/S ADR (Sponsored),Financial
+14,SIVB,SVB Financial Group Common Stock,Financial
+15,RF,Regions Financial Corporation Common Stock,Financial
+16,BEN,"Franklin Resources, Inc. Common Stock",Financial
+17,ERIE,Erie Indemnity Company Class A Common Stock,Financial
+18,URI,"United Rentals, Inc. Common Stock",Financial
+19,WRB,W.R. Berkley Corporation Common Stock,Financial
+0,CCC,Clarivate Plc Ordinary Shares,Financial
+1,CFG,"Citizens Financial Group, Inc. Common Stock",Financial
+2,ETFC,E*TRADE Financial Corporation Common Stock,Financial
+3,MPW,"Medical Properties Trust, Inc. common stock",Financial
+4,HRGLF,Hargreaves Lansdown Plc Bristol,Financial
+5,L,Loews Corporation Common Stock,Financial
+6,BDOUF,BDO Unibank Inc.,Financial
+7,RJF,"Raymond James Financial, Inc. Common Stock",Financial
+8,NLY,Annaly Capital Management Inc Common Stock,Financial
+9,CG,The Carlyle Group Inc. Common Stock,Financial
+10,BPY,Brookfield Property Partners L.P. Limited Partnership Units,Financial
+11,CPT,Camden Property Trust Common Stock,Financial
+12,EBKDY,Erste Group Bank Ag S/Adr,Financial
+13,BCH,Banco De Chile Banco De Chile ADS,Financial
+14,CCGDF,China Cinda Asset Management Co Ltd,Financial
+15,CONE,CyrusOne Inc Common Stock,Financial
+16,TKGZY,Turkiye Garanti Bankasi A.S. ADR  (Sponsored) Repstg 2000  Shs (New),Financial
+17,CINF,Cincinnati Financial Corporation Common Stock,Financial
+18,BLMIF,Bank Leumi Le Israel,Financial
+19,GBOOF,Grupo Fin Banorte  Ord,Financial
+0,JBAXY,Julius Baer Group Ltd. ADR,Financial
+1,SBGOF,Standard Bank Group Ltd,Financial
+2,AZRGF,Azrieli Group Ltd,Financial
+3,MGP,MGM Growth Properties LLC Class A common shares representing limited liability company interests,Financial
+4,WU,Western Union Company (The) Common Stock,Financial
+5,HBAN,Huntington Bancshares Incorporated Common Stock,Financial
+6,CIMDF,Cimb Group Hldgs Bhd Ord,Financial
+7,BKHYY,Bank Hapoalim B.M. ADR (Sponsored),Financial
+8,SEIC,SEI Investments Company Common Stock,Financial
+9,STGPF,Scentre Group,Financial
+10,EQH,"Equitable Holdings, Inc. Common Stock",Financial
+11,DSECF,Daiwa Securities Group Inc.,Financial
+12,SGBLY,Standard Bank Group Ltd ADR (Sponsored),Financial
+13,IAUGF,Insurance Australia Group Ltd,Financial
+14,SPXCY,Singapore Exchange Ltd ADR,Financial
+15,JREIF,JREIF,Financial
+16,GL,Globe Life Inc. Common Stock,Financial
+17,SPXCF,Singapore Exchange Ltd,Financial
+18,SNMYF,Suncorp Group Ltd.,Financial
+19,ACDSF,Ascendas Rl Est Invt Tr,Financial
+0,CCRDF,Concordia Financial Group Ltd,Financial
+1,VICI,VICI Properties Inc. Common Stock,Financial
+2,BSAC,Banco Santander - Chile ADS,Financial
+3,QBEIF,QBE Insurance Group Ltd.,Financial
+4,CGXYF,China Galaxy Secs Reg Shs,Financial
+5,HST,"Host Hotels &amp; Resorts, Inc. Common Stock",Financial
+6,RSNHF,Resona Holdings Inc,Financial
+7,CNA,CNA Financial Corporation Common Stock,Financial
+8,RNR,RenaissanceRe Holdings Ltd. Common Stock,Financial
+9,AGNC,AGNC Investment Corp. Common Stock,Financial
+10,SWPRF,Swiss Prime Site Ag,Financial
+11,AMH,American Homes 4 Rent Common Shares of Beneficial Interest,Financial
+12,AIOAF,Sarossa PLC,Financial
+13,BQCNF,Banque Cantonale Vaudoise,Financial
+14,NTXFY,NATIXIS SA ADR,Financial
+15,FNF,"FNF Group of Fidelity National Financial, Inc. Common Stock",Financial
+16,COLD,Americold Realty Trust Common Shares,Financial
+17,RE,"Everest Re Group, Ltd. Common Stock",Financial
+18,VNO,Vornado Realty Trust Common Stock,Financial
+19,SYFHF,Sony Financial Holdings Inc.,Financial
+0,SMUUY,Siam Commercial Bank Public Co Ltd (The) ADR,Financial
+1,FRFHF,Fairfax Financial Holdings Ltd,Financial
+2,CNICF,China International Capital Corp,Financial
+3,Y,Alleghany Corporation Common Stock,Financial
+4,CINSF,China Taiping Insurance Holding Co. Ltd.,Financial
+5,IRM,Iron Mountain Incorporated (Delaware)Common Stock REIT,Financial
+6,DITTF,Daito Trust Construction Co. Ltd.,Financial
+7,COGQF,Chongqing Rural Commercial Bank Co Ltd - Ordinary Shares - Class H,Financial
+8,DXSPF,Dexus Property Gr,Financial
+9,LNC,Lincoln National Corporation Common Stock,Financial
+10,REG,Regency Centers Corporation Common Stock,Financial
+11,MORN,"Morningstar, Inc. Common Stock",Financial
+12,LDSCY,Land Securities Group Plc ADR (New),Financial
+13,BKEAF,Bank Of East Asia Ltd Reg,Financial
+14,CBSH,"Commerce Bancshares, Inc. Common Stock",Financial
+15,BPHLF,Bank of the Philippine Islands,Financial
+16,ITCFY,Investec Ltd ADR,Financial
+17,OHI,"Omega Healthcare Investors, Inc. Common Stock",Financial
+18,LAMR,Lamar Advertising Company Class A Common Stock,Financial
+19,KRC,Kilroy Realty Corporation Common Stock,Financial
+0,HULCF,Hulic Co Ltd (New),Financial
+1,GLPI,"Gaming and Leisure Properties, Inc. Common Stock",Financial
+2,NMMRF,Nomura Real Estate Master Fund Inc,Financial
+3,CACC,Credit Acceptance Corporation Common Stock,Financial
+4,ALLY,Ally Financial Inc. Common Stock,Financial
+5,UHAL,Amerco Common Stock,Financial
+6,PRGAF,Pargesa Holding Sa,Financial
+7,ARCC,Ares Capital Corporation Common Stock,Financial
+8,OCFT,"OneConnect Financial Technology Co., Ltd. American Depositary Shares, each representing three ordinary shares",Financial
+9,BKEAY,Bank of East Asia Ltd. ADR (Sponsored),Financial
+10,CFFHF,CIFI Holdings (Group) Co Ltd,Financial
+11,CIB,BanColombia S.A. Common Stock,Financial
+12,NHMAF,Nihon M &amp; A Center Inc,Financial
+13,GULRF,Guoco Group,Financial
+14,WARFF,Wharf (Holdings) Ltd. (The),Financial
+15,FRT,Federal Realty Investment Trust Common Stock,Financial
+16,AIZ,"Assurant, Inc. Common Stock",Financial
+17,DCYHF,Discovery Ltd,Financial
+18,MRVGF,Mirvac Group,Financial
+19,HTA,"Healthcare Trust of America, Inc. Class A Common Stock",Financial
+0,TDHOF,T&amp;D Holdings Inc,Financial
+1,TYIBF,Turkiye Is Bankasi AS,Financial
+2,PB,"Prosperity Bancshares, Inc. Common Stock",Financial
+3,VOYA,"Voya Financial, Inc. Common Stock",Financial
+4,RGA,"Reinsurance Group of America, Incorporated Common Stock",Financial
+5,TMXXF,TMX Group Ltd,Financial
+6,AIV,Apartment Investment and Management Company Common Stock,Financial
+7,FAF,First American Corporation (New) Common Stock,Financial
+8,LPLA,LPL Financial Holdings Inc. Common Stock,Financial
+9,MDBPF,Medibank Private Limited - Ordinary Shares,Financial
+10,AFG,"American Financial Group, Inc. Common Stock",Financial
+11,GPTGF,Gpt Group Stapled Sec,Financial
+12,MPCMF,Mapletree Commercial Trust Units Real Estate Investment Trust Reg S,Financial
+13,VER,"VEREIT, Inc. Common Stock",Financial
+14,GMYTF,GMO Payment Gateway Inc.,Financial
+15,CPAMF,CapitaLand Mall Trust Units,Financial
+16,NNN,National Retail Properties Common Stock,Financial
+17,SBNY,Signature Bank Common Stock,Financial
+18,CDEVF,City Developments Ltd. (Singapore),Financial
+19,LLESF,Lendlease Group,Financial
+0,GPFOY,Grupo Financiero Inbursa S.A. de C.V. (Mexico) ADR (Sponsored) repr Cl O Ord Shs,Financial
+1,ATH,Athene Holding Ltd. Class A Common Shares,Financial
+2,LLESY,LendLease Group ADR (Sponsored),Financial
+3,IPSBF,Impulsora Del Desarrollo,Financial
+4,IGIFF,IGM Financial Inc,Financial
+5,KWGPF,KWG Group Holdings Ltd,Financial
+6,ORCC,Owl Rock Capital Corporation Common Stock,Financial
+7,SC,Santander Consumer USA Holdings Inc. Common Stock,Financial
+8,TKGBF,Turkiye Garanti Bankasi A.S.,Financial
+9,SBHGF,Sbi Holdings Inc Ord,Financial
+10,AEG,AEGON N.V. Common Stock,Financial
+11,WF,Woori Financial Group Inc. American Depositary Shares (each representing three (3) shares of Common Stock),Financial
+12,COR,CoreSite Realty Corporation Common Stock,Financial
+13,CUBE,CubeSmart Common Shares,Financial
+14,PBCT,"People's United Financial, Inc. Common Stock",Financial
+15,EWBC,"East West Bancorp, Inc. Common Stock",Financial
+16,RSNAY,RSA Insurance Group Plc ADR (Sponsored),Financial
+17,BNMDF,Banca Mediolanum SpA,Financial
+18,MDIBY,Mediobanca Banca Di Credito Finanziario SpA ADR,Financial
+19,GZUHF,Guangzhou R &amp; F Properties Co. Ltd,Financial
+0,GWWTF,Growthpoint Properties Ltd (South Africa),Financial
+1,TKGBY,Turkiye Garanti Bankasi A.S. ADR (Sponsored) Repstg 2000 Shs,Financial
+2,ARES,Ares Management Corporation Class A Common Stock,Financial
+3,JLL,Jones Lang LaSalle Incorporated Common Stock,Financial
+4,DEI,"Douglas Emmett, Inc. Common Stock",Financial
+5,SCRYY,SCOR S.E. (France) ADR (Sponsored),Financial
+6,ZION,Zions Bancorporation N.A. Common Stock,Financial
+7,VIRT,"Virtu Financial, Inc. Class A Common Stock",Financial
+8,LM,"Legg Mason, Inc. Common Stock",Financial
+9,FR,"First Industrial Realty Trust, Inc. Common Stock",Financial
+10,REXR,"Rexford Industrial Realty, Inc. Common Stock",Financial
+11,ORI,Old Republic International Corporation Common Stock,Financial
+12,PBNNF,PT Bank Negara (Indonesia),Financial
+13,AVAL,Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares),Financial
+14,JPRRF,Japan Prime Rlty Invt Crp,Financial
+15,ADZZF,Advance Residence Inv Ord,Financial
+16,STOR,STORE Capital Corporation Common Stock,Financial
+17,CMA,Comerica Incorporated Common Stock,Financial
+18,NYCB,"New York Community Bancorp, Inc. Common Stock",Financial
+19,BCVVF,BOC Aviation Ltd,Financial
+0,HLI,"Houlihan Lokey, Inc. Class A Common Stock",Financial
+1,PRI,"Primerica, Inc. Common Stock",Financial
+2,CFR,"Cullen/Frost Bankers, Inc. Common Stock",Financial
+3,RHBAF,RHB Bank Berhad - Ordinary Shares,Financial
+4,MAPIF,Mapletree Industrial Tr,Financial
+5,UOLGF,UOL Group Ltd,Financial
+6,KIM,Kimco Realty Corporation Common Stock,Financial
+7,CRZBY,Commerzbank AG (Germany Fed. Rep.) ADR (Sponsored) New,Financial
+8,LSI,"Life Storage, Inc. Common Stock",Financial
+9,TFSL,TFS Financial Corporation Common Stock,Financial
+10,ACC,American Campus Communities Inc Common Stock,Financial
+11,MZTFF,Mizrahi Tefahot Bank Ltd,Financial
+12,HR,Healthcare Realty Trust Incorporated Common Stock,Financial
+13,CHBAF,Chiba Bank Ltd,Financial
+14,EV,Eaton Vance Corporation Common Stock,Financial
+15,EQC,Equity Commonwealth Common Shares of Beneficial Interest,Financial
+16,STKAF,Stockland Stapled Sec,Financial
+17,SZKBF,Shizuoka Bank Ltd (Japan),Financial
+18,KRYPF,Kerry Properties Hk,Financial
+19,EGP,"EastGroup Properties, Inc. Common Stock",Financial
+0,GPFOF,Grupo Fin Inbursa Sa O,Financial
+1,QTS,"QTS Realty Trust, Inc. Class A Common Stock",Financial
+2,HYSNF,Hysan Development Co. Ltd.,Financial
+3,AGPYF,Agile Property Holdings Ltd,Financial
+4,KMPR,Kemper Corporation,Financial
+5,BTLCY,British Land Co. PLC ADR Sponsored,Financial
+6,VRT,"Vertiv Holdings, LLC Class A Common Stock",Financial
+7,CPITF,Capitaretail China Trust Units,Financial
+8,HQY,"HealthEquity, Inc. Common Stock",Financial
+9,FFIN,"First Financial Bankshares, Inc. Common Stock",Financial
+10,UUICF,UUICF,Financial
+11,KMERF,Komercni Banka A.S. (Czech Republic),Financial
+12,CUZ,Cousins Properties Incorporated Common Stock,Financial
+13,JBGS,JBG SMITH Properties Common Shares ,Financial
+14,BSMX,"Banco Santander Mexico, S.A., Institucion de Banca Multiple, Grupo Financiero Santander Mexico",Financial
+15,CNPPF,China Overseas Property Holdings Ltd,Financial
+16,MRPRF,Merlin Properties Socimi SA,Financial
+17,TCF,TCF Financial Corporation Common Stock,Financial
+18,NMEHF,Nomura Rl Est Hldgs Inc,Financial
+19,FSRPF,Frasers Property Ltd,Financial
+0,RELOF,Relo Group Inc,Financial
+1,APYRF,Allied Properties Real Estate Investment Trust Unit,Financial
+2,STAG,"Stag Industrial, Inc. Common Stock",Financial
+3,HNLGF,Hang Lung Group Ltd,Financial
+4,GBCI,"Glacier Bancorp, Inc. Common Stock",Financial
+5,ISDAF,Israel Disc Bk Ord,Financial
+6,CNRAF,VINCINITY CENTRES,Financial
+7,FSV,FirstService Corporation Common Shares,Financial
+8,FCNCA,"First Citizens BancShares, Inc. Class A Common Stock",Financial
+9,JEF,Jefferies Financial Group Inc. Common Stock,Financial
+10,CMPNF,Champion Re Invst Tr,Financial
+11,SPCE,"Virgin Galactic Holdings, Inc. Common Stock",Financial
+12,STWD,"STARWOOD PROPERTY TRUST, INC. Starwood Property Trust Inc.",Financial
+13,AER,AerCap Holdings N.V. Ordinary Shares,Financial
+14,HLNE,Hamilton Lane Incorporated Class A Common Stock,Financial
+15,HIW,"Highwoods Properties, Inc. Common Stock",Financial
+16,THG,Hanover Insurance Group Inc,Financial
+17,JHG,Janus Henderson Group plc Ordinary Shares,Financial
+18,FBASF,Deutsche Bank Mexico SA,Financial
+19,BRLPF,BR Malls Participacoes SA,Financial
+0,ADC,Agree Realty Corporation Common Stock,Financial
+1,HLFBF,Hong Leong Financial Group Bhd,Financial
+2,MTPOF,Metropolitan Bk &amp; Tr,Financial
+3,TREE,"LendingTree, Inc. Common Stock",Financial
+4,TMPPF,Times China Holdings Limited - Ordinary Shares,Financial
+5,UNPA,UNB Corp. (PA),Financial
+6,TRNO,Terreno Realty Corporation Common Stock,Financial
+7,RLI,RLI Corp. Common Stock (DE),Financial
+8,RIOCF,RioCan Real Estate Investment Trust Units,Financial
+9,YUEXF,Yuexiu Property Co Ltd,Financial
+10,TTUUF,Tokyu Fudosan Holdings Corp,Financial
+11,SZNTF,Shenzhen Investment Ltd.,Financial
+12,DOC,Physicians Realty Trust Common Shares of Beneficial Interest,Financial
+13,ATVXF,Activia Properties Inc,Financial
+14,HCXLF,Hiscox Ltd,Financial
+15,IVZ,Invesco Ltd Common Stock,Financial
+16,RMRHF,Rand Merchant Investment Holdings Ltd,Financial
+17,PSSGF,P S G Group Ltd Ord,Financial
+18,HPP,"Hudson Pacific Properties, Inc. Common Stock",Financial
+19,UBSI,"United Bankshares, Inc. Common Stock",Financial
+0,PSB,"PS Business Parks, Inc. Common Stock",Financial
+1,PBDIF,PBDIF,Financial
+2,BKPKF,Bank Polska Kasa Opieki SA - Ordinary Shares,Financial
+3,GTWCF,Greentown China Hldgs Ltd,Financial
+4,EHTH,"eHealth, Inc. Common Stock",Financial
+5,BPOP,"Popular, Inc. Common Stock",Financial
+6,MAPGF,Mapletree Logistics Tr Ut,Financial
+7,KNSL,"Kinsale Capital Group, Inc. Common Stock",Financial
+8,FRTIF,Fortress REIT Limited - Ordinary Shares - Class A,Financial
+9,AMG,"Affiliated Managers Group, Inc. Common Stock",Financial
+10,WAL,Western Alliance Bancorporation Common Stock (DE),Financial
+11,SIOLF,Sino-Ocean Land Holdings Ltd,Financial
+12,BOKF,BOK Financial Corporation Common Stock,Financial
+13,SKLKF,Shinsei Bank Ltd,Financial
+14,SLG,SL Green Realty Corp Common Stock,Financial
+15,YFGSF,Yamaguchi Fincl Grp Inc,Financial
+16,IFS,Intercorp Financial Services Inc. Common Shares,Financial
+17,AXS,Axis Capital Holdings Limited Common Stock,Financial
+18,CAIAF,CA Immobilien Anlagen Aktiengesellschaft,Financial
+19,SF,Stifel Financial Corporation Common Stock,Financial
+0,BXMT,"Blackstone Mortgage Trust, Inc. Common Stock",Financial
+1,AIBRF,AIB Group PLC,Financial
+2,UNM,Unum Group Common Stock,Financial
+3,CNS,Cohen &amp; Steers Inc Common Stock,Financial
+4,FCFS,"FirstCash, Inc. Common Stock",Financial
+5,AMLTF,AMP Ltd.,Financial
+6,MPCFF,Metro Pacific Investments Corp,Financial
+7,SLM,SLM Corporation Common Stock,Financial
+8,ESGR,Enstar Group Limited Ordinary Shares,Financial
+9,SIGI,"Selective Insurance Group, Inc. Common Stock",Financial
+10,BRX,Brixmor Property Group Inc. Common Stock,Financial
+11,VLY,Valley National Bancorp Common Stock,Financial
+12,RYN,Rayonier Inc. REIT Common Stock,Financial
+13,WTM,"White Mountains Insurance Group, Ltd. Common Stock",Financial
+14,OMF,"OneMain Holdings, Inc. Common Stock",Financial
+15,CBU,"Community Bank System, Inc. Common Stock",Financial
+16,SURVF,Suntec Rl Est Invt Tr Uts,Financial
+17,BKQNF,Bank of Queensland Ltd - Ordinary Shares,Financial
+18,SRC,"Spirit Realty Capital, Inc. Common Stock",Financial
+19,LAZ,"Lazard LTD. Lazard, LTD. Class A Common Stock",Financial
+0,AMMHF,AMMB Holdings BHD,Financial
+1,AMLLF,Aeon Mall Co,Financial
+2,CNNE,"Cannae Holdings, Inc. Common Stock",Financial
+3,RDN,Radian Group Inc. Common Stock,Financial
+4,ESNT,Essent Group Ltd. Common Shares,Financial
+5,PPRQF,Choice Properties Real Estate Investment Trust Tr Unit,Financial
+6,CLALF,Clal Biotechnology Industries Ltd,Financial
+7,PNFP,"Pinnacle Financial Partners, Inc. Common Stock",Financial
+8,CEVIF,China Everbright Ihd Pac,Financial
+9,QUILF,Quilter plc,Financial
+10,ELEEF,Element Fleet Management Corp - Ordinary Shares,Financial
+11,OZK,Bank OZK Common Stock,Financial
+12,ARPTF,Airport City Ltd,Financial
+13,AL,Air Lease Corporation Class A Common Stock,Financial
+14,BHF,"Brighthouse Financial, Inc. Common Stock",Financial
+15,SAFE,Safehold Inc. Common Stock,Financial
+16,NRZ,New Residential Investment Corp. Common Stock,Financial
+17,KPDCF,Keppel DC REIT Management Petroleum Ltd Units REIT Reg S,Financial
+18,OFC,Corporate Office Properties Trust Common Stock,Financial
+19,MRGIF,Mori Tr Sogo Reit Inc Ord,Financial
+0,SBRA,"Sabra Health Care REIT, Inc. Common Stock",Financial
+1,FHN,First Horizon National Corporation Common Stock,Financial
+2,IMMZF,Immofinanz Ag,Financial
+3,RDFN,Redfin Corporation Common Stock,Financial
+4,MIC,Macquarie Infrastructure Corporation Common Stock,Financial
+5,TCO,"Taubman Centers, Inc. Common Stock",Financial
+6,KREVF,Keppel Reit Unit Reit,Financial
+7,ESRT,"Empire State Realty Trust, Inc. Class A Common Stock",Financial
+8,SNV,Synovus Financial Corp. Common Stock,Financial
+9,HHC,Howard Hughes Corporation (The) Common Stock,Financial
+10,FG,FGL Holdings Ordinary Share,Financial
+11,PFSI,"PennyMac Financial Services, Inc. Common Stock",Financial
+12,CTOUF,Charter Hall Group Stapled Security,Financial
+13,LXP,Lexington Realty Trust Common Stock,Financial
+14,CVBF,CVB Financial Corporation Common Stock,Financial
+15,MTG,MGIC Investment Corporation Common Stock,Financial
+16,BOH,Bank of Hawaii Corporation Common Stock,Financial
+17,CIFAF,CI Financial Corp,Financial
+18,BYLOF,Big Yellow Group Plc Ord,Financial
+19,BKTOF,BKTOF,Financial
+0,AGO,Assured Guaranty Ltd. Common Stock,Financial
+1,VVNT,"Vivint Smart Home, Inc. ",Financial
+2,IGUEF,Iguatemi Empresa de Shopping Centers SA,Financial
+3,GSHD,"Goosehead Insurance, Inc. Class A Common Stock",Financial
+4,BXRBF,Bendigo &amp; Adelaide Bl Ord,Financial
+5,AAN,"Aaron's, Inc. Common Stock",Financial
+6,APAM,Artisan Partners Asset Management Inc. Class A Common Stock,Financial
+7,MCY,Mercury General Corporation Common Stock,Financial
+8,UMPQ,Umpqua Holdings Corporation Common Stock,Financial
+9,UMBF,UMB Financial Corporation Common Stock,Financial
+10,NHI,"National Health Investors, Inc. Common Stock",Financial
+11,AB,AllianceBernstein Holding L.P.  Units,Financial
+12,PCH,PotlatchDeltic Corporation Common Stock,Financial
+13,FNB,F.N.B. Corporation Common Stock,Financial
+14,HOMB,"Home BancShares, Inc. Common Stock",Financial
+15,CWK,Cushman &amp; Wakefield plc Ordinary Shares,Financial
+16,FHI,"Federated Hermes, Inc. Common Stock",Financial
+17,UILCF,United Industrial Corp. Ltd.,Financial
+18,WRI,Weingarten Realty Investors Common Stock,Financial
+19,HASI,"Hannon Armstrong Sustainable Infrastructure Capital, Inc. Common Stock",Financial
+0,EVR,Evercore Inc. Class A Common Stock,Financial
+1,TYTMF,Tokyo Tatemono Co. Ltd.,Financial
+2,WBS,Webster Financial Corporation Common Stock,Financial
+3,AEOJF,Aeon Fincl Svcs Jpn Ord,Financial
+4,ONB,Old National Bancorp Common Stock,Financial
+5,TRTN,Triton International Limited Common Shares,Financial
+6,NGHC,National General Holdings Corp Common Stock,Financial
+7,CAOYF,China Aoyuan Group Ltd,Financial
+8,FRIVF,Fortune Re Invst Tr Units,Financial
+9,EPR,EPR Properties Common Stock,Financial
+10,GATX,GATX Corporation Common Stock,Financial
+11,FNMA,Fannie Mae,Financial
+12,SOHOF,Soho China Ltd Ord,Financial
+13,STL,Sterling Bancorp,Financial
+14,ISBC,"Investors Bancorp, Inc. Common Stock",Financial
+15,BXS,BancorpSouth Bank Common Stock,Financial
+16,IOOFF,IOOF Holdings Ltd,Financial
+17,WTFC,Wintrust Financial Corporation Common Stock,Financial
+18,FLLHF,Fullshare Holdings Ltd,Financial
+19,ANAT,American National Insurance Company Common Stock,Financial
+0,KYUNF,Kyushu Financial Group Inc,Financial
+1,ASB,Associated Banc-Corp Common Stock,Financial
+2,CMPR,Cimpress plc Ordinary Shares (Ireland),Financial
+3,MAIN,Main Street Capital Corporation Common Stock,Financial
+4,CIGI,Colliers International Group Inc. Subordinate Voting Shares,Financial
+5,INDB,Independent Bank Corp. Common Stock,Financial
+6,IBKC,IBERIABANK Corporation Common Stock,Financial
+7,PJT,PJT Partners Inc. Class A Common Stock,Financial
+8,EFGXY,EFG International Zuerich ADR,Financial
+9,AKAAF,Aker Asa A Shs,Financial
+10,KW,Kennedy-Wilson Holdings Inc. Common Stock,Financial
+11,PACW,PacWest Bancorp Common Stock,Financial
+12,HAHRF,Harel Insurance Investments Ltd.,Financial
+13,APLE,"Apple Hospitality REIT, Inc. Common Shares",Financial
+14,OUT,OUTFRONT Media Inc. Common Stock,Financial
+15,SGHIF,Shanghai Industrial Holdings Ltd,Financial
+16,FHB,"First Hawaiian, Inc. Common Stock",Financial
+17,CATY,Cathay General Bancorp Common Stock,Financial
+18,NDBKF,Nedbank Group Ltd,Financial
+19,AMK,"AssetMark Financial Holdings, Inc. Common Stock",Financial
+0,FIBK,"First Interstate BancSystem, Inc. Class A Common Stock",Financial
+1,GDOT,"Green Dot Corporation Class A Common Stock, $0.001 par value",Financial
+2,CNO,"CNO Financial Group, Inc. Common Stock",Financial
+3,WAFD,"Washington Federal, Inc. Common Stock",Financial
+4,CGHBF,CGHBF,Financial
+5,EFGIF,EFG International Zuerich,Financial
+6,DEA,"Easterly Government Properties, Inc. Common Stock",Financial
+7,NNI,"Nelnet, Inc. Common Stock",Financial
+8,PK,Park Hotels &amp; Resorts Inc. Common Stock ,Financial
+9,CFIGF,Challenger Ltd.,Financial
+10,PDM,"Piedmont Office Realty Trust, Inc. Class A Common Stock",Financial
+11,PTPKF,Pt Pakuwon Jati Tbk,Financial
+12,NPRUF,Northview Apartment Real Estate Investment Trust Tr Unit,Financial
+13,HKIB,"AMTD International Inc. American Depositary Shares, each representing one Class A Ordinary Share",Financial
+14,IBOC,International Bancshares Corporation Common Stock,Financial
+15,NSA,National Storage Affiliates Trust Common Shares of Beneficial Interest,Financial
+16,FBLV,First Bancorp,Financial
+17,AEL,American Equity Investment Life Holding Company Common Stock,Financial
+18,SFBS,"ServisFirst Bancshares, Inc. Common Stock",Financial
+19,PGRE,"Paramount Group, Inc. Common Stock",Financial
+0,QUCOF,Qualitas Controladora SAB De CV,Financial
+1,PSEC,Prospect Capital Corporation Common Stock,Financial
+2,CSFL,CenterState Bank Corporation Common Stock,Financial
+3,NOAH,Noah Holdings Limited,Financial
+4,CBGPF,Close Brothers Group Plc (United Kingdom),Financial
+5,R,"Ryder System, Inc. Common Stock",Financial
+6,SFNC,Simmons First National Corporation Class A Common Stock,Financial
+7,PRKWF,Parkway Life Reit Uts,Financial
+8,ICHIF,Ichigo Group Holdings Co. Ltd.,Financial
+9,GGABF,Grupo Fin Galicia B,Financial
+10,SHO,"Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares",Financial
+11,MPCIY,Metro Pacific Investments Corp ADR (Sponsored) Level 1,Financial
+12,HACBF,Hachijuni Bank Ltd. (Japan),Financial
+13,APG,APi Group Corporation Common Stock,Financial
+14,FRZCF,Frasers Centrepoint Trust,Financial
+15,NIPOF,Ippon Hotel Fd Invt Ord,Financial
+16,CSASF,Credit Saison Ord,Financial
+17,AOTUF,Precinct Properties Nz,Financial
+18,SOLLF,Shui On Land Ltd Ord,Financial
+19,MC,Moelis &amp; Company Class A Common Stock,Financial
+0,FSK,FS KKR Capital Corp. Common Stock,Financial
+1,FOCS,Focus Financial Partners Inc. Class A Common Stock,Financial
+2,FULT,Fulton Financial Corporation Common Stock,Financial
+3,AUB,Atlantic Union Bankshares Corporation Common Stock,Financial
+4,CTRE,"CareTrust REIT, Inc. Common Stock",Financial
+5,CFFN,"Capitol Federal Financial, Inc. Common Stock",Financial
+6,WRE,Washington Real Estate Investment Trust Common Stock,Financial
+7,FLTDF,Flow Traders Cooperatief UA,Financial
+8,BJCLF,Beijing Capital Land Ltd,Financial
+9,GMBKF,Gunma Bank Ltd (The),Financial
+10,JRHIF,Daiwa Securities Living Investment Corp,Financial
+11,NWEGF,Norwegian Finans Holding ASA,Financial
+12,SVLPF,Savills Plc Ord,Financial
+13,MGAWY,Megaworld Corp ADR,Financial
+14,HGV,Hilton Grand Vacations Inc. Common Stock ,Financial
+15,UNIT,Uniti Group Inc. Common Stock,Financial
+16,SYBJF,Security Bank Corp,Financial
+17,TRHF,TRHF Co Ltd Inc,Financial
+18,BCVMF,Banco Macro S.A.,Financial
+19,LX,LexinFintech Holdings Ltd. American Depositary Shares,Financial
+0,YUXXF,Yuexiu Reit Units,Financial
+1,CLBK,"Columbia Financial, Inc. Common Stock",Financial
+2,WABC,Westamerica Bancorporation Common Stock,Financial
+3,COLB,"Columbia Banking System, Inc. Common Stock",Financial
+4,AAT,"American Assets Trust, Inc. Common Stock",Financial
+5,BDN,Brandywine Realty Trust Common Stock,Financial
+6,KWHAF,K Wah Intl Hldgs Ltd Ord,Financial
+7,SSB,South State Corporation Common Stock,Financial
+8,GBDC,"Golub Capital BDC, Inc. Common Stock",Financial
+9,FBBPF,Fibra Prologis REIT Ctfs,Financial
+10,CIM,Chimera Investment Corporation Common Stock,Financial
+11,MGAWF,Megaworld Corp,Financial
+12,SCPAF,Shopping Centres Aust Stp,Financial
+13,HWC,Hancock Whitney Corporation Common Stock,Financial
+14,TKURF,Tokyu Reit Inc,Financial
+15,UBOPF,Union Bank of the Philippines,Financial
+16,CIT,CIT Group Inc (DEL) Common Stock,Financial
+17,PLMR,"Palomar Holdings, Inc. Common stock",Financial
+18,RLJ,RLJ Lodging Trust Common Shares of Beneficial Interest $0.01 par value,Financial
+19,FBC,"Flagstar Bancorp, Inc. Common Stock",Financial
+0,RHP,"Ryman Hospitality Properties, Inc. (REIT)",Financial
+1,QFIN,"360 Finance, Inc. American Depositary Shares",Financial
+2,GNW,Genworth Financial Inc Common Stock,Financial
+3,WSC,WillScot Corporation Common Stock,Financial
+4,IVINF,Invincible Investment Corporation - Ordinary Shares,Financial
+5,FCPT,"Four Corners Property Trust, Inc. Common Stock",Financial
+6,YUMM,Yummies Inc,Financial
+7,TRMK,Trustmark Corporation Common Stock,Financial
+8,ABCB,Ameris Bancorp Common Stock,Financial
+9,HMN,Horace Mann Educators Corporation Common Stock,Financial
+10,PEB,Pebblebrook Hotel Trust Common Shares of Beneficial Interest,Financial
+11,RCII,Rent-A-Center Inc. Common Stock,Financial
+12,CXP,"Columbia Property Trust, Inc. Common Stock",Financial
+13,UNJCF,Unicaja Banco S A,Financial
+14,NAVI,Navient Corporation Common Stock,Financial
+15,BKU,"BankUnited, Inc. Common Stock",Financial
+16,HTH,Hilltop Holdings Inc.,Financial
+17,EGFEY,Eurobank Ergasias Services &amp; Holdings SA ADR,Financial
+18,LTC,"LTC Properties, Inc. Common Stock",Financial
+19,IIPR,"Innovative Industrial Properties, Inc. Common Stock",Financial
+0,ALGGF,Alliance Global Group Inc,Financial
+1,GEO,Geo Group Inc (The) REIT,Financial
+2,FMBI,"First Midwest Bancorp, Inc. Common Stock",Financial
+3,VKPPF,Vukile Property Fund Ltd,Financial
+4,UCBI,"United Community Banks, Inc. Common Stock",Financial
+5,CLI,Mack-Cali Realty Corporation Common Stock,Financial
+6,FRME,First Merchants Corporation Common Stock,Financial
+7,CBMI,Csb Bancorp Inc (Mich),Financial
+8,WSBC,"WesBanco, Inc. Common Stock",Financial
+9,MINI,"Mobile Mini, Inc. Common Stock",Financial
+10,RNHEF,China Dili Group,Financial
+11,SPRBF,Sparebank 1 Ostlandet,Financial
+12,CXW,"CoreCivic, Inc. Common Stock",Financial
+13,IMVT,"Immunovant, Inc. Common Stock",Financial
+14,WSFS,WSFS Financial Corporation Common Stock,Financial
+15,TCBI,"Texas Capital Bancshares, Inc. Common Stock",Financial
+16,MGRC,McGrath RentCorp Common Stock,Financial
+17,FLLZ,FLLZ,Financial
+18,AHCO,AdaptHealth Corp. Class A Common Stock,Financial
+19,CNLLF,Central China Real Estate Ltd,Financial
+0,NBTB,NBT Bancorp Inc. Common Stock,Financial
+1,GGAL,Grupo Financiero Galicia S.A. American Depositary Shares,Financial
+2,CBWBF,Canadian Western Bank,Financial
+3,BMA,Banco Macro S.A.  ADR (representing Ten Class B Common Shares),Financial
+4,ITCB,"Itau CorpBanca American Depositary Shares (each representing 1,500 shares of Common Stock, no par value)",Financial
+5,PBPJF,PBPJF,Financial
+6,TOWN,TowneBank Common Stock,Financial
+7,BRMSY,BR Malls Participacoes SA ADR (Sponsored),Financial
+8,DAHSF,Dah Sing Fincl Hldg Ltd,Financial
+9,TWO,Two Harbors Investment Corp,Financial
+10,IBTX,"Independent Bank Group, Inc Common Stock",Financial
+11,SAFT,"Safety Insurance Group, Inc. Common Stock",Financial
+12,NWBI,"Northwest Bancshares, Inc. Common Stock",Financial
+13,TSLX,"TPG Specialty Lending, Inc. Common Stock",Financial
+14,ALX,"Alexander's, Inc. Common Stock",Financial
+15,RNST,Renasant Corporation Common Stock,Financial
+16,BROG,Brooge Energy Limited Ordinary Shares,Financial
+17,HTGC,"Hercules Capital, Inc. Common Stock",Financial
+18,GNL,"Global Net Lease, Inc. Common Stock",Financial
+19,PRK,Park National Corporation Common Stock,Financial
+0,FFBC,First Financial Bancorp. Common Stock,Financial
+1,MNR,Monmouth Real Estate Investment Corporation Class A Common Stock,Financial
+2,WD,"Walker &amp; Dunlop, Inc Common Stock",Financial
+3,AX,"Axos Financial, Inc. Common Stock",Financial
+4,UHT,Universal Health Realty Income Trust Common Stock,Financial
+5,SHTRF,Sunlight Real Estate Investment Trust Units,Financial
+6,FANH,Fanhua Inc. American Depositary Shares,Financial
+7,RETDF,Reit 1 Ltd,Financial
+8,NFH,New Frontier Health Corporation Ordinary Shares,Financial
+9,RKGXF,Road Infrastructure,Financial
+10,EPRT,"Essential Properties Realty Trust, Inc. Common Stock",Financial
+11,ARI,"Apollo Commercial Real Estate Finance, Inc",Financial
+12,AMSF,"AMERISAFE, Inc. Common Stock",Financial
+13,BOMXF,Bolsa Mexicana Val A Shs,Financial
+14,BANR,Banner Corporation Common Stock,Financial
+15,HRSMF,Hiroshima Bank Ltd (The) (Japan),Financial
+16,GZTGF,Gazit-Globe Ltd - Ordinary Shares,Financial
+17,OPI,Office Properties Income Trust Common Shares of Beneficial Interest,Financial
+18,BANF,BancFirst Corporation Common Stock,Financial
+19,BDNHF,Brewin Dolphin Hldgs Plc,Financial
+0,JOE,St. Joe Company (The) Common Stock,Financial
+1,ILPT,Industrial Logistics Properties Trust Common Shares of Beneficial Interest,Financial
+2,NTB,Bank of N.T. Butterfield &amp; Son Limited (The) Voting Ordinary Shares,Financial
+3,FMCC,Freddie Mac,Financial
+4,FBP,First BanCorp. New Common Stock,Financial
+5,NWHUF,NorthWest Healthcare Properties REIT Tr Unit,Financial
+6,MMI,"Marcus &amp; Millichap, Inc. Common Stock",Financial
+7,PPBI,Pacific Premier Bancorp Inc,Financial
+8,CODI,Compass Diversified Holdings Shares of Beneficial Interest,Financial
+9,PRPLF,Perpetual Ltd,Financial
+10,HOPE,"Hope Bancorp, Inc. Common Stock",Financial
+11,ACNDF,Ascendas India Trust Unit,Financial
+12,HTLF,"Heartland Financial USA, Inc. Common Stock",Financial
+13,COFUF,Coronation Fund Managers Ltd,Financial
+14,CMLEF,Cominar Real Estate Investment Trust Tr Units,Financial
+15,BNZIF,Banco Invex S A Institucion De Banca Multiple Invex Grupo Financiero Mortgage Trusts,Financial
+16,ARGO,"Argo Group International Holdings, Ltd.",Financial
+17,MRCBF,Morguard Corp,Financial
+18,ROIC,Retail Opportunity Investments Corp. Common Stock (MD),Financial
+19,UE,Urban Edge Properties Common Shares of Beneficial Interest,Financial
+0,TRUP,"Trupanion, Inc. Common Stock",Financial
+1,GTY,Getty Realty Corporation Common Stock,Financial
+2,ECPG,Encore Capital Group Inc Common Stock,Financial
+3,BRMK,Broadmark Realty Capital Inc. Common Stock,Financial
+4,SBCF,Seacoast Banking Corporation of Florida Common Stock,Financial
+5,GBCEF,GBCEF,Financial
+6,VCTR,"Victory Capital Holdings, Inc. Class A Common Stock",Financial
+7,SASR,"Sandy Spring Bancorp, Inc. Common Stock",Financial
+8,BBAJF,Banco Del Bajio SA,Financial
+9,LKFN,Lakeland Financial Corporation Common Stock,Financial
+10,CRESF,Cresud SA Comercial Industrial Financiera Y Agropecuaria Cres,Financial
+11,PHKIF,Poly Ppty Group Co Ord,Financial
+12,JRVR,"James River Group Holdings, Ltd. Common Shares",Financial
+13,SMMCF,Summit Industrial Income REIT Tr Unit New,Financial
+14,CESTF,Chinese Ests Hldgs Ord,Financial
+15,BGCP,"BGC Partners, Inc Class A Common Stock",Financial
+16,BOWFF,Boardwalk Real Estate Investment Trust Tr Unit,Financial
+17,ALBKF,Alpha Bank SA,Financial
+18,CGIUF,ESR REIT Units,Financial
+19,EGBN,"Eagle Bancorp, Inc. Common Stock",Financial
+0,FRHC,Freedom Holding Corp. Common Stock,Financial
+1,CCX,Churchill Capital Corp II Class A Common Stock,Financial
+2,RPAI,"Retail Properties of America, Inc. Class A Common Stock",Financial
+3,MAC,Macerich Company (The) Common Stock,Financial
+4,SITC,SITE Centers Corp. Common Stock,Financial
+5,CRVL,CorVel Corp. Common Stock,Financial
+6,PMT,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,Financial
+7,CHCO,City Holding Company Common Stock,Financial
+8,AGLY,Agiliti Inc - Ordinary Shares,Financial
+9,AKR,Acadia Realty Trust Common Stock,Financial
+10,UMTAF,Genertec Universal Medical Group Co,Financial
+11,DRH,Diamondrock Hospitality Company Common Stock,Financial
+12,NMIH,NMI Holdings Inc. Class A Common Stock,Financial
+13,RREIF,Regal Rl Est Invt Tr Uts,Financial
+14,PLAZF,Platzer Fastigheter Holding AB,Financial
+15,IRT,"Independence Realty Trust, Inc. Common Stock",Financial
+16,SBSI,"Southside Bancshares, Inc. Common Stock",Financial
+17,LRCDF,Laurentian Bank of Canada,Financial
+18,COOP,Mr. Cooper Group Inc. Common Stock,Financial
+19,WDR,"Waddell &amp; Reed Financial, Inc. Common Stock",Financial
+0,DRETF,Dream Office Real Estate Investment Trust Tr Unit Ser A,Financial
+1,TMP,Tompkins Financial Corporation Common Stock,Financial
+2,STFC,State Auto Financial Corporation Common Stock,Financial
+3,PAE,PAE Incorporated Class A Common Stock,Financial
+4,FPAFF,First Pacific Co. Ltd.,Financial
+5,FFG,"FBL Financial Group, Inc. Common Stock",Financial
+6,XHR,"Xenia Hotels &amp; Resorts, Inc. Common Stock",Financial
+7,OCFC,OceanFirst Financial Corp. Common Stock,Financial
+8,BUSE,First Busey Corporation Class A Common Stock,Financial
+9,CAR,"Avis Budget Group, Inc. Common Stock",Financial
+10,EIG,Employers Holdings Inc Common Stock,Financial
+11,STBA,"S&amp;T Bancorp, Inc. Common Stock",Financial
+12,EQGPF,Equitable Group Inc,Financial
+13,ALPC,Alpha Investment Inc,Financial
+14,RPAY,Repay Holdings Corporation Class A Common Stock,Financial
+15,LADR,Ladder Capital Corp Class A Common Stock,Financial
+16,FPAC,Far Point Acquisition Corporation Class A Common Stock,Financial
+17,RMR,The RMR Group Inc. Class A Common Stock,Financial
+18,OSBHF,Oslo Bors Vps Holding As,Financial
+19,CDHSF,Cdl Hospitality Tr Stpld,Financial
+0,IARE,InvenTrust Properties Corp,Financial
+1,SVC,Service Properties Trust Common Stock,Financial
+2,AC,"Associated Capital Group, Inc. Common Stock",Financial
+3,VUPPF,Verwaltungs Und Pri,Financial
+4,KWIPF,Kiwi Property Group Ltd,Financial
+5,SG,"Sirius International Insurance Group, Ltd. Common Share",Financial
+6,FMBL,Farmers &amp; Merchants Bank of Long Beach (CA),Financial
+7,CHCT,Community Healthcare Trust Incorporated Common Stock,Financial
+8,NMFC,New Mountain Finance Corporation Common Stock,Financial
+9,PFS,"Provident Financial Services, Inc Common Stock",Financial
+10,KREF,KKR Real Estate Finance Trust Inc. Common Stock,Financial
+11,PIPR,Piper Sandler Companies Common Stock,Financial
+12,INTL,INTL FCStone Inc. Common Stock,Financial
+13,IRET,Investors Real Estate Trust Shares of Beneficial Interest,Financial
+14,CFNCF,Cie Financiere Tradition,Financial
+15,VBTX,"Veritex Holdings, Inc. Common Stock",Financial
+16,SRCE,1st Source Corporation Common Stock,Financial
+17,CLNY,"Colony Capital, Inc.",Financial
+18,FPH,"Five Point Holdings, LLC Class A Common Shares",Financial
+19,ALEX,"Alexander &amp; Baldwin, Inc. Common Stock REIT Holding Company",Financial
+0,FRTCF,Far East Consortium Intl,Financial
+1,TCBK,TriCo Bancshares Common Stock,Financial
+2,CADE,Cadence Bancorporation Class A Common Stock,Financial
+3,SFHD,SFHD,Financial
+4,PRA,ProAssurance Corporation Common Stock,Financial
+5,ABR,Arbor Realty Trust Common Stock,Financial
+6,NBHC,National Bank Holdings Corporation Common Stock,Financial
+7,SPAQ,Spartan Energy Acquisition Corp Class A Common Stock,Financial
+8,SRMGF,Sparebank 1 Smn Prim Cap,Financial
+9,HYKUF,Hyakugo Bank Ltd. (Japan),Financial
+10,FTAI,Fortress Transportation and Infrastructure Investors LLC Common Shares,Financial
+11,FKKEF,Charter Hall Social Infrastructure REIT Units Fully Paid,Financial
+12,STAR,iStar Inc. Common Stock,Financial
+13,ADPPF,Ado Properties SA,Financial
+14,KRG,Kite Realty Group Trust Common Stock,Financial
+15,GABC,"German American Bancorp, Inc. Common Stock",Financial
+16,FCF,First Commonwealth Financial Corporation Common Stock,Financial
+17,ARESF,Artis Real Estate Investment Trust Tr Unit,Financial
+18,BBAR,Banco BBVA Argentina S.A. ADS,Financial
+19,BEIJF,Beijing North Star Corp,Financial
+0,RMAX,"RE/MAX Holdings, Inc. Class A Common Stock",Financial
+1,NXRT,"NexPoint Residential Trust, Inc. Common Stock",Financial
+2,AFIN,"American Finance Trust, Inc. Class A Common Stock",Financial
+3,BRP,"BRP Group, Inc. (Insurance Company) Class A Common Stock",Financial
+4,STC,Stewart Information Services Corporation Common Stock,Financial
+5,HFAHF,Navigator Global Investments Ltd,Financial
+6,BNGYF,BNGYF,Financial
+7,MFA,"MFA Financial, Inc.",Financial
+8,LVSDF,Lai Sun Development Co Ltd,Financial
+9,BRKL,"Brookline Bancorp, Inc. Common Stock",Financial
+10,VTIQ,VectoIQ Acquisition Corp. Common Stock,Financial
+11,LMMHF,Langham Hospitality Investments Ltd Share Stapled Unit,Financial
+12,SAMZF,Samui Airport Ppty Fd,Financial
+13,TPRE,Third Point Reinsurance Ltd. Common Shares,Financial
+14,KRNY,Kearny Financial Corp Common Stock,Financial
+15,SGLMF,Starhill Global Re Inv Tr,Financial
+16,GSKY,"GreenSky, Inc. Class A Common Stock",Financial
+17,DBMBF,FIBRA,Financial
+18,VPGLF,Value Partners Group Ltd,Financial
+19,ACEL,"Accel Entertainment, Inc. ",Financial
+0,FBK,FB Financial Corporation Common Stock,Financial
+1,BHPA,BHPA Inc,Financial
+2,WTBFB,W.T.B. Financial Corp.,Financial
+3,HRI,Herc Holdings Inc. Common Stock ,Financial
+4,NMRK,"Newmark Group, Inc. Class A Common Stock",Financial
+5,GWB,"Great Western Bancorp, Inc. Common Stock",Financial
+6,SPIZF,Sparebanken Vest AS,Financial
+7,NWLI,"National Western Life Group, Inc. Class A Common Stock",Financial
+8,SYBT,"Stock Yards Bancorp, Inc. Common Stock",Financial
+9,EFSC,Enterprise Financial Services Corporation Common Stock,Financial
+10,CDCTF,Goldcrest Co Ltd,Financial
+11,BFS,"Saul Centers, Inc. Common Stock",Financial
+12,NYMT,"New York Mortgage Trust, Inc. Common Stock",Financial
+13,BSIG,BrightSphere Investment Group Inc. Common Stock,Financial
+14,SLRC,Solar Capital Ltd. Common Stock,Financial
+15,VRTS,"Virtus Investment Partners, Inc. Common Stock",Financial
+16,AGM,Federal Agricultural Mortgage Corporation Common Stock,Financial
+17,GSBD,"Goldman Sachs BDC, Inc. Common Stock",Financial
+18,UFCS,"United Fire Group, Inc. Common Stock",Financial
+19,FOR,Forestar Group Inc Common Stock ,Financial
+0,FBNC,First Bancorp Common Stock,Financial
+1,DBMXF,Deutsche Bank Mexico Reit,Financial
+2,SPOXF,Sprott Inc,Financial
+3,FBAK,First National Bank Alaska,Financial
+4,RBCAA,"Republic Bancorp, Inc. Class A Common Stock",Financial
+5,QK,Q&amp;K International Group Limited American Depositary Shares,Financial
+6,VESTF,Vesta,Financial
+7,CCH,Collier Creek Holdings Class A Ordinary Shares,Financial
+8,CPAA,Conyers Park II Acquisition Corp. Class A Common Stock,Financial
+9,RDPEF,Redefine Properties Ltd.,Financial
+10,HBIA,Hills Bancorp Of Iowa,Financial
+11,DHC,Diversified Healthcare Trust Common Shares of Beneficial Interest,Financial
+12,MNXBF,Monex Group Inc.,Financial
+13,CHLTF,ARA LOGOS Logistics Trust - Unit,Financial
+14,TIACF,Tian An China Invsts,Financial
+15,CBAOF,CIBanco SA Ctf Bursatiles Fiduciarios Inmobiliaro Ser 13,Financial
+16,AMBC,"Ambac Financial Group, Inc. Common Stock",Financial
+17,OCSL,Oaktree Specialty Lending Corporation Common Stock,Financial
+18,SCU,"Sculptor Capital Management, Inc. Class A Common Stock",Financial
+19,HFWA,Heritage Financial Corporation Common Stock,Financial
+0,FMCB,Farmers &amp; Merchants Bancorp (Lodi CA),Financial
+1,EXPI,"eXp World Holdings, Inc. Common Stock",Financial
+2,EOHDF,Emeco Holdings Ltd Ord,Financial
+3,OPB,Opus Bank Common Stock,Financial
+4,AHH,"Armada Hoffler Properties, Inc. Common Stock",Financial
+5,FFWM,First Foundation Inc. Common Stock,Financial
+6,UVE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,Financial
+7,CMPRF,Gentera Sab De Cv Ord,Financial
+8,AINV,Apollo Investment Corporation Common Stock,Financial
+9,CASH,"Meta Financial Group, Inc. Common Stock",Financial
+10,SKT,"Tanger Factory Outlet Centers, Inc. Common Stock",Financial
+11,ISCDF,Isracard Ltd - Ordinary Shares,Financial
+12,EBIX,"Ebix, Inc. Common Stock",Financial
+13,OFG,OFG Bancorp Common Stock,Financial
+14,GHIV,"Gores Holdings IV, Inc. Class A Common Stock",Financial
+15,TRST,TrustCo Bank Corp NY Common Stock,Financial
+16,EBSB,"Meridian Bancorp, Inc. Common Stock",Financial
+17,LSIHF,Lai Sun Garment (International) Ltd,Financial
+18,FDEF,First Defiance Financial Corp. Common Stock,Financial
+19,NCBS,Nicolet Bankshares Inc. Common Stock,Financial
+0,CTBI,"Community Trust Bancorp, Inc. Common Stock",Financial
+1,GMHI,"Gores Metropoulos, Inc. Class A Common Stock",Financial
+2,GOOD,Gladstone Commercial Corporation Real Estate Investment Trust,Financial
+3,TBK,"Triumph Bancorp, Inc. Common Stock",Financial
+4,JSEJF,Jse Ltd Ord,Financial
+5,BPFH,"Boston Private Financial Holdings, Inc. Common Stock",Financial
+6,PCDVF,Pacific Cntry Regnl Dev,Financial
+7,HYAC,Haymaker Acquisition Corp. II Class A Common Stock,Financial
+8,BPIRY,Piraeus Bank SA ADR (New) 2015,Financial
+9,BHLB,"Berkshire Hills Bancorp, Inc. Common Stock",Financial
+10,FSP,Franklin Street Properties Corp. Common Stock,Financial
+11,GSBC,"Great Southern Bancorp, Inc. Common Stock",Financial
+12,INN,"Summit Hotel Properties, Inc. Common Stock",Financial
+13,LBC,Luther Burbank Corporation Common Stock,Financial
+14,CPSDF,CSI Properties Ltd.,Financial
+15,CLNC,"Colony Credit Real Estate, Inc. Class A Common Stock",Financial
+16,LOB,"Live Oak Bancshares, Inc. Common Stock",Financial
+17,FINV,FinVolution Group American Depositary Shares,Financial
+18,BPYU,Brookfield Property REIT Inc. Class A Common Stock,Financial
+19,NFBK,"Northfield Bancorp, Inc. Common Stock (Delaware)",Financial
+0,EHMEF,goeasy Ltd,Financial
+1,LBAI,"Lakeland Bancorp, Inc. Common Stock",Financial
+2,HEES,"H&amp;E Equipment Services, Inc. Common Stock",Financial
+3,WASH,"Washington Trust Bancorp, Inc. Common Stock",Financial
+4,SWZNF,Schweizerische Natlbank,Financial
+5,PACQ,Pure Acquisition Corp. Class A Common Stock,Financial
+6,BMTC,Bryn Mawr Bank Corporation Common Stock,Financial
+7,HMST,"HomeStreet, Inc. Common Stock",Financial
+8,PLZAF,PLZAF,Financial
+9,PACK,Ranpak Holdings Corp Class A Common Stock,Financial
+10,TRTX,"TPG RE Finance Trust, Inc. Common Stock",Financial
+11,PFBC,Preferred Bank Common Stock,Financial
+12,PBCFF,Public Financial Holdings Ltd,Financial
+13,ARR,"ARMOUR Residential REIT, Inc.",Financial
+14,WINA,Winmark Corporation Common Stock,Financial
+15,UBA,Urstadt Biddle Properties Inc. Common Stock,Financial
+16,AMTB,Amerant Bancorp Inc. Class A Common Stock,Financial
+17,ABTX,"Allegiance Bancshares, Inc. Common Stock",Financial
+18,CNOB,"ConnectOne Bancorp, Inc. Common Stock",Financial
+19,CMO,Capstead Mortgage Corporation Common Stock,Financial
+0,RLGY,Realogy Holdings Corp. Common Stock,Financial
+1,UMH,"UMH Properties, Inc. Common Stock",Financial
+2,FTAC,FinTech Acquisition Corp. III Class A Common Stock,Financial
+3,FESNF,First Re Invst Tr Unit,Financial
+4,AGMH,AGM Group Holdings Inc. Class A Ordinary Shares,Financial
+5,CGBD,"TCG BDC, Inc. Common Stock",Financial
+6,VSTKF,Vostok New Ventures Ltd Swedish Dep Rcpt SDB,Financial
+7,RILY,"B. Riley Financial, Inc. Common Stock",Financial
+8,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,Financial
+9,HONE,"HarborOne Bancorp, Inc. Common Stock",Financial
+10,EMCHF,EML Payments Ltd,Financial
+11,BLX,"Banco Latinoamericano de Comercio Exterior, S.A.",Financial
+12,APXT,Apex Technology Acquisition Corporation Class A Common Stock,Financial
+13,CFB,"CrossFirst Bankshares, Inc. Common Stock",Financial
+14,DCOM,"Dime Community Bancshares, Inc. Common Stock",Financial
+15,THFF,First Financial Corporation Indiana Common Stock,Financial
+16,THBR,"Thunder Bridge Acquisition II, Ltd. Class A Ordinary Shares",Financial
+17,GMRE,Global Medical REIT Inc. Common Stock,Financial
+18,OBNK,"Origin Bancorp, Inc. Common Stock",Financial
+19,RWT,"Redwood Trust, Inc. Common Stock",Financial
+0,TIGR,UP Fintech Holding Ltd American Depositary Share representing fifteen Class A Ordinary Shares,Financial
+1,YIN,Yintech Investment Holdings Limited American Depositary Shares,Financial
+2,BANC,"Banc of California, Inc. Common Stock",Financial
+3,MBI,MBIA Inc. Common Stock,Financial
+4,GDYN,"Grid Dynamics Holdings, Inc. Class A Common Stock",Financial
+5,UVSP,Univest Financial Corporation Common Stock,Financial
+6,EFC,Ellington Financial Inc. Common Stock ,Financial
+7,CAC,Camden National Corporation Common Stock,Financial
+8,LFHLF,Lai Fung Holdings,Financial
+9,MBIN,Merchants Bancorp Common Stock,Financial
+10,PLPKF,PPK Group Ltd,Financial
+11,CBTX,"CBTX, Inc. Common Stock",Financial
+12,HTBK,Heritage Commerce Corp Common Stock,Financial
+13,IHC,Independence Holding Company Common Stock,Financial
+14,RPT,RPT Realty Common Stock,Financial
+15,PROS,"ProSight Global, Inc. Common Stock",Financial
+16,WETF,"WisdomTree Investments, Inc. Common Stock",Financial
+17,AOZOF,Aozora Bank Ltd,Financial
+18,TGH,Textainer Group Holdings Limited Common Shares,Financial
+19,QCRH,"QCR Holdings, Inc. Common Stock",Financial
+0,CPF,Central Pacific Financial Corp New,Financial
+1,PEBO,Peoples Bancorp Inc. Common Stock,Financial
+2,LCA,"Landcadia Holdings II, Inc. Class A Common Stock",Financial
+3,DGICA,"Donegal Group, Inc. Class A Common Stock",Financial
+4,CIO,"City Office REIT, Inc. Common Stock",Financial
+5,LEOPF,Leopalace21 Corp,Financial
+6,STCB,Starco Brands Inc,Financial
+7,FRPH,"FRP Holdings, Inc. Common Stock",Financial
+8,FMBH,"First Mid Bancshares, Inc. Common Stock",Financial
+9,SBE,Switchback Energy Acquisition Corporation Class A Common Stock,Financial
+10,SRG,Seritage Growth Properties Class A Common Stock,Financial
+11,WRLD,World Acceptance Corporation Common Stock,Financial
+12,PTPNF,PTPNF,Financial
+13,ACAM,Acamar Partners Acquisition Corp. Class A Common Stock,Financial
+14,AROW,Arrow Financial Corporation Common Stock,Financial
+15,KLDI,KLDiscovery Inc - Ordinary Shares - Class A,Financial
+16,BMRC,Bank of Marin Bancorp Common Stock,Financial
+17,LGC,"Legacy Acquisition Corp. Class A Common Stock, par value $0.0001 per share",Financial
+18,HCAC,Hennessy Capital Acquisition Corp. IV Class A Common Stock,Financial
+19,IMXI,"International Money Express, Inc. Common Stock",Financial
+0,HBNC,"Horizon Bancorp, Inc. Common Stock",Financial
+1,FBMS,"First Bancshares, Inc.",Financial
+2,LC,LendingClub Corporation Common Stock,Financial
+3,ACTT,Act II Global Acquisition Corp. Class A Ordinary Shares,Financial
+4,HTZ,"Hertz Global Holdings, Inc Common Stock ",Financial
+5,TRNE,Trine Acquisition Corp. Class A Common Stock,Financial
+6,RFNDF,Rural Funds Group Stapled Sec Fully Paid,Financial
+7,CFFA,CF Finance Acquisition Corp. Class A Common Stock,Financial
+8,TSC,"TriState Capital Holdings, Inc. Common Stock",Financial
+9,BDGE,"Bridge Bancorp, Inc. Common Stock",Financial
+10,BFC,Bank First Corporation Common Stock,Financial
+11,CHPM,CHP Merger Corp. Class A Common Stock,Financial
+12,PTLKF,Pt Lippo Kara Tbk Ord,Financial
+13,BY,"Byline Bancorp, Inc. Common Stock",Financial
+14,PUYI,Puyi Inc. American Depository Shares,Financial
+15,DEUIF,Deutsche Industrie Grundbesitz AG,Financial
+16,AIFIF,Asia Financial Holdings Ltd.,Financial
+17,DBIN,Dacotah Banks Inc.,Financial
+18,RPLA,Replay Acquisition Corp. Ordinary Shares,Financial
+19,THCB,Tuscan Holdings Corp. Common Stock,Financial
+0,PUB,People's Utah Bancorp Common Stock,Financial
+1,CCORF,Canaccord Genuity Group Inc,Financial
+2,GXGX,GX Acquisiton Corp. Class A Common Stock,Financial
+3,NEBU,Nebula Acquisition Corporation Class A Common Stock,Financial
+4,DDLX,DD's Deluxe Rod Holder Inc,Financial
+5,DPHC,DiamondPeak Holdings Corp. Class A Common Stock,Financial
+6,TRC,Tejon Ranch Co Common Stock,Financial
+7,GAIN,Gladstone Investment Corporation Business Development Company,Financial
+8,CNBKA,"Century Bancorp, Inc. Class A Common Stock",Financial
+9,CNND,Canandaigua National Corp.,Financial
+10,WSBF,"Waterstone Financial, Inc. Common Stock (MD)",Financial
+11,EXPC,Experience Investment Corp. Class A Common Stock,Financial
+12,TBBK,The Bancorp Inc Common Stock,Financial
+13,GBLI,Global Indemnity Limited Ordinary Shares (Cayman Islands),Financial
+14,CTT,"CatchMark Timber Trust, Inc. Class A Common Stock",Financial
+15,HCI,"HCI Group, Inc. Common Stock",Financial
+16,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",Financial
+17,ORGO,Organogenesis Holdings Inc. Class A Common Stock,Financial
+18,DHIL,"Diamond Hill Investment Group, Inc. Class A Common Stock",Financial
+19,HUIZ,Huize Holding Limited American Depositary Shares,Financial
+0,RESI,Front Yard Residential Corporation Common Stock,Financial
+1,FFMR,First Farmers Financial Corp.,Financial
+2,COWN,Cowen Inc. Class A Common Stock,Financial
+3,SRXXF,Sparx Asset Mgmt Co Ltd,Financial
+4,SEMUF,Siem Industries Inc.,Financial
+5,OITAF,Oita Bank Ltd (Japan),Financial
+6,UIHC,United Insurance Holdings Corp. Common Stock,Financial
+7,FLIC,First of Long Island Corporation (The) Common Stock,Financial
+8,ENVA,"Enova International, Inc. Common Stock",Financial
+9,GBL,"Gamco Investors, Inc. Common Stock",Financial
+10,IGIC,International General Insurance Holdings Ltd. Ordinary Share,Financial
+11,HRTG,"Heritage Insurance Holdings, Inc. Common Stock",Financial
+12,NFIN,Netfin Acquisition Corp. Class A Ordinary Shares,Financial
+13,FSB,"Franklin Financial Network, Inc. Common Stock",Financial
+14,MSBI,"Midland States Bancorp, Inc. Common Stock",Financial
+15,OTCM,OTC Markets Group Inc,Financial
+16,MBWM,Mercantile Bank Corporation Common Stock,Financial
+17,APTS,"Preferred Apartment Communities, Inc. Common Stock",Financial
+18,BBDC,"Barings BDC, Inc. Common Stock",Financial
+19,CIIC,CIIG Merger Corp. Class A Common Stock,Financial
+0,GRAF,Graf Industrial Corp. Common Stock,Financial
+1,HCCO,Healthcare Merger Corp. Class A Common Stock,Financial
+2,FSRV,FinServ Acquisition Corp. Class A Common Stock,Financial
+3,CRSA,Crescent Acquisition Corp Class A Common Stock,Financial
+4,SMMC,South Mountain Merger Corp. Class A Common Stock,Financial
+5,SSPK,Silver Spike Acquisition Corp. Class A Ordinary Shares,Financial
+6,PZN,Pzena Investment Management Inc Class A Common Stock,Financial
+7,HSTA,Hestia Insight Inc - Ordinary Shares,Financial
+8,CRD.A,Crawford &amp; Company Common Stock,Financial
+9,DRCHF,Direcional Engenharia SA,Financial
+10,HIFS,Hingham Institution for Savings Common Stock,Financial
+11,GDVTZ,Gould Investors L.P. Units LP Int.,Financial
+12,ALRS,Alerus Financial Corporation Common Stock,Financial
+13,HBT,"HBT Financial, Inc. Common Stock",Financial
+14,BFYT,"Benefytt Technologies, Inc. Class A Common Stock",Financial
+15,CCAP,"Crescent Capital BDC, Inc. Common stock",Financial
+16,AMAL,Amalgamated Bank Class A Common Stock,Financial
+17,GMHLF,Gam Holding Ltd.,Financial
+18,RC,Ready Capital Corproation Common Stock,Financial
+19,SNHPF,Sanei Architecture Planning Co.Ltd.,Financial
+0,FMNB,Farmers National Banc Corp. Common Stock,Financial
+1,CCBG,Capital City Bank Group Common Stock,Financial
+2,PGC,Peapack-Gladstone Financial Corporation Common Stock,Financial
+3,LPMDF,Lippo Malls Indonesia Tr,Financial
+4,SHLL,Tortoise Acquisition Corp. Class A Common Stock,Financial
+5,CIA,"Citizens, Inc. Class A Common Stock ($1.00 Par)",Financial
+6,DX,"Dynex Capital, Inc. Common Stock",Financial
+7,PSKXF,Philippine Stk Exch Inc,Financial
+8,RMG,RMG Acquisition Corp. Class A Common Stock,Financial
+9,PIC,Pivotal Investment Corporation II Class A Common Stock,Financial
+10,CUBI,"Customers Bancorp, Inc Common Stock",Financial
+11,NPA,New Providence Acquisition Corp. Class A Common Stock,Financial
+12,SNLKF,Sinolink Wrldwde Hldg Ord,Financial
+13,AMCI,AMCI Acquisition Corp. Class A Common Stock,Financial
+14,NASB,NASB Financial Inc - Ordinary Shares,Financial
+15,PFLT,PennantPark Floating Rate Capital Ltd. Common Stock,Financial
+16,RRBI,"Red River Bancshares, Inc. Common Stock",Financial
+17,OLP,"One Liberty Properties, Inc. Common Stock",Financial
+18,LAND,Gladstone Land Corporation Common Stock,Financial
+19,CATN,CAT9 Group Inc,Financial
+0,FMCI,Forum Merger II Corporation Class A Common Stock,Financial
+1,FFIC,Flushing Financial Corporation Common Stock,Financial
+2,CAI,"CAI International, Inc. Common Stock",Financial
+3,PSKRF,Protector Forsikring ASA,Financial
+4,BHB,"Bar Harbor Bankshares, Inc. Common Stock",Financial
+5,CATC,Cambridge Bancorp Common Stock,Financial
+6,NODK,"NI Holdings, Inc. Common Stock",Financial
+7,CRD.B,Crawford &amp; Company Common Stock,Financial
+8,ATCX,"Atlas Technical Consultants, Inc. Class A Common Stock",Financial
+9,SI,Silvergate Capital Corporation Class A Common Stock,Financial
+10,EZPW,"EZCORP, Inc. Class A Non Voting Common Stock",Financial
+11,GWGH,"GWG Holdings, Inc Common Stock",Financial
+12,MOFG,MidWestOne Financial Gp Common Stock,Financial
+13,JCAP,"Jernigan Capital, Inc. Common Stock",Financial
+14,ATAX,"America First Multifamily Investors, L.P. Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests",Financial
+15,SBNC,Southern BancShares (NC) Inc.,Financial
+16,HUNTF,Hunter Maritime Acquisition Corp - Ordinary Shares - Class A,Financial
+17,BWB,"Bridgewater Bancshares, Inc. Common Stock",Financial
+18,GNTY,"Guaranty Bancshares, Inc. Common Stock",Financial
+19,ORC,"Orchid Island Capital, Inc. Common Stock",Financial
+0,IBCP,Independent Bank Corporation Common Stock,Financial
+1,WTBA,West Bancorporation Common Stock,Financial
+2,THVB,Thomasville Bancshares Inc.,Financial
+3,PFIS,Peoples Financial Services Corp. Common Stock,Financial
+4,CNF,"CNFinance Holdings Limited American Depositary Shares, each representing  twenty (20) Ordinary Shares",Financial
+5,GPMT,Granite Point Mortgage Trust Inc. Common Stock,Financial
+6,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,Financial
+7,EBTC,Enterprise Bancorp Inc Common Stock,Financial
+8,KCLI,Kansas City Life Ins.,Financial
+9,LHC,Leo Holdings Corp. Class A Ordinary Shares,Financial
+10,PTVCA,Protective Insurance Corporation Class A Common Stock,Financial
+11,OAC,Oaktree Acquisition Corp. Class A Ordinary Shares,Financial
+12,GCAP,"GAIN Capital Holdings, Inc. Common Stock",Financial
+13,BSRR,Sierra Bancorp Common Stock,Financial
+14,OPY,"Oppenheimer Holdings, Inc. Class A Common Stock (DE)",Financial
+15,CURO,CURO Group Holdings Corp. Common Stock,Financial
+16,MJCO,Majesco Common Stock,Financial
+17,LACQ,Leisure Acquisition Corp. Common Stock,Financial
+18,CREJF,CRE Inc,Financial
+19,LATN,Union Acquisition Corp. II Ordinary Shares,Financial
+0,GSMG,Glory Star New Media Group Holdings Limited Ordinary Share,Financial
+1,CLDT,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest,Financial
+2,SDWHF,Soundwill Holdings Ltd,Financial
+3,AMNB,"American National Bankshares, Inc. Common Stock",Financial
+4,HAFC,Hanmi Financial Corporation Common Stock,Financial
+5,ALARF,Alaris Royalty Corp,Financial
+6,CZNC,Citizens &amp; Northern Corp Common Stock,Financial
+7,GLRE,"Greenlight Capital Re, Ltd. Class A Ordinary Shares",Financial
+8,CSWC,Capital Southwest Corporation Common Stock,Financial
+9,BFST,"Business First Bancshares, Inc. Common Stock",Financial
+10,PBFS,"Pioneer Bancorp, Inc. Common Stock",Financial
+11,SBBSF,Sabana Shariah Compliant,Financial
+12,WTRE,Watford Holdings Ltd. Common Shares,Financial
+13,FISI,"Financial Institutions, Inc. Common Stock",Financial
+14,LMRK,Landmark Infrastructure Partners LP Common Units,Financial
+15,FPI,Farmland Partners Inc. Common Stock,Financial
+16,FMAO,"Farmers &amp; Merchants Bancorp, Inc. Common Stock",Financial
+17,SCPE,SC Health Corporation Class A Ordinary Shares,Financial
+18,ITIC,Investors Title Company Common Stock,Financial
+19,RBB,RBB Bancorp Common Stock,Financial
+0,MNCL,Monocle Acquisition Corporation Common Stock,Financial
+1,MCBS,"MetroCity Bankshares, Inc. Common Stock",Financial
+2,MCBC,Macatawa Bank Corporation Common Stock,Financial
+3,HTBI,"HomeTrust Bancshares, Inc. Common Stock",Financial
+4,GIX,"GigCapital2, Inc. Common Stock",Financial
+5,MFAC,Megalith Financial Acquisition Corp. Class A Common Stock,Financial
+6,CCNE,CNB Financial Corporation Common Stock,Financial
+7,ATLC,Atlanticus Holdings Corporation Common Stock,Financial
+8,RVI,Retail Value Inc. Common Stock ,Financial
+9,SRAC,Stable Road Acquisition Corp. Class A Common Stock,Financial
+10,COFS,"ChoiceOne Financial Services, Inc. Common Stock",Financial
+11,TBNK,Territorial Bancorp Inc. Common Stock,Financial
+12,LEJU,"Leju Holdings Limited American Depositary Shares, each representing one Ordinary share",Financial
+13,THCA,Tuscan Holdings Corp. II Common Stock,Financial
+14,SPFI,"South Plains Financial, Inc. Common Stock",Financial
+15,BIOX,Bioceres Crop Solutions Corp. Ordinary Shares,Financial
+16,SMBK,"SmartFinancial, Inc. Common Stock",Financial
+17,WSR,Whitestone REIT Common Shares,Financial
+18,CRQDF,Credito Real SA De CV,Financial
+19,ACBI,"Atlantic Capital Bancshares, Inc. Common Stock",Financial
+0,PTAC,PropTech Acquisition Corporation Class A Common Stock,Financial
+1,TIPT,Tiptree Inc. Common Stock,Financial
+2,EQBK,"Equity Bancshares, Inc. Class A Common Stock",Financial
+3,INSU,Insurance Acquisition Corp. Class A Common Stock,Financial
+4,PFHD,Professional Holding Corp. Class A Common stock,Financial
+5,ACRE,Ares Commercial Real Estate Corporation Common Stock,Financial
+6,SONA,"Southern National Bancorp of Virginia, Inc. Common Stock",Financial
+7,FIZN,First Citizens Bancshares Inc. (Dyersburg TN),Financial
+8,RCBC,River City Bank (Sacramento CA),Financial
+9,YTRGF,Y.T. Realty Group Ltd,Financial
+10,CIVB,"Civista Bancshares, Inc. Common Stock",Financial
+11,RFL,"Rafael Holdings, Inc. Class B Common Stock",Financial
+12,FNLC,"First Bancorp, Inc  (ME) Common Stock",Financial
+13,LFAC,LF Capital Acquistion Corp. Class A Common Stock,Financial
+14,BNRPF,Solon Eiendom ASA,Financial
+15,CZFS,Citizens Financial Services Inc,Financial
+16,FDUS,Fidus Investment Corporation Common Stock,Financial
+17,PCSB,PCSB Financial Corporation Common Stock,Financial
+18,WINS,Wins Finance Holdings Inc. Ordinary Shares (Cayman Islands),Financial
+19,MLP,"Maui Land &amp; Pineapple Company, Inc. Common Stock",Financial
+0,FFMH,First Farmers &amp; Merchants Corp. (Columbia TN),Financial
+1,EXSR,Exchange Bank (Santa Rosa CA),Financial
+2,BRYAF,Berjaya Corporation Bhd,Financial
+3,AMBZ,American Business Bank (Los Angeles CA),Financial
+4,BMCDF,Bolsas Y Mercados Argentinos,Financial
+5,ESNNF,Esun Holdings Ltd,Financial
+6,RBNC,"Reliant Bancorp, Inc. Common Stock",Financial
+7,GLAD,Gladstone Capital Corporation Common Stock,Financial
+8,GRIF,"Griffin Industrial Realty, Inc. Common Stock",Financial
+9,ARYA,ARYA Sciences Acquisiton Corp. Class A Ordinary Shares ,Financial
+10,CARE,Carter Bank &amp; Trust Common Stock,Financial
+11,SNR,New Senior Investment Group Inc. Common Stock,Financial
+12,SFST,"Southern First Bancshares, Inc. Common Stock",Financial
+13,HBCP,"Home Bancorp, Inc. Common Stock",Financial
+14,SMBC,"Southern Missouri Bancorp, Inc. Common Stock",Financial
+15,FRRGF,Frontier Digital Ventures Ltd,Financial
+16,IRS,IRSA Inversiones Y Representaciones S.A. Common Stock,Financial
+17,ENOB,"Enochian Biosciences, Inc. Common Stock",Financial
+18,OSBC,"Old Second Bancorp, Inc. Common Stock",Financial
+19,HGDPF,Helgeland Sparebank,Financial
+0,SMMF,"Summit Financial Group, Inc. Common Stock",Financial
+1,SIEB,Siebert Financial Corp. Common Stock,Financial
+2,CPLG,CorePoint Lodging Inc. Common Stock ,Financial
+3,SUNS,Solar Senior Capital Ltd. Common Stock,Financial
+4,OPRT,Oportun Financial Corporation Common Stock,Financial
+5,FNBT,Finemark Holdings Inc,Financial
+6,PIOE,P10 Holdings Inc,Financial
+7,STXB,"Spirit of Texas Bancshares, Inc. Common Stock",Financial
+8,ACNB,ACNB Corporation Common Stock,Financial
+9,FFXXF,Fairfax Africa Holdings,Financial
+10,PNNT,PennantPark Investment Corporation Common Stock,Financial
+11,CSTR,"CapStar Financial Holdings, Inc. Common Stock",Financial
+12,MCB,Metropolitan Bank Holding Corp. Common Stock,Financial
+13,FDBC,"Fidelity D &amp; D Bancorp, Inc. Common Stock",Financial
+14,NZSTF,NZX Ltd.,Financial
+15,MCRNF,Micro-Mechanics Ltd Ord,Financial
+16,VERY,"Vericity, Inc. Common Stock",Financial
+17,SUPV,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares,Financial
+18,UFFRF,Unifin Financiera SAB De CV,Financial
+19,ALTM,Altus Midstream Company Class A Common Stock,Financial
+0,AUBN,"Auburn National Bancorporation, Inc. Common Stock",Financial
+1,CTO,"CTO Realty Growth, Inc. Common Stock ",Financial
+2,GCBC,"Greene County Bancorp, Inc. Common Stock",Financial
+3,ALPIB,Alpine Banks Colorado,Financial
+4,PLYM,"Plymouth Industrial REIT, Inc. Common Stock",Financial
+5,VNKEF,Vanke Overseas Investment Holding Company Limited - Ordinary Shares,Financial
+6,HBMD,"Howard Bancorp, Inc. Common Stock",Financial
+7,PTVCB,Protective Insurance Corporation Class B Common Stock,Financial
+8,RM,Regional Management Corp. Common Stock,Financial
+9,NKSH,"National Bankshares, Inc. Common Stock",Financial
+10,WNRP,West Suburban Bancorp Inc.,Financial
+11,ESSC,East Stone Acquisition Corporation Ordinary Shares,Financial
+12,DMTK,"DermTech, Inc. Common Stock",Financial
+13,BKCC,BlackRock Capital Investment Corporation Common Stock,Financial
+14,FCAP,"First Capital, Inc. Common Stock",Financial
+15,PFBI,"Premier Financial Bancorp, Inc. Common Stock",Financial
+16,GPIIF,GP Investments Ltd,Financial
+17,TSRUF,Pacific Current Group Ltd,Financial
+18,GLEO,Galileo Acquisition Corp. Ordinary Shares,Financial
+19,CSHX,Cashmere Valley Bank Washington (New),Financial
+0,WHF,"WhiteHorse Finance, Inc. Common Stock",Financial
+1,AJX,Great Ajax Corp. Common Stock,Financial
+2,MODVF,Melcor Developments Ltd,Financial
+3,ATLO,Ames National Corporation Common Stock,Financial
+4,GHL,"Greenhill &amp; Co., Inc. Common Stock",Financial
+5,SAMA,Schultze Special Purpose Acquisition Corp. Common Stock,Financial
+6,ALTG,Alta Equipment Group Inc. Class A Common Stock,Financial
+7,SJ,Scienjoy Holding Corporation Ordinary Shares,Financial
+8,LCNB,LCNB Corporation Common Stock,Financial
+9,FSBW,"FS Bancorp, Inc. Common Stock",Financial
+10,MCMJ,Merida Merger Corp. I Common Stock,Financial
+11,CRESY,Cresud S.A.C.I.F. y A. American Depositary Shares,Financial
+12,NEN,New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership,Financial
+13,IRCP,IRSA Propiedades Comerciales S.A. American Depositary Shares,Financial
+14,FCBP,First Choice Bancorp Common Stock,Financial
+15,PVBC,"Provident Bancorp, Inc. (MD) Common Stock",Financial
+16,CVCY,Central Valley Community Bancorp Common Stock,Financial
+17,HT,Hersha Hospitality Trust Class A Common Shares of Beneficial Interest,Financial
+18,FLY,Fly Leasing Limited,Financial
+19,BBCP,"Concrete Pumping Holdings, Inc. Common Stock",Financial
+0,TCI,"Transcontinental Realty Investors, Inc. Common Stock",Financial
+1,ALAC,Alberton Acquisition Corporation Ordinary Shares,Financial
+2,QTRHF,Quarterhill Inc - Ordinary Shares,Financial
+3,MVBF,MVB Financial Corp. Common Stock,Financial
+4,FNHC,FedNat Holding Company Common Stock,Financial
+5,SAR,Saratoga Investment Corp New,Financial
+6,BBX,BBX Capital Corporation Class A Common Stock,Financial
+7,TGRF,TGR Financial Inc,Financial
+8,BCBP,"BCB Bancorp, Inc. (NJ) Common Stock",Financial
+9,MPB,Mid Penn Bancorp Common Stock,Financial
+10,EVOA,EVO Transportation &amp; Energy Services Inc,Financial
+11,CORR,"CorEnergy Infrastructure Trust, Inc. Common Stock",Financial
+12,CFNB,California First National Bancorp - Ordinary Shares,Financial
+13,WHG,Westwood Holdings Group Inc Common Stock,Financial
+14,CCB,Coastal Financial Corporation Common Stock,Financial
+15,FVCB,"FVCBankcorp, Inc. Common Stock",Financial
+16,UNTY,"Unity Bancorp, Inc. Common Stock",Financial
+17,PWOD,"Penns Woods Bancorp, Inc. Common Stock",Financial
+18,GPAQ,Gordon Pointe Acquisition Corp. Class A Common Stock,Financial
+19,HCKG,Hocking Valley Bancshares Inc.,Financial
+0,NWFL,Norwood Financial Corp. Common Stock,Financial
+1,PAAC,Proficient Alpha Acquisition Corp. Common Stock,Financial
+2,JMSB,John Marshall Bancorp Inc,Financial
+3,GLBD,Global Seed Corp,Financial
+4,BRT,BRT Apartments Corp. (MD) Common Stock,Financial
+5,MSBC,Mission Bancorp (Bakersfield CA),Financial
+6,ANH,Anworth Mortgage Asset Corporation Common Stock,Financial
+7,SBBX,SB One Bancorp Common Stock,Financial
+8,PHGE,BiomX Inc. COmmon Stock,Financial
+9,CBNK,"Capital Bancorp, Inc. Common Stock",Financial
+10,SBT,"Sterling Bancorp, Inc. Common Stock",Financial
+11,TRCY,Tri City Bankshares Corp.,Financial
+12,PICO,"PICO Holdings, Inc. Common Stock (DE)",Financial
+13,ANDA,Andina Acquisition Corp. III Ordinary Shares,Financial
+14,TDAC,Trident Acquisitions Corp. Common Stock,Financial
+15,ORRF,Orrstown Financial Services Inc Common Stock,Financial
+16,CMCT,CIM Commercial Trust Corporation Common stock,Financial
+17,GANS,GAINSCO Inc.,Financial
+18,TSBK,"Timberland Bancorp, Inc. Common Stock",Financial
+19,ESSA,"ESSA Bancorp, Inc. Common Stock",Financial
+0,RMBI,"Richmond Mutual Bancorporation, Inc. Common Stock",Financial
+1,MRCC,Monroe Capital Corporation Common Stock,Financial
+2,PKBK,"Parke Bancorp, Inc. Common Stock",Financial
+3,FSMK,1St Summit Bncrp Johntown,Financial
+4,XIN,Xinyuan Real Estate Co Ltd American Depositary Shares,Financial
+5,BRG,"Bluerock Residential Growth REIT, Inc. Class A Common Stock",Financial
+6,SAMG,Silvercrest Asset Management Group Inc. Class A Common Stock,Financial
+7,PCB,PCB Bancorp Common Stock,Financial
+8,FRBA,First Bank Common Stock,Financial
+9,ISBA,Isabella Bank Corp,Financial
+10,PDLB,PDL Community Bancorp Common Stock,Financial
+11,KLR,"Kaleyra, Inc. Common Stock",Financial
+12,ASASF,Asia Standard Intl Gp Ord,Financial
+13,BCML,BayCom Corp Common Stock,Financial
+14,SCM,Stellus Capital Investment Corporation Common Stock,Financial
+15,ASPS,Altisource Portfolio Solutions S.A. Common Stock,Financial
+16,FRBK,"Republic First Bancorp, Inc. Common Stock",Financial
+17,INBK,First Internet Bancorp Common Stock,Financial
+18,MRTI,Maxus Realty Trust Inc,Financial
+19,ADKT,Adirondack Trust Co.,Financial
+0,NRIM,Northrim BanCorp Inc Common Stock,Financial
+1,ILCC,International Leaders,Financial
+2,NBN,Northeast Bank Common Stock,Financial
+3,EVBN,"Evans Bancorp, Inc. Common Stock",Financial
+4,MUDS,Mudrick Capital Acquisition Corporation Class A Common Stock,Financial
+5,CALB,California BanCorp Common Stock,Financial
+6,TCFC,The Community Financial Corporation Common Stock,Financial
+7,SFE,"Safeguard Scientifics, Inc. New Common Stock",Financial
+8,WNEB,"Western New England Bancorp, Inc. Common Stock",Financial
+9,LEVL,"Level One Bancorp, Inc. Common Stock",Financial
+10,CIZN,Citizens Holding Company Common Stock,Financial
+11,CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,Financial
+12,BERK,Berkshire Bancorp Inc (DE),Financial
+13,BPRN,The Bank of Princeton Common Stock,Financial
+14,XYF,"X Financial American Depositary Shares, each representing two Class A Ordinary Shares",Financial
+15,SLCT,"Select Bancorp, Inc. Common Stock",Financial
+16,AMHC,Amplitude Healthcare Acquisition Corporation Class A Common Stock,Financial
+17,AHOTF,American Hotel Income Properties REIT LP Unit Ltd Partnership Int,Financial
+18,MLGF,Malaga Financial Corp,Financial
+19,STRS,Stratus Properties Inc. Common Stock,Financial
+0,CHMG,Chemung Financial Corp Common Stock,Financial
+1,RELI,Reliance Global Group Inc - Ordinary Shares,Financial
+2,ISTR,Investar Holding Corporation Common Stock,Financial
+3,ICBK,"County Bancorp, Inc. Common Stock",Financial
+4,FBIP,FNB Bancorp Inc. (PA),Financial
+5,FCCY,1st Constitution Bancorp (NJ) Common Stock,Financial
+6,WPG,Washington Prime Group Inc. Common Stock,Financial
+7,OVBC,Ohio Valley Banc Corp. Common Stock,Financial
+8,ABGSF,Abg Sundal Collier Asa,Financial
+9,CNPOF,Canopy Rivers Inc.,Financial
+10,CFFI,C&amp;F Financial Corporation Common Stock,Financial
+11,AYRSF,AYR Strategies Inc,Financial
+12,FBIZ,"First Business Financial Services, Inc. Common Stock",Financial
+13,FNWB,First Northwest Bancorp Common Stock,Financial
+14,FGBI,"First Guaranty Bancshares, Inc. Common Stock",Financial
+15,ALID,Allied Corp (New),Financial
+16,CBFV,"CB Financial Services, Inc. Common Stock",Financial
+17,KLIB,Killbuck Bancshares Inc.,Financial
+18,AMRK,"A-Mark Precious Metals, Inc. Common Stock",Financial
+19,BFIN,BankFinancial Corporation Common Stock,Financial
+0,DBCP,Delmar Bancorp Common Stock,Financial
+1,MBCN,Middlefield Banc Corp. Common Stock,Financial
+2,FNCB,FNCB Bancorp Inc. Common Stock,Financial
+3,JT,"Jianpu Technology Inc. American depositary shares, each two representing five Class A ordinary shares",Financial
+4,OCBI,Orange County Bancorp Inc.,Financial
+5,LYBC,Lyons Bancorp Inc.,Financial
+6,STTTF,Splitit Payments Ltd - Ordinary Shares,Financial
+7,BOCH,Bank of Commerce Holdings (CA) Common Stock,Financial
+8,WMC,Western Asset Mortgage Capital Corporation Common Stock,Financial
+9,EARN,Ellington Residential Mortgage REIT Common Shares of Beneficial Interest,Financial
+10,CVLY,"Codorus Valley Bancorp, Inc Common Stock",Financial
+11,MVC,"MVC Capital, Inc. Common Stock",Financial
+12,SCBH,Seacoast Commerce Banc Holdings,Financial
+13,SBFG,"SB Financial Group, Inc. Common Stock",Financial
+14,OXSQ,Oxford Square Capital Corp. Common Stock,Financial
+15,OFED,Oconee Federal Financial Corp. Common Stock,Financial
+16,RVRF,River Financial Corp,Financial
+17,FKYS,First Keystone Corp.,Financial
+18,HLAN,Heartland BancCorp,Financial
+19,STND,Standard AVB Financial Corp. Common Stock,Financial
+0,FCCO,First Community Corporation Common Stock,Financial
+1,ESQ,"Esquire Financial Holdings, Inc. Common Stock",Financial
+2,BWFG,"Bankwell Financial Group, Inc. Common Stock",Financial
+3,FREVS,First Real Estate Investment Trust of N.J.,Financial
+4,ESXB,Community Bankers Trust Corporation Common Stock (VA),Financial
+5,TPRP,Tower Properties Co.,Financial
+6,SHBI,Shore Bancshares Inc Common Stock,Financial
+7,EBMT,"Eagle Bancorp Montana, Inc. Common Stock",Financial
+8,TRUX,Truxton Corp,Financial
+9,OVLY,Oak Valley Bancorp (CA) Common Stock,Financial
+10,RVSB,Riverview Bancorp Inc Common Stock,Financial
+11,ARL,"American Realty Investors, Inc. Common Stock",Financial
+12,FRAF,Franklin Financial Services Corporation Common Stock,Financial
+13,MNSB,"MainStreet Bancshares, Inc. Common Stock",Financial
+14,SNFCA,Security National Financial Corporation Class A Common Stock,Financial
+15,BSBK,Bogota Financial Corp. Common Stock,Financial
+16,FNRN,First Northern Community Bancorp,Financial
+17,NWIN,Northwest Indiana Bancorp,Financial
+18,CNBW,CNB Corp.,Financial
+19,JFIN,Jiayin Group Inc. American Depositary Shares,Financial
+0,CLPR,Clipper Realty Inc. Common Stock,Financial
+1,LARK,Landmark Bancorp Inc. Common Stock,Financial
+2,CHBH,Croghan Bancshares Inc.,Financial
+3,ENBP,ENB Financial Corp,Financial
+4,FUNC,First United Corporation Common Stock,Financial
+5,QNBC,QNB Corp.,Financial
+6,NSCO,"Nesco Holdings, Inc. Common Stock",Financial
+7,MYFW,"First Western Financial, Inc. Common Stock",Financial
+8,MRBK,Meridian Corporation Common Stock,Financial
+9,DDEJF,Dundee Corp,Financial
+10,HWBK,"Hawthorn Bancshares, Inc. Common Stock",Financial
