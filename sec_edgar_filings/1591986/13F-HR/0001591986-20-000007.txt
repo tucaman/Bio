@@ -1,0 +1,314 @@
+<SEC-DOCUMENT>0001591986-20-000007.txt : 20200214
+<SEC-HEADER>0001591986-20-000007.hdr.sgml : 20200214
+<ACCEPTANCE-DATETIME>20200214162632
+ACCESSION NUMBER:		0001591986-20-000007
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200214
+DATE AS OF CHANGE:		20200214
+EFFECTIVENESS DATE:		20200214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aquilo Capital Management, LLC
+		CENTRAL INDEX KEY:			0001591986
+		IRS NUMBER:				272448001
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-18892
+		FILM NUMBER:		20620576
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE LETTERMAN DRIVE
+		STREET 2:		SUITE D4900, BUILDING D
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94129
+		BUSINESS PHONE:		415-635-0140
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE LETTERMAN DRIVE
+		STREET 2:		SUITE D4900, BUILDING D
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94129
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Aquilo Capital Managment, LLC
+		DATE OF NAME CHANGE:	20131114
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001591986</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2019</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2019</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Aquilo Capital Management, LLC</name>
+        <address>
+          <com:street1>ONE LETTERMAN DRIVE</com:street1>
+          <com:street2>SUITE D4900, BUILDING D</com:street2>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94129</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-18892</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Howard Nurtman</name>
+      <title>Compliance Consultant</title>
+      <phone>310.806.6267</phone>
+      <signature>Howard Nurtman</signature>
+      <city>Beverly Hills</city>
+      <stateOrCountry>CA</stateOrCountry>
+      <signatureDate>02-14-2020</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>12</tableEntryTotal>
+      <tableValueTotal>266237</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>Q42019_13F.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:informationTable xmlns:ns1="http://www.sec.gov/edgar/document/thirteenf/informationtable">
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>DICERNA PHARMACEUTICALS INC </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>253031108</ns1:cusip>
+		<ns1:value>13536</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>614436</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>614436</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>FATE THERAPEUTICS INC </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>31189P102</ns1:cusip>
+		<ns1:value>1414</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>72273</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>72273</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>GALAPAGOS NV </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SPON ADR</ns1:titleOfClass>
+		<ns1:cusip>36315X101</ns1:cusip>
+		<ns1:value>14885</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>71967</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>71967</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>MERUS N V </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>N5749R100</ns1:cusip>
+		<ns1:value>14626</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>1038746</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>1038746</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>MORPHOSYS AG </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SPONSORED ADS</ns1:titleOfClass>
+		<ns1:cusip>617760202</ns1:cusip>
+		<ns1:value>217</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>6080</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>6080</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>PIERIS PHARMACEUTICALS INC </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>720795103</ns1:cusip>
+		<ns1:value>17769</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>4966820</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>4966820</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>PROQR THRAPEUTICS N V </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SHS EURO</ns1:titleOfClass>
+		<ns1:cusip>N71542109</ns1:cusip>
+		<ns1:value>19053</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>1922570</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>1922570</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>REGENXBIO INC </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>75901B107</ns1:cusip>
+		<ns1:value>11012</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>268778</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>268778</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>SPDR SERIES TRUST </ns1:nameOfIssuer>
+		<ns1:titleOfClass>S&amp;P BIOTECH</ns1:titleOfClass>
+		<ns1:cusip>78464A870</ns1:cusip>
+		<ns1:value>118888</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>1250000</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:putCall>Put</ns1:putCall>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>0</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>1250000</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>SPERO THERAPEUTICS INC </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>84833T103</ns1:cusip>
+		<ns1:value>11099</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>1154356</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>1154356</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>UNIQURE NV </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SHS</ns1:titleOfClass>
+		<ns1:cusip>N90064101</ns1:cusip>
+		<ns1:value>28442</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>396899</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>396899</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>XENON PHARMACEUTICALS INC </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>98420N105</ns1:cusip>
+		<ns1:value>15296</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>1166736</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>1166736</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+</ns1:informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

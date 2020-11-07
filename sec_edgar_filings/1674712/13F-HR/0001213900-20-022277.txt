@@ -1,0 +1,978 @@
+<SEC-DOCUMENT>0001213900-20-022277.txt : 20200814
+<SEC-HEADER>0001213900-20-022277.hdr.sgml : 20200814
+<ACCEPTANCE-DATETIME>20200814162354
+ACCESSION NUMBER:		0001213900-20-022277
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200630
+FILED AS OF DATE:		20200814
+DATE AS OF CHANGE:		20200814
+EFFECTIVENESS DATE:		20200814
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vivo Capital, LLC
+		CENTRAL INDEX KEY:			0001674712
+		IRS NUMBER:				203075737
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-17467
+		FILM NUMBER:		201105462
+
+	BUSINESS ADDRESS:	
+		STREET 1:		192 LYTTON AVENUE
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94301
+		BUSINESS PHONE:		650-688-0818
+
+	MAIL ADDRESS:	
+		STREET 1:		192 LYTTON AVENUE
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94301
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001674712</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>06-30-2020</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>06-30-2020</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>Vivo Capital, LLC</name>
+        <address>
+          <ns1:street1>192 LYTTON AVENUE</ns1:street1>
+          <ns1:city>Palo Alto</ns1:city>
+          <ns1:stateOrCountry>CA</ns1:stateOrCountry>
+          <ns1:zipCode>94301</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-17467</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Zhanping Wu</name>
+      <title>Chief Compliance Officer</title>
+      <phone>650-688-0818</phone>
+      <signature>/s/ Zhanping Wu</signature>
+      <city>Palo Alto</city>
+      <stateOrCountry>CA</stateOrCountry>
+      <signatureDate>08-14-2020</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>54</tableEntryTotal>
+      <tableValueTotal>1394708</tableValueTotal>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>infotable.xml
+<TEXT>
+<XML>
+<?xml version="1.0" ?>
+<informationTable xsi:schemaLocation="http://www.sec.gov/edgar/document/thirteenf/informationtable eis_13FDocument.xsd" xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:n1="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <infoTable>
+    <nameOfIssuer>Aclaris Therapeutics, Inc.</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>00461U105</cusip>
+    <value>2668</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1647214</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1647214</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Aduro Biotech Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>00739L101</cusip>
+    <value>11824</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>5118560</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>5118560</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Akero Therapeutics Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>00973Y108</cusip>
+    <value>14732</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>591169</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>591169</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Amyris, Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>03236M200</cusip>
+    <value>43475</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>10181472</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>10181472</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Arcutis Biotherapeutics Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>03969K108</cusip>
+    <value>38990</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1289360</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1289360</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Arrowhead Pharmaceuticals Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>04280A100</cusip>
+    <value>24899</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>576505</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>576505</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Ascendis Pharma A/S</nameOfIssuer>
+    <titleOfClass>ADR</titleOfClass>
+    <cusip>04351P101</cusip>
+    <value>265886</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1797745</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1797745</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Atricure Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>04963C209</cusip>
+    <value>2903</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>64573</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>64573</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Aurinia Pharmaceuticals Inc.</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>05156V102</cusip>
+    <value>8137</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>500732</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>500732</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Avadel Pharmaceuticals PLC</nameOfIssuer>
+    <titleOfClass>ADR</titleOfClass>
+    <cusip>05337M104</cusip>
+    <value>28491</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>3526093</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>3526093</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Avrobio Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>05455M100</cusip>
+    <value>4426</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>253625</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>253625</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Black Diamond Therapeutics Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>09203E105</cusip>
+    <value>6339</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>150349</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>150349</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Calliditas Therapeutics AB</nameOfIssuer>
+    <titleOfClass>SPONSORED ADS</titleOfClass>
+    <cusip>13124Q106</cusip>
+    <value>13456</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>580000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>580000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Celldex Therapeutics Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>15117B202</cusip>
+    <value>20800</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1600000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1600000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Codexis, Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>192005106</cusip>
+    <value>17030</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1493903</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1493903</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Constellation Pharmaceutical</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>210373106</cusip>
+    <value>4216</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>140298</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>140298</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Crinetics Pharmaceuticals Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>22663K107</cusip>
+    <value>40587</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2316628</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>2316628</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Cymabay Therapeutics Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>23257D103</cusip>
+    <value>7292</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2089356</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>2089356</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>DBV Technologies S.A.</nameOfIssuer>
+    <titleOfClass>ADR</titleOfClass>
+    <cusip>23306J101</cusip>
+    <value>1185</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>269995</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>269995</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Eiger BioPharmaceuticals Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>28249U105</cusip>
+    <value>17196</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1791257</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1791257</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Galmed Pharmaceuticals Ltd</nameOfIssuer>
+    <titleOfClass>SHS</titleOfClass>
+    <cusip>M47238106</cusip>
+    <value>4111</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>860103</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>860103</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Genetron Holdings Ltd</nameOfIssuer>
+    <titleOfClass>ADS</titleOfClass>
+    <cusip>37186H100</cusip>
+    <value>76522</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>6339860</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>6339860</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Homology Medicines, Inc.</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>438083107</cusip>
+    <value>13302</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>875696</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>875696</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>IGM Biosciences Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>449585108</cusip>
+    <value>8722</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>119480</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>119480</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Insmed Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>457669307</cusip>
+    <value>19480</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>800000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>800000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Iveric Bio Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>46583P102</cusip>
+    <value>30429</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>5966527</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>5966527</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Kadmon Holdings Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>48283N106</cusip>
+    <value>27381</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>5347768</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>5347768</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Kala Pharmaceuticals, Inc.</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>483119103</cusip>
+    <value>8270</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>786883</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>786883</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>KalVista Pharmaceuticals Inc.</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>483497103</cusip>
+    <value>17869</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1476796</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1476796</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Kiniksa Pharmaceuticals</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>G5269C101</cusip>
+    <value>29343</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1151622</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1151622</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Kura Oncology Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>50127T109</cusip>
+    <value>17115</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1050000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1050000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Larimar Therapeutics Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>517125100</cusip>
+    <value>10276</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>799662</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>799662</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Legend Biotech Corp Sponsored</nameOfIssuer>
+    <titleOfClass>SPONSORED ADS</titleOfClass>
+    <cusip>52490G102</cusip>
+    <value>151301</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>3555007</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>3555007</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Matinas Biopharma Hldgs Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>576810105</cusip>
+    <value>8719</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>11279323</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>11279323</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>MEI Pharma Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>55279B202</cusip>
+    <value>4469</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1082080</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1082080</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Menlo Therapeutics Inc.</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>586858102</cusip>
+    <value>6304</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>3643824</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>3643824</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Mereo Biopharma Group PLC</nameOfIssuer>
+    <titleOfClass>ADS</titleOfClass>
+    <cusip>589492107</cusip>
+    <value>2381</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>778000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>778000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Myokardia Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>62857M105</cusip>
+    <value>15296</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>158310</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>158310</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>New Frontier Health Corp</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>G6461G106</cusip>
+    <value>118404</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>14300000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>14300000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Orchard Therapeutics plc</nameOfIssuer>
+    <titleOfClass>ADS</titleOfClass>
+    <cusip>68570P101</cusip>
+    <value>7954</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1325736</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1325736</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Passage Bio Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>702712100</cusip>
+    <value>60935</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2229587</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>2229587</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Precision Biosciences Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>74019P108</cusip>
+    <value>1168</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>140255</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>140255</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Revolution Medicines Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>76155X100</cusip>
+    <value>6299</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>199518</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>199518</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Rocket Pharmaceuticals Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>77313F106</cusip>
+    <value>18013</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>860648</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>860648</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Sage Therapeutics Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>78667J108</cusip>
+    <value>14269</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>343179</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>343179</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Selecta Biosciences Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>816212104</cusip>
+    <value>6406</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2255781</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>2255781</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Sierra Oncology, Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>82640U107</cusip>
+    <value>23197</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1917074</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1917074</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Sinovac Biotech Ltd.</nameOfIssuer>
+    <titleOfClass>SHS</titleOfClass>
+    <cusip>P8696W104</cusip>
+    <value>38173</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>5900000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>5900000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Tricida, Inc.</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>89610F101</cusip>
+    <value>4803</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>174764</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>174764</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Verastem Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>92337C104</cusip>
+    <value>7980</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>4639535</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>4639535</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Verona Pharma PLC</nameOfIssuer>
+    <titleOfClass>ADS</titleOfClass>
+    <cusip>925050106</cusip>
+    <value>6987</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1492951</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1492951</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Zai Lab Limited</nameOfIssuer>
+    <titleOfClass>ADR</titleOfClass>
+    <cusip>98887Q104</cusip>
+    <value>10029</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>122107</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>122107</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Zogenix Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>98978L204</cusip>
+    <value>17787</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>658523</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>658523</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Zymeworks Inc</nameOfIssuer>
+    <titleOfClass>Common</titleOfClass>
+    <cusip>98985W102</cusip>
+    <value>26481</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>734161</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>734161</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,296 @@
+<SEC-DOCUMENT>0001104659-20-066873.txt : 20200528
+<SEC-HEADER>0001104659-20-066873.hdr.sgml : 20200528
+<ACCEPTANCE-DATETIME>20200528125808
+ACCESSION NUMBER:		0001104659-20-066873
+CONFORMED SUBMISSION TYPE:	13F-HR/A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200331
+FILED AS OF DATE:		20200528
+DATE AS OF CHANGE:		20200528
+EFFECTIVENESS DATE:		20200528
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Foresite Capital Management IV, LLC
+		CENTRAL INDEX KEY:			0001704132
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-18415
+		FILM NUMBER:		20919403
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 MONTGOMERY STREET, SUITE 4500
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		415-877-4887
+
+	MAIL ADDRESS:	
+		STREET 1:		600 MONTGOMERY STREET, SUITE 4500
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR/A</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001704132</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2020</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2020</reportCalendarOrQuarter>
+      <isAmendment>true</isAmendment>
+      <amendmentNo>1</amendmentNo>
+      <amendmentInfo>
+        <amendmentType>RESTATEMENT</amendmentType>
+        <confDeniedExpired>false</confDeniedExpired>
+      </amendmentInfo>
+      <filingManager>
+        <name>Foresite Capital Management IV, LLC</name>
+        <address>
+          <ns1:street1>600 Montgomery Street, Suite 4500</ns1:street1>
+          <ns1:city>San Francisco</ns1:city>
+          <ns1:stateOrCountry>CA</ns1:stateOrCountry>
+          <ns1:zipCode>94111</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-18415</form13FFileNumber>
+      <provideInfoForInstruction5>Y</provideInfoForInstruction5>
+      <additionalInformation>The previously filed Form 13F inadvertently listed an incorrect issuer on the Form 13F Information Table and this Amendment is being filed to replace the name and CUSIP of such issuer with the name and CUSIP of the correct issuer.</additionalInformation>
+    </coverPage>
+    <signatureBlock>
+      <name>James B. Tananbaum</name>
+      <title>Managing Member</title>
+      <phone>415-877-4887</phone>
+      <signature>/s/ James B. Tananbaum</signature>
+      <city>San Francisco</city>
+      <stateOrCountry>CA</stateOrCountry>
+      <signatureDate>05-28-2020</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>11</tableEntryTotal>
+      <tableValueTotal>81136</tableValueTotal>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>infotable.xml
+<TEXT>
+<XML>
+<?xml version="1.0" ?>
+<informationTable xsi:schemaLocation="http://www.sec.gov/edgar/document/thirteenf/informationtable eis_13FDocument.xsd" xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:n1="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <infoTable>
+    <nameOfIssuer>Aerie Pharmaceuticals, Inc.</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>00771V108</cusip>
+    <value>3074</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>227717</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>227717</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Biohaven Pharmaceutical Holding Company Ltd.</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>G11196105</cusip>
+    <value>5321</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>156355</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>156355</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>bluebird bio, Inc.</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>09609G100</cusip>
+    <value>2298</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>50000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>50000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Cytokinetics Incorporated</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>23282W605</cusip>
+    <value>25670</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2177292</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>2177292</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Fulcrum Therapeutics, Inc.</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>359616109</cusip>
+    <value>11924</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>998655</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>998655</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Insmed Incorporated</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>457669307</cusip>
+    <value>10874</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>678322</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>678322</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Kiniksa Pharmaceuticals, Ltd.</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>G5269C101</cusip>
+    <value>1006</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>65000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>65000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Kura Oncology, Inc.</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>50127T109</cusip>
+    <value>925</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>93000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>93000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Myokardia, Inc.</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>62857M105</cusip>
+    <value>14411</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>307400</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>307400</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>uniQure N.V.</nameOfIssuer>
+    <titleOfClass>SHS</titleOfClass>
+    <cusip>N90064101</cusip>
+    <value>905</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>19082</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>19082</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Voyager Therapeutics, Inc.</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>92915B106</cusip>
+    <value>4728</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>516751</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <votingAuthority>
+      <Sole>516751</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

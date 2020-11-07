@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001493152-20-002551.txt : 20200214
+<SEC-HEADER>0001493152-20-002551.hdr.sgml : 20200214
+<ACCEPTANCE-DATETIME>20200214164536
+ACCESSION NUMBER:		0001493152-20-002551
+CONFORMED SUBMISSION TYPE:	13F-HR/A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200214
+DATE AS OF CHANGE:		20200214
+EFFECTIVENESS DATE:		20200214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RTW INVESTMENTS, LP
+		CENTRAL INDEX KEY:			0001493215
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-16670
+		FILM NUMBER:		20621255
+
+	BUSINESS ADDRESS:	
+		STREET 1:		412 WEST 15TH STREET
+		STREET 2:		9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10011
+		BUSINESS PHONE:		646-597-6980
+
+	MAIL ADDRESS:	
+		STREET 1:		412 WEST 15TH STREET
+		STREET 2:		9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10011
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RTW INVESTMENTS, LLC
+		DATE OF NAME CHANGE:	20100602
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR/A</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001493215</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2019</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2019</reportCalendarOrQuarter>
+      <isAmendment>true</isAmendment>
+      <amendmentNo>1</amendmentNo>
+      <amendmentInfo>
+        <amendmentType>NEW HOLDINGS</amendmentType>
+        <confDeniedExpired>false</confDeniedExpired>
+      </amendmentInfo>
+      <filingManager>
+        <name>RTW INVESTMENTS, LP</name>
+        <address>
+          <ns1:street1>412 West 15th Street</ns1:street1>
+          <ns1:street2>9th Floor</ns1:street2>
+          <ns1:city>New York</ns1:city>
+          <ns1:stateOrCountry>NY</ns1:stateOrCountry>
+          <ns1:zipCode>10011</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-16670</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Roderick Wong</name>
+      <title>Managing Partner</title>
+      <phone>646-597-6980</phone>
+      <signature>/s/ Roderick Wong</signature>
+      <city>New York</city>
+      <stateOrCountry>NY</stateOrCountry>
+      <signatureDate>02-14-2020</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>3</otherIncludedManagersCount>
+      <tableEntryTotal>1</tableEntryTotal>
+      <tableValueTotal>20485</tableValueTotal>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <cik>0001493219</cik>
+            <form13FFileNumber>028-16671</form13FFileNumber>
+            <name>RTW MASTER FUND, LTD.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>2</sequenceNumber>
+          <otherManager>
+            <cik>0001776733</cik>
+            <form13FFileNumber>028-19525</form13FFileNumber>
+            <name>RTW Innovation Master Fund Ltd.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>3</sequenceNumber>
+          <otherManager>
+            <cik>0001785169</cik>
+            <form13FFileNumber>028-19571</form13FFileNumber>
+            <name>RTW Special Purpose Fund I, LLC</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>infotable.xml
+<TEXT>
+<XML>
+<?xml version="1.0" ?>
+<informationTable xsi:schemaLocation="http://www.sec.gov/edgar/document/thirteenf/informationtable eis_13FDocument.xsd" xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:n1="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <infoTable>
+    <nameOfIssuer>MiMedx Group Inc</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>602496101</cusip>
+    <value>20485</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2702539</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>SOLE</investmentDiscretion>
+    <otherManager>1,2,3</otherManager>
+    <votingAuthority>
+      <Sole>2702539</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

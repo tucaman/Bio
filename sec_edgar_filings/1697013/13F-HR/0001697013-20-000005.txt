@@ -1,0 +1,1261 @@
+<SEC-DOCUMENT>0001697013-20-000005.txt : 20200813
+<SEC-HEADER>0001697013-20-000005.hdr.sgml : 20200813
+<ACCEPTANCE-DATETIME>20200813114423
+ACCESSION NUMBER:		0001697013-20-000005
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200630
+FILED AS OF DATE:		20200813
+DATE AS OF CHANGE:		20200813
+EFFECTIVENESS DATE:		20200813
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Eversept Partners, LP
+		CENTRAL INDEX KEY:			0001697013
+		IRS NUMBER:				475115829
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-18369
+		FILM NUMBER:		201098057
+
+	BUSINESS ADDRESS:	
+		STREET 1:		444 MADISON AVENUE
+		STREET 2:		22ND FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-271-4200
+
+	MAIL ADDRESS:	
+		STREET 1:		444 MADISON AVENUE
+		STREET 2:		22ND FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Eversept Partners, L.P.
+		DATE OF NAME CHANGE:	20180628
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Eversept Partners, LLC
+		DATE OF NAME CHANGE:	20170202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001697013</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>06-30-2020</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>06-30-2020</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Eversept Partners, LP</name>
+        <address>
+          <com:street1>444 MADISON AVENUE</com:street1>
+          <com:street2>22ND FLOOR</com:street2>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10022</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-18369</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Kamran Moghtaderi</name>
+      <title>Managing Principal</title>
+      <phone>212-271-4212</phone>
+      <signature>Kamran Moghtaderi</signature>
+      <city>New York</city>
+      <stateOrCountry>NY</stateOrCountry>
+      <signatureDate>08-13-2020</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>71</tableEntryTotal>
+      <tableValueTotal>619399</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>xml13fq2202008072020.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:informationTable xmlns:ns1="http://www.sec.gov/edgar/document/thirteenf/informationtable">
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>AFFIMED N V                        </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>N01045108</ns1:cusip>
+		<ns1:value>4352</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>942989</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>942989</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>AGILENT TECHNOLOGIES INC           </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>00846U101</ns1:cusip>
+		<ns1:value>44</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>500</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>500</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>ALBIREO PHARMA INC                 </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>01345P106</ns1:cusip>
+		<ns1:value>2067</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>78029</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>78029</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>AMARIN CORP PLC                    </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SPONS ADR NEW</ns1:titleOfClass>
+		<ns1:cusip>023111206</ns1:cusip>
+		<ns1:value>33120</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>4786101</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>4786101</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>AMNEAL PHARMACEUTICALS INC         </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM STK CL A</ns1:titleOfClass>
+		<ns1:cusip>03168L105</ns1:cusip>
+		<ns1:value>4220</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>886587</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>886587</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>APELLIS PHARMACEUTICALS INC        </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>03753U106</ns1:cusip>
+		<ns1:value>13748</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>420932</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>420932</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>ASCENDIS PHARMA A S                </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SPONSORED ADR</ns1:titleOfClass>
+		<ns1:cusip>04351P101</ns1:cusip>
+		<ns1:value>32589</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>220344</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>220344</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>ASTRAZENECA PLC                    </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SPONSORED ADR</ns1:titleOfClass>
+		<ns1:cusip>046353108</ns1:cusip>
+		<ns1:value>29732</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>562151</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>562151</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>AURINIA PHARMACEUTICALS INC        </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>05156V102</ns1:cusip>
+		<ns1:value>8910</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>548325</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>548325</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>AUTOLUS THERAPEUTICS PLC           </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SPON ADS</ns1:titleOfClass>
+		<ns1:cusip>05280R100</ns1:cusip>
+		<ns1:value>4142</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>258360</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>258360</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>BIOCRYST PHARMACEUTICALS INC       </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>09058V103</ns1:cusip>
+		<ns1:value>23100</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>4847792</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>4847792</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>BIODELIVERY SCIENCES INTL IN       </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>09060J106</ns1:cusip>
+		<ns1:value>2544</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>583504</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>583504</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>BIOHAVEN PHARMACTL HLDG CO L       </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>G11196105</ns1:cusip>
+		<ns1:value>32773</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>448264</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>448264</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>BRISTOL-MYERS SQUIBB CO            </ns1:nameOfIssuer>
+		<ns1:titleOfClass>RIGHT 12/30/2030</ns1:titleOfClass>
+		<ns1:cusip>110122140</ns1:cusip>
+		<ns1:value>3</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>6000</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>6000</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>BURNING ROCK BIOTECH LTD           </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SPONSORED ADS      </ns1:titleOfClass>
+		<ns1:cusip>12233L107</ns1:cusip>
+		<ns1:value>810</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>30000</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>30000</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>CELLDEX THERAPEUTICS INC NEW       </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM NEW</ns1:titleOfClass>
+		<ns1:cusip>15117B202</ns1:cusip>
+		<ns1:value>9265</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>712698</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>712698</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>CHEMOCENTRYX INC                   </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>16383L106</ns1:cusip>
+		<ns1:value>2350</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>40842</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>40842</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>COMMUNITY HEALTH SYS INC NEW       </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>203668108</ns1:cusip>
+		<ns1:value>1482</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>492272</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>492272</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>CONCERT PHARMACEUTICALS INC        </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>206022105</ns1:cusip>
+		<ns1:value>2318</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>232983</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>232983</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>CYCLERION THERAPEUTICS INC         </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>23255M105</ns1:cusip>
+		<ns1:value>1464</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>247663</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>247663</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>CYTOKINETICS INC                   </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM NEW</ns1:titleOfClass>
+		<ns1:cusip>23282W605</ns1:cusip>
+		<ns1:value>3340</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>141700</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>141700</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>DANAHER CORPORATION                </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>235851102</ns1:cusip>
+		<ns1:value>19090</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>107857</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>107857</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>DECIPHERA PHARMACEUTICALS IN       </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>24344T101</ns1:cusip>
+		<ns1:value>25002</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>418652</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>418652</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>DEXCOM INC                         </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>252131107</ns1:cusip>
+		<ns1:value>2704</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>6670</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>6670</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>DICERNA PHARMACEUTICALS INC        </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>253031108</ns1:cusip>
+		<ns1:value>3274</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>128905</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>128905</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>DYNAVAX TECHNOLOGIES CORP          </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM NEW</ns1:titleOfClass>
+		<ns1:cusip>268158201</ns1:cusip>
+		<ns1:value>867</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>97800</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>97800</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>EIGER BIOPHARMACEUTICALS INC       </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>28249U105</ns1:cusip>
+		<ns1:value>470</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>49008</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>49008</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>ENSIGN GROUP INC                   </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>29358P101</ns1:cusip>
+		<ns1:value>17904</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>427307</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>427307</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>FATE THERAPEUTICS INC              </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>31189P102</ns1:cusip>
+		<ns1:value>18227</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>531258</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>531258</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>FLUIDIGM CORP DEL                  </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>34385P108</ns1:cusip>
+		<ns1:value>1876</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>467923</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>467923</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>GLAXOSMITHKLINE PLC                </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SPONSORED ADR</ns1:titleOfClass>
+		<ns1:cusip>37733W105</ns1:cusip>
+		<ns1:value>9270</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>227263</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>227263</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>HCA HEALTHCARE INC                 </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>40412C101</ns1:cusip>
+		<ns1:value>2951</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>30400</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>30400</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>HESKA CORP                         </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM RESTRC NEW</ns1:titleOfClass>
+		<ns1:cusip>42805E306</ns1:cusip>
+		<ns1:value>26111</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>280256</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>280256</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>HORIZON THERAPEUTICS PUB LTD       </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SHS</ns1:titleOfClass>
+		<ns1:cusip>G46188101</ns1:cusip>
+		<ns1:value>53064</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>954738</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>954738</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>IMMUNOVANT INC                     </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>45258J102</ns1:cusip>
+		<ns1:value>299</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>12266</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>12266</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>KALVISTA PHARMACEUTICALS INC       </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>483497103</ns1:cusip>
+		<ns1:value>1087</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>89806</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>89806</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>KINIKSA PHARMACEUTICALS LTD        </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM CL A</ns1:titleOfClass>
+		<ns1:cusip>G5269C101</ns1:cusip>
+		<ns1:value>2082</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>81700</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>81700</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>LIQUIDIA TECHNOLOGIES INC          </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>53635D202</ns1:cusip>
+		<ns1:value>7239</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>859724</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>859724</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>MODEL N INC                        </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>607525102</ns1:cusip>
+		<ns1:value>11845</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>340764</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>340764</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>MOMENTA PHARMACEUTICALS INC        </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>60877T100</ns1:cusip>
+		<ns1:value>4137</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>124338</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>124338</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>MYOKARDIA INC                      </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>62857M105</ns1:cusip>
+		<ns1:value>6821</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>70594</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>70594</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>MYOVANT SCIENCES LTD               </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>G637AM102</ns1:cusip>
+		<ns1:value>15683</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>760551</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>760551</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>OSMOTICA PHARMACEUTICALS PLC       </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SHS</ns1:titleOfClass>
+		<ns1:cusip>G6S41R101</ns1:cusip>
+		<ns1:value>532</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>79037</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>79037</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>OTONOMY INC                        </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>68906L105</ns1:cusip>
+		<ns1:value>2176</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>601163</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>601163</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>OXFORD IMMUNOTEC GLOBAL PLC        </ns1:nameOfIssuer>
+		<ns1:titleOfClass>ORD SHS</ns1:titleOfClass>
+		<ns1:cusip>G6855A103</ns1:cusip>
+		<ns1:value>4552</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>350138</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>350138</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>PACIRA BIOSCIENCES                 </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>695127100</ns1:cusip>
+		<ns1:value>6960</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>132655</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>132655</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>PENNANT GROUP INC                  </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>70805E109</ns1:cusip>
+		<ns1:value>2318</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>102568</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>102568</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>PROTARA THERAPEUTICS INC           </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM STK            </ns1:titleOfClass>
+		<ns1:cusip>74365U107</ns1:cusip>
+		<ns1:value>1358</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>46310</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>46310</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>PROTHENA CORP PLC                  </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SHS</ns1:titleOfClass>
+		<ns1:cusip>G72800108</ns1:cusip>
+		<ns1:value>1592</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>152213</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>152213</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>QIAGEN NV                          </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SHS NEW</ns1:titleOfClass>
+		<ns1:cusip>N72482123</ns1:cusip>
+		<ns1:value>3530</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>82466</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>82466</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>RADIUS HEALTH INC                  </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM NEW</ns1:titleOfClass>
+		<ns1:cusip>750469207</ns1:cusip>
+		<ns1:value>3000</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>220110</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>220110</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>SANOFI                             </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SPONSORED ADR</ns1:titleOfClass>
+		<ns1:cusip>80105N105</ns1:cusip>
+		<ns1:value>2541</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>49778</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>49778</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>SAREPTA THERAPEUTICS INC           </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>803607100</ns1:cusip>
+		<ns1:value>11501</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>71731</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>71731</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>SCPHARMACEUTICALS INC              </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>810648105</ns1:cusip>
+		<ns1:value>1821</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>247419</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>247419</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>SESEN BIO INC                      </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>817763105</ns1:cusip>
+		<ns1:value>1440</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>2000000</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>2000000</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>SOLID BIOSCIENCES INC              </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>83422E105</ns1:cusip>
+		<ns1:value>1193</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>407024</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>407024</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>TARO PHARMACEUTICAL INDS LTD       </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SHS</ns1:titleOfClass>
+		<ns1:cusip>M8737E108</ns1:cusip>
+		<ns1:value>6993</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>105169</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>105169</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>TELIGENT INC NEW                   </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM NEW            </ns1:titleOfClass>
+		<ns1:cusip>87960W203</ns1:cusip>
+		<ns1:value>859</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>354998</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>354998</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>TG THERAPEUTICS INC                </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>88322Q108</ns1:cusip>
+		<ns1:value>48725</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>2501272</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>2501272</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>UNIQURE NV                         </ns1:nameOfIssuer>
+		<ns1:titleOfClass>SHS</ns1:titleOfClass>
+		<ns1:cusip>N90064101</ns1:cusip>
+		<ns1:value>1033</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>22928</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>22928</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>UNITED THERAPEUTICS CORP DEL       </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>91307C102</ns1:cusip>
+		<ns1:value>28154</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>232676</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>232676</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>VAPOTHERM INC                      </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>922107107</ns1:cusip>
+		<ns1:value>2944</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>71819</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>71819</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>XOMA CORP DEL                      </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM NEW</ns1:titleOfClass>
+		<ns1:cusip>98419J206</ns1:cusip>
+		<ns1:value>1266</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>64056</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>64056</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>ZOGENIX INC                        </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM NEW</ns1:titleOfClass>
+		<ns1:cusip>98978L204</ns1:cusip>
+		<ns1:value>27201</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>1007083</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>1007083</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>ZYMEWORKS INC                      </ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>98985W102</ns1:cusip>
+		<ns1:value>1443</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>40000</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>40000</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>AIR LEASE CORP                     </ns1:nameOfIssuer>
+		<ns1:titleOfClass>PUT</ns1:titleOfClass>
+		<ns1:cusip>00912X952</ns1:cusip>
+		<ns1:value>278</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>200</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>200</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>ALIGN TECHNOLOGY INC               </ns1:nameOfIssuer>
+		<ns1:titleOfClass>PUT</ns1:titleOfClass>
+		<ns1:cusip>016255951</ns1:cusip>
+		<ns1:value>68</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>100</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>100</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>AMARIN CORP PLC                    </ns1:nameOfIssuer>
+		<ns1:titleOfClass>CALL</ns1:titleOfClass>
+		<ns1:cusip>023111906</ns1:cusip>
+		<ns1:value>2831</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>10803</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>10803</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>SPDR S&amp;P 500 ETF TR                </ns1:nameOfIssuer>
+		<ns1:titleOfClass>PUT</ns1:titleOfClass>
+		<ns1:cusip>78462F953</ns1:cusip>
+		<ns1:value>7387</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>3400</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>3400</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>SELECT SECTOR SPDR TR              </ns1:nameOfIssuer>
+		<ns1:titleOfClass>PUT</ns1:titleOfClass>
+		<ns1:cusip>81369Y959</ns1:cusip>
+		<ns1:value>3266</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>800</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>800</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>ZOGENIX INC                        </ns1:nameOfIssuer>
+		<ns1:titleOfClass>CALL</ns1:titleOfClass>
+		<ns1:cusip>98978L904</ns1:cusip>
+		<ns1:value>61</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>55</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:votingAuthority>
+			<ns1:Sole>55</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+</ns1:informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,1599 @@
+<SEC-DOCUMENT>0001178913-20-002378.txt : 20200813
+<SEC-HEADER>0001178913-20-002378.hdr.sgml : 20200813
+<ACCEPTANCE-DATETIME>20200813060249
+ACCESSION NUMBER:		0001178913-20-002378
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200630
+FILED AS OF DATE:		20200813
+DATE AS OF CHANGE:		20200813
+EFFECTIVENESS DATE:		20200813
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SPHERA FUNDS MANAGEMENT LTD.
+		CENTRAL INDEX KEY:			0001496201
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			L3
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-15863
+		FILM NUMBER:		201097054
+
+	BUSINESS ADDRESS:	
+		STREET 1:		21 HA'ARBA'AH STREET
+		CITY:			TEL AVIV
+		STATE:			L3
+		ZIP:			64739
+		BUSINESS PHONE:		972-3-6845535
+
+	MAIL ADDRESS:	
+		STREET 1:		21 HA'ARBA'AH STREET
+		CITY:			TEL AVIV
+		STATE:			L3
+		ZIP:			64739
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001496201</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>06-30-2020</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>06-30-2020</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>SPHERA FUNDS MANAGEMENT LTD.</name>
+        <address>
+          <ns1:street1>21 HA'ARBA'AH STREET</ns1:street1>
+          <ns1:city>TEL AVIV</ns1:city>
+          <ns1:stateOrCountry>L3</ns1:stateOrCountry>
+          <ns1:zipCode>64739</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-15863</form13FFileNumber>
+      <provideInfoForInstruction5>Y</provideInfoForInstruction5>
+      <additionalInformation>Investment discretion with regard to a portion of the securities reported herein is exercised by Sphera Global Healthcare Management L.P. (the "Management Company"). The Management Company is managed, controlled, and operated by its general partner, Sphera Global Healthcare GP Ltd. (the "General Partner"), the shares of which are owned 50% by Sphera Funds Management Ltd. ("SFML"). SFML is entitled to appoint 50% of the members of the board of directors of the General Partner (the "Board of Directors") and 50% of the members to the investment committee of the Management Company (the "Investment Committee"), and therefore may be deemed to share control of the General Partner and Management Company. This Form 13F shall not be construed as an admission by SFML, the General Partner, or the Management Company that it is the beneficial owner of any of the securities covered by this Form 13F, and each of SFML, the General Partner, and the Management Company disclaim beneficial ownership of any such securities. Per informal guidance received from the Division of Investment Management, section 13(f) securities that are dual listed on a U.S. stock exchange and the Tel Aviv Stock Exchange were included in this Form 13F only if they were purchased in the U.S.</additionalInformation>
+    </coverPage>
+    <signatureBlock>
+      <name>Israel Mor</name>
+      <title>Partner</title>
+      <phone>972-3-6845535</phone>
+      <signature>/s/ Israel Mor</signature>
+      <city>Tel Aviv</city>
+      <stateOrCountry>L3</stateOrCountry>
+      <signatureDate>08-06-2020</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>2</otherIncludedManagersCount>
+      <tableEntryTotal>87</tableEntryTotal>
+      <tableValueTotal>1063322</tableValueTotal>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <cik>0001599855</cik>
+            <form13FFileNumber>028-15864</form13FFileNumber>
+            <name>Sphera Global Healthcare GP Ltd.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>2</sequenceNumber>
+          <otherManager>
+            <cik>0001599854</cik>
+            <form13FFileNumber>028-15865</form13FFileNumber>
+            <name>Sphera Global Healthcare Management LP</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>infotable.xml
+<TEXT>
+<XML>
+<?xml version="1.0" ?>
+<informationTable xsi:schemaLocation="http://www.sec.gov/edgar/document/thirteenf/informationtable eis_13FDocument.xsd" xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:n1="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <infoTable>
+    <nameOfIssuer>ABBVIE INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>00287Y109</cusip>
+    <value>72123</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>734598</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>734598</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ADMA BIOLOGICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>000899104</cusip>
+    <value>5816</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1984949</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>1984949</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>AKEBIA THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>00972D105</cusip>
+    <value>2105</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>155000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>155000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>AKOUOS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>00973J101</cusip>
+    <value>2250</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>100000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>100000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ALLOT LTD</nameOfIssuer>
+    <titleOfClass>SHS</titleOfClass>
+    <cusip>M0854Q105</cusip>
+    <value>10087</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>963456</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>963456</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>AMAZON COM INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>023135106</cusip>
+    <value>11918</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>4320</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>4320</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>AMGEN INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>031162100</cusip>
+    <value>18869</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>80000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>80000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>AMICUS THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>03152W109</cusip>
+    <value>24559</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1628550</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>1628550</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>APREA THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>03836J102</cusip>
+    <value>6138</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>158289</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>158289</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ARGENX SE</nameOfIssuer>
+    <titleOfClass>SPONSORED ADR</titleOfClass>
+    <cusip>04016X101</cusip>
+    <value>2312</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>10265</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>10265</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ARYA SCIENCES ACQUISITION CO</nameOfIssuer>
+    <titleOfClass>UNIT 10/04/2023</titleOfClass>
+    <cusip>G3165V117</cusip>
+    <value>4000</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>200000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>200000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ARYA SCIENCES ACQUISTION CO</nameOfIssuer>
+    <titleOfClass>UNIT 06/09/2027</titleOfClass>
+    <cusip>G31655114</cusip>
+    <value>3480</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>300000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>300000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ASCENDIS PHARMA A S</nameOfIssuer>
+    <titleOfClass>SPONSORED ADR</titleOfClass>
+    <cusip>04351P101</cusip>
+    <value>5084</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>34373</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>34373</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ASTRAZENECA PLC</nameOfIssuer>
+    <titleOfClass>SPONSORED ADR</titleOfClass>
+    <cusip>046353108</cusip>
+    <value>47072</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>890000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>890000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>AXOVANT GENE THERAPIES</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>G0750W203</cusip>
+    <value>8060</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2857998</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>2857998</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>BELLUS HEALTH INC NEW</nameOfIssuer>
+    <titleOfClass>COM NEW</titleOfClass>
+    <cusip>07987C204</cusip>
+    <value>1006</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>97805</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>97805</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>BRISTOL-MYERS SQUIBB CO</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>110122108</cusip>
+    <value>41160</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>700000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>700000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>CAMTEK LTD</nameOfIssuer>
+    <titleOfClass>ORD</titleOfClass>
+    <cusip>M20791105</cusip>
+    <value>468</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>37184</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>37184</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>CATALYST PHARMACEUTICALS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>14888U101</cusip>
+    <value>3375</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>730557</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>730557</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>CELLECTAR BIOSCIENCES INC</nameOfIssuer>
+    <titleOfClass>COM PAR</titleOfClass>
+    <cusip>15117F500</cusip>
+    <value>112</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>87500</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>87500</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>COMPUGEN LTD</nameOfIssuer>
+    <titleOfClass>ORD</titleOfClass>
+    <cusip>M25722105</cusip>
+    <value>3004</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>200000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>200000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>CONCERT PHARMACEUTICALS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>206022105</cusip>
+    <value>6972</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>700710</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>700710</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>CORBUS PHARMACEUTICALS HLDGS</nameOfIssuer>
+    <titleOfClass>CALL</titleOfClass>
+    <cusip>21833P103</cusip>
+    <value>2001</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>238500</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <putCall>Call</putCall>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>0</Sole>
+      <Shared>0</Shared>
+      <None>238500</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>DECIPHERA PHARMACEUTICALS IN</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>24344T101</cusip>
+    <value>16899</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>282965</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>282965</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>DOMINOS PIZZA INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>25754A201</cusip>
+    <value>5365</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>14521</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>14521</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>DOVER CORP</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>260003108</cusip>
+    <value>5560</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>57576</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>57576</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ENPHASE ENERGY INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>29355A107</cusip>
+    <value>3330</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>70000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>70000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>EXICURE INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>30205M101</cusip>
+    <value>4636</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1900000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>1900000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>FATE THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>31189P102</cusip>
+    <value>7720</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>225000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>225000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>FISERV INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>337738108</cusip>
+    <value>9298</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>95246</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>95246</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>FIVERR INTL LTD</nameOfIssuer>
+    <titleOfClass>ORD SHS</titleOfClass>
+    <cusip>M4R82T106</cusip>
+    <value>12328</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>167002</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>167002</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>GALERA THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>36338D108</cusip>
+    <value>3350</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>469245</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>469245</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>HOMOLOGY MEDICINES INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>438083107</cusip>
+    <value>10009</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>658919</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>658919</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>IMMUNIC INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>4525EP101</cusip>
+    <value>1212</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>100000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>100000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>IMMUNOVANT INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>45258J102</cusip>
+    <value>2557</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>105000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>105000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>INTRA CELLULAR THERAPIES INC</nameOfIssuer>
+    <titleOfClass>CALL</titleOfClass>
+    <cusip>46116X101</cusip>
+    <value>5871</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>228700</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <putCall>Call</putCall>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>0</Sole>
+      <Shared>0</Shared>
+      <None>228700</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>INVESCO QQQ TR</nameOfIssuer>
+    <titleOfClass>PUT</titleOfClass>
+    <cusip>46090E103</cusip>
+    <value>38997</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>157500</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <putCall>Put</putCall>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>157500</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>IOVANCE BIOTHERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>462260100</cusip>
+    <value>9553</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>348000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>348000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>IVERIC BIO INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>46583P102</cusip>
+    <value>1020</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>200000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>200000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>JOHNSON &amp; JOHNSON</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>478160104</cusip>
+    <value>42189</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>300000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>300000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>KALVISTA PHARMACEUTICALS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>483497103</cusip>
+    <value>2906</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>240140</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>240140</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>KARYOPHARM THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>48576U106</cusip>
+    <value>7440</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>392831</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>392831</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>KORNIT DIGITAL LTD</nameOfIssuer>
+    <titleOfClass>SHS</titleOfClass>
+    <cusip>M6372Q113</cusip>
+    <value>9422</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>176507</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>176507</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>KRYSTAL BIOTECH INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>501147102</cusip>
+    <value>5988</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>144573</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>144573</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>KURA ONCOLOGY INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>50127T109</cusip>
+    <value>8712</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>534494</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>534494</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>LARIMAR THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>517125100</cusip>
+    <value>5099</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>396787</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>396787</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>LEAP THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>52187K101</cusip>
+    <value>1839</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>880000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>880000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>LILLY ELI &amp; CO</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>532457108</cusip>
+    <value>14776</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>90000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>90000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>MEI PHARMA INC</nameOfIssuer>
+    <titleOfClass>COM NEW</titleOfClass>
+    <cusip>55279B202</cusip>
+    <value>1693</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>410000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>410000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>MERCK &amp; CO. INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>58933Y105</cusip>
+    <value>60612</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>783808</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>783808</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>MICROSOFT CORP</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>594918104</cusip>
+    <value>16680</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>81964</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>81964</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>MIRATI THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>60468T105</cusip>
+    <value>8220</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>72000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>72000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>MYOKARDIA INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>62857M105</cusip>
+    <value>9662</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>100000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>100000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>NEOS THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>64052L106</cusip>
+    <value>651</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>950311</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>950311</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>NEUBASE THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>64132K102</cusip>
+    <value>1317</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>150000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>150000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>NICE LTD</nameOfIssuer>
+    <titleOfClass>SPONSORED ADR</titleOfClass>
+    <cusip>653656108</cusip>
+    <value>24489</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>129406</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>129406</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>NICE SYS INC</nameOfIssuer>
+    <titleOfClass>NOTE 1.250% 1/1</titleOfClass>
+    <cusip>65366HAB9</cusip>
+    <value>573</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>250000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>250000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>NOVARTIS AG</nameOfIssuer>
+    <titleOfClass>SPONSORED ADR</titleOfClass>
+    <cusip>66987V109</cusip>
+    <value>15721</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>180000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>180000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>NOVO-NORDISK A S</nameOfIssuer>
+    <titleOfClass>ADR</titleOfClass>
+    <cusip>670100205</cusip>
+    <value>26192</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>400000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>400000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ORGENESIS INC</nameOfIssuer>
+    <titleOfClass>COM NEW</titleOfClass>
+    <cusip>68619K204</cusip>
+    <value>4048</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>665767</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>665767</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>OUTLOOK THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>*W EXP 02/18/202</titleOfClass>
+    <cusip>69012T115</cusip>
+    <value>33</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>129500</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>0</Sole>
+      <Shared>0</Shared>
+      <None>129500</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>PALO ALTO NETWORKS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>697435105</cusip>
+    <value>6890</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>30000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>30000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>PASSAGE BIO INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>702712100</cusip>
+    <value>9414</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>344439</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>344439</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>PERRIGO CO PLC</nameOfIssuer>
+    <titleOfClass>SHS</titleOfClass>
+    <cusip>G97822103</cusip>
+    <value>2764</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>50000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>50000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>PFIZER INC</nameOfIssuer>
+    <titleOfClass>PUT</titleOfClass>
+    <cusip>717081103</cusip>
+    <value>32700</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1000000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <putCall>Put</putCall>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>1000000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>REATA PHARMACEUTICALS INC</nameOfIssuer>
+    <titleOfClass>CL A</titleOfClass>
+    <cusip>75615P103</cusip>
+    <value>12801</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>82049</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>82049</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>REPARE THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>760273102</cusip>
+    <value>7600</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>245000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>245000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>RETROPHIN INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>761299106</cusip>
+    <value>5103</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>250000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>250000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ROCKET PHARMACEUTICALS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>77313F106</cusip>
+    <value>7117</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>340016</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>340016</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SANOFI</nameOfIssuer>
+    <titleOfClass>SPONSORED ADR</titleOfClass>
+    <cusip>80105N105</cusip>
+    <value>57176</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1120000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>1120000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SAREPTA THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>803607100</cusip>
+    <value>19754</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>123200</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>123200</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SOLAREDGE TECHNOLOGIES INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>83417M104</cusip>
+    <value>6386</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>46017</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>46017</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SOLENO THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM NEW</titleOfClass>
+    <cusip>834203200</cusip>
+    <value>2739</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1233676</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>1233676</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SPDR S&amp;P 500 ETF TR</nameOfIssuer>
+    <titleOfClass>PUT</titleOfClass>
+    <cusip>78462F103</cusip>
+    <value>58280</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>189000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <putCall>Put</putCall>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>189000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SPDR SER TR</nameOfIssuer>
+    <titleOfClass>PUT</titleOfClass>
+    <cusip>78464A870</cusip>
+    <value>83962</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>750000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <putCall>Put</putCall>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>750000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SYNDAX PHARMACEUTICALS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>87164F105</cusip>
+    <value>3260</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>220000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>220000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SYNDAX PHARMACEUTICALS INC</nameOfIssuer>
+    <titleOfClass>CALL</titleOfClass>
+    <cusip>87164F105</cusip>
+    <value>1482</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>100000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <putCall>Call</putCall>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>0</Sole>
+      <Shared>0</Shared>
+      <None>100000</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>TCR2 THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>87808K106</cusip>
+    <value>461</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>30000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>30000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>TEVA PHARMACEUTICAL INDS LTD</nameOfIssuer>
+    <titleOfClass>SPONSORED ADS</titleOfClass>
+    <cusip>881624209</cusip>
+    <value>7187</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>582878</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>582878</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>TRILLIUM THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM NEW</titleOfClass>
+    <cusip>89620X506</cusip>
+    <value>9533</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1178346</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>1178346</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>UNIQURE NV</nameOfIssuer>
+    <titleOfClass>SHS</titleOfClass>
+    <cusip>N90064101</cusip>
+    <value>4957</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>110000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>110000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>VIKING THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>92686J106</cusip>
+    <value>1478</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>205000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>205000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>WAVE LIFE SCIENCES LTD</nameOfIssuer>
+    <titleOfClass>SHS</titleOfClass>
+    <cusip>Y95308105</cusip>
+    <value>3050</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>293000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>293000</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>WIX COM LTD</nameOfIssuer>
+    <titleOfClass>SHS</titleOfClass>
+    <cusip>M98068105</cusip>
+    <value>9631</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>37588</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>37588</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>X4 PHARMACEUTICALS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>98420X103</cusip>
+    <value>5273</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>565804</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>565804</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Y-MABS THERAPEUTICS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>984241109</cusip>
+    <value>12193</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>282252</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>282252</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ZYMEWORKS INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>98985W102</cusip>
+    <value>4195</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>116310</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>116310</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

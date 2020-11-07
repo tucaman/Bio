@@ -1,0 +1,1129 @@
+ticker,company_name,NASDAQ_sector,cusip,13F_name,cusip8,cik
+JNJ,Johnson & Johnson Common Stock,Healthcare,478160104,JOHNSON & JOHNSON,47816010,200406.0
+UNH,UnitedHealth Group Incorporated Common Stock (DE),Healthcare,91324P102,UNITEDHEALTH GROUP INC,91324P10,731766.0
+RHHBY,Roche Holding AG ADR,Healthcare,,,nan,
+RHHVF,Roche Holding AG,Healthcare,,,nan,
+PFE,Pfizer Inc. Common Stock,Healthcare,717081103,PFIZER INC,71708110,78003.0
+MRK,Merck & Company Inc. Common Stock (new),Healthcare,58933Y105,MERCK & CO. INC,58933Y10,310158.0
+NVS,Novartis AG Common Stock,Healthcare,66987V109,NOVARTIS AG,66987V10,
+ABT,Abbott Laboratories Common Stock,Healthcare,002824100,ABBOTT LABS,00282410,1800.0
+TMO,Thermo Fisher Scientific Inc Common Stock,Healthcare,883556102,THERMO FISHER SCIENTIFIC INC,88355610,97745.0
+NVO,Novo Nordisk A/S Common Stock,Healthcare,,,nan,
+DHR,Danaher Corporation Common Stock,Healthcare,235851102,DANAHER CORPORATION,23585110,313616.0
+ABBV,AbbVie Inc. Common Stock,Healthcare,00287Y109,ABBVIE INC,00287Y10,1551152.0
+DSKYF,Daiichi Sankyo Co. Ltd.,Healthcare,,,nan,
+MDT,Medtronic plc. Ordinary Shares,Healthcare,G5960L103,MEDTRONIC PLC,G5960L10,1613103.0
+LLY,Eli Lilly and Company Common Stock,Healthcare,,,nan,
+BMY,Bristol-Myers Squibb Company Common Stock,Healthcare,110122108,BRISTOL-MYERS SQUIBB CO,11012210,14272.0
+AZN,AstraZeneca PLC American Depositary Shares,Healthcare,046353108,ASTRAZENECA PLC,04635310,901832.0
+AMGN,Amgen Inc. Common Stock,Healthcare,031162100,AMGEN INC,03116210,318154.0
+SNYNF,Sanofi,Healthcare,80105N105,SANOFI,80105N10,1121404.0
+SNY,Sanofi ADR,Healthcare,80105N105,SANOFI,80105N10,1121404.0
+CSLLY,CSL Ltd. ADR,Healthcare,,,nan,
+CMXHF,CSL Ltd.,Healthcare,,,nan,
+GSK,GlaxoSmithKline PLC Common Stock,Healthcare,37733W105,GLAXOSMITHKLINE PLC,37733W10,
+ISRG,Intuitive Surgical Inc. Common Stock,Healthcare,46120E602,INTUITIVE SURGICAL INC,46120E60,1035267.0
+SYK,Stryker Corporation Common Stock,Healthcare,863667101,STRYKER CORPORATION,86366710,310764.0
+ZTS,Zoetis Inc. Class A Common Stock,Healthcare,98978V103,ZOETIS INC,98978V10,1555280.0
+GILD,Gilead Sciences Inc. Common Stock,Healthcare,375558103,GILEAD SCIENCES INC,37555810,882095.0
+CHGCF,Chugai Pharmaceutical Co Ltd,Healthcare,,,nan,
+ANTM,Anthem Inc. Common Stock,Healthcare,036752103,ANTHEM INC,03675210,1156039.0
+BDX,Becton Dickinson and Company Common Stock,Healthcare,075887109,BECTON DICKINSON & CO,07588710,10795.0
+CI,Cigna Corporation Common Stock,Healthcare,125523100,CIGNA CORP NEW,12552310,1739940.0
+REGN,Regeneron Pharmaceuticals Inc. Common Stock,Healthcare,75886F107,REGENERON PHARMACEUTICALS,75886F10,872589.0
+ESLOY,EssilorLuxottica ADR,Healthcare,,,nan,
+HUM,Humana Inc. Common Stock,Healthcare,444859102,HUMANA INC,44485910,49071.0
+VRTX,Vertex Pharmaceuticals Incorporated Common Stock,Healthcare,92532F100,VERTEX PHARMACEUTICALS INC,92532F10,875320.0
+BSX,Boston Scientific Corporation Common Stock,Healthcare,101137107,BOSTON SCIENTIFIC CORP,10113710,885725.0
+TKPHF,Takeda Pharmaceutical Co,Healthcare,874060205,TAKEDA PHARMACEUTICAL CO LTD,87406020,1395064.0
+EW,Edwards Lifesciences Corporation Common Stock,Healthcare,28176E108,EDWARDS LIFESCIENCES CORP,28176E10,1099800.0
+TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock),Healthcare,874060205,TAKEDA PHARMACEUTICAL CO LTD,87406020,1395064.0
+BAYRY,Bayer AG ADR,Healthcare,,,nan,
+LZAGY,Lonza Group AG ADR,Healthcare,,,nan,
+ILMN,Illumina Inc. Common Stock,Healthcare,452327109,ILLUMINA INC,45232710,1020066.0
+HCA,HCA Healthcare Inc. Common Stock,Healthcare,40412C101,HCA HEALTHCARE INC,40412C10,860730.0
+SEMHF,Siemens Healthineers AG Registered Shares,Healthcare,,,nan,
+PHG,Koninklijke Philips N.V. NY Registry Shares,Healthcare,500472303,KONINKLIJKE PHILIPS N V,50047230,313216.0
+HOCPY,Hoya Corporation ADR,Healthcare,,,nan,
+HOCPF,Hoya Corporation,Healthcare,,,nan,
+BIIB,Biogen Inc. Common Stock,Healthcare,09062X103,BIOGEN INC,09062X10,714655.0
+BAX,Baxter International Inc. Common Stock,Healthcare,071813109,BAXTER INTL INC,07181310,10456.0
+CNC,Centene Corporation Common Stock,Healthcare,15135B101,CENTENE CORP DEL,15135B10,1071739.0
+DXCM,DexCom Inc. Common Stock,Healthcare,252131107,DEXCOM INC,25213110,1093557.0
+IDXX,IDEXX Laboratories Inc. Common Stock,Healthcare,45168D104,IDEXX LABS INC,45168D10,1569205.0
+ALGN,Align Technology Inc. Common Stock,Healthcare,016255101,ALIGN TECHNOLOGY INC,01625510,1097149.0
+WXIBF,Wuxi Biologics (Cayman) Inc.,Healthcare,,,nan,
+SGEN,Seagen Inc. Common Stock,Healthcare,,,nan,
+A,Agilent Technologies Inc. Common Stock,Healthcare,00846U101,AGILENT TECHNOLOGIES INC,00846U10,47217.0
+IQV,IQVIA Holdings Inc. Common Stock,Healthcare,46266C105,IQVIA HLDGS INC,46266C10,1478242.0
+ZBH,Zimmer Biomet Holdings Inc. Common Stock,Healthcare,98956P102,ZIMMER BIOMET HOLDINGS INC,98956P10,1136869.0
+ALC,Alcon Inc. Ordinary Shares,Healthcare,H01301128,ALCON AG,H0130112,1167379.0
+TRUMF,Terumo Corporation,Healthcare,,,nan,
+MRNA,Moderna Inc. Common Stock,Healthcare,60770K107,MODERNA INC,60770K10,1682852.0
+BGNE,BeiGene Ltd. American Depositary Shares,Healthcare,07725L102,BEIGENE LTD,07725L10,1651308.0
+ALXN,Alexion Pharmaceuticals Inc. Common Stock,Healthcare,015351109,ALEXION PHARMACEUTICALS INC,01535110,1018154.0
+ALPMF,Astellas Pharma Inc.,Healthcare,,,nan,
+RMD,ResMed Inc. Common Stock,Healthcare,761152107,RESMED INC,76115210,943819.0
+ESALF,Eisai Co Ltd,Healthcare,,,nan,
+OCPNY,Olympus Corp. ADR,Healthcare,,,nan,
+FMS,Fresenius Medical Care AG Common Stock,Healthcare,358029106,FRESENIUS MED CARE AG&CO KGA,35802910,1333141.0
+MCK,McKesson Corporation Common Stock,Healthcare,58155Q103,MCKESSON CORP,58155Q10,1039362.0
+MTD,Mettler-Toledo International Inc. Common Stock,Healthcare,,,nan,
+OCPNF,Olympus Corp.,Healthcare,,,nan,
+CHJTF,CSPC Pharmaceutical Group Limited.,Healthcare,,,nan,
+RPRX,Royalty Pharma plc Class A Ordinary Shares ,Healthcare,G7709Q104,ROYALTY PHARMA PLC,G7709Q10,
+ESALY,Eisai Co Ltd ADR,Healthcare,,,nan,
+GMAB,Genmab A/S ADS,Healthcare,372303206,GENMAB A/S,37230320,
+OTSKF,Otsuka Holdings Co.Ltd.,Healthcare,,,nan,
+FSNUY,Fresenius SE & Co. KGaA ADR,Healthcare,358029106,FRESENIUS MED CARE AG&CO KGA,35802910,1333141.0
+WST,West Pharmaceutical Services Inc. Common Stock,Healthcare,955306105,WEST PHARMACEUTICAL SVSC INC,95530610,105770.0
+BNTX,BioNTech SE American Depositary Share,Healthcare,09075V102,BIONTECH SE,09075V10,1776985.0
+UCBJY,UCB SA ADR,Healthcare,,,nan,
+OTSKY,Otsuka Holdings Co.Ltd. ADR,Healthcare,,,nan,
+ABC,AmerisourceBergen Corporation Common Stock,Healthcare,03073E105,AMERISOURCEBERGEN CORP,03073E10,1140859.0
+IMMU,Immunomedics Inc. Common Stock,Healthcare,452907108,IMMUNOMEDICS INC,45290710,722830.0
+SBMFF,Sino Biopharmaceutical Ltd.,Healthcare,82935V109,SINO GLOBAL SHIPPING AMER LT,82935V10,1422892.0
+INCY,Incyte Corp. Common Stock,Healthcare,45337C102,INCYTE CORP,45337C10,879169.0
+LH,Laboratory Corporation of America Holdings Common Stock,Healthcare,50540R409,LABORATORY CORP AMER HLDGS,50540R40,920148.0
+COO,The Cooper Companies Inc. Common Stock,Healthcare,,,nan,
+TDOC,Teladoc Health Inc. Common Stock,Healthcare,87918A105,TELADOC HEALTH INC,87918A10,1477449.0
+NVZMY,Novozymes AS ADR,Healthcare,,,nan,
+SSMXF,Sysmex Corporation,Healthcare,,,nan,
+TPGVF,Top Glove Corporation Bhd,Healthcare,Y8897Y164,TOP SHIPS INC,Y8897Y16,1296484.0
+TGLVY,Top Glove Corporation Bhd ADR,Healthcare,Y8897Y164,TOP SHIPS INC,Y8897Y16,1296484.0
+SNN,Smith & Nephew SNATS Inc. Common Stock,Healthcare,83175M205,SMITH & NEPHEW GROUP PLC,83175M20,
+HOLX,Hologic Inc. Common Stock,Healthcare,436440101,HOLOGIC INC,43644010,822818.0
+HZNP,Horizon Therapeutics Public Limited Company Ordinary Shares,Healthcare,G46188101,HORIZON THERAPEUTICS PUB LTD,G4618810,1492426.0
+TFX,Teleflex Incorporated Common Stock,Healthcare,879369106,TELEFLEX INCORPORATED,87936910,96943.0
+SONVY,Sonova Holding AG ADR,Healthcare,,,nan,
+BIO,Bio-Rad Laboratories Inc. Class A Common Stock,Healthcare,,,nan,
+AHICF,Asahi Intecc Co. Ltd.,Healthcare,,,nan,
+TXG,10x Genomics Inc. Class A Common Stock,Healthcare,88025U109,10X GENOMICS INC,88025U10,1770787.0
+DGX,Quest Diagnostics Incorporated Common Stock,Healthcare,74834L100,QUEST DIAGNOSTICS INC,74834L10,1022079.0
+PODD,Insulet Corporation Common Stock,Healthcare,45784P101,INSULET CORP,45784P10,315449.0
+EXAS,Exact Sciences Corporation Common Stock,Healthcare,30063P105,EXACT SCIENCES CORP,30063P10,1389958.0
+STE,STERIS plc (Ireland) Ordinary Shares,Healthcare,G8473T100,STERIS PLC,G8473T10,1757898.0
+ALNY,Alnylam Pharmaceuticals Inc. Common Stock,Healthcare,02043Q107,ALNYLAM PHARMACEUTICALS INC,02043Q10,890491.0
+VAR,Varian Medical Systems Inc. Common Stock,Healthcare,92220P105,VARIAN MED SYS INC,92220P10,203527.0
+OPHLF,Ono Pharmaceutical Co. Ltd,Healthcare,,,nan,
+CTLT,Catalent Inc. Common Stock,Healthcare,148806102,CATALENT INC,14880610,1596783.0
+PANHF,Ping An Healthcare And Technology Company Limited,Healthcare,72341T103,PING IDENTITY HLDG CORP,72341T10,1679826.0
+SGIOF,Shionogi & Co. Ltd.,Healthcare,,,nan,
+CAH,Cardinal Health Inc. Common Stock,Healthcare,14149Y108,CARDINAL HEALTH INC,14149Y10,721371.0
+BMRN,BioMarin Pharmaceutical Inc. Common Stock,Healthcare,09061G101,BIOMARIN PHARMACEUTICAL INC,09061G10,1048477.0
+KYKOF,Kyowa Kirin Co. Ltd.,Healthcare,,,nan,
+PKI,PerkinElmer Inc. Common Stock,Healthcare,714046109,PERKINELMER INC,71404610,1224747.0
+FSPKF,Fisher & Paykel Healthcare Corporation Limited,Healthcare,,,nan,
+MASI,Masimo Corporation Common Stock,Healthcare,574795100,MASIMO CORP,57479510,937556.0
+NVCR,NovoCure Limited Ordinary Shares,Healthcare,G6674U108,NOVOCURE LTD,G6674U10,1645113.0
+WAT,Waters Corporation Common Stock,Healthcare,941848103,WATERS CORP,94184810,930809.0
+OSH,Oak Street Health Inc. Common Stock,Healthcare,671807105,OAK VALLEY BANCORP OAKDALE C,67180710,1431567.0
+ABMD,ABIOMED Inc. Common Stock,Healthcare,003654100,ABIOMED INC,00365410,933974.0
+MOH,Molina Healthcare Inc Common Stock,Healthcare,60855R100,MOLINA HEALTHCARE INC,60855R10,1179929.0
+GRFS,Grifols S.A. American Depositary Shares,Healthcare,398438408,GRIFOLS S A,39843840,1438569.0
+SKHHY,Sonic Healthcare ADR,Healthcare,83545G102,SONIC AUTOMOTIVE INC,83545G10,1043509.0
+QGEN,Qiagen N.V. Common Shares ,Healthcare,N72482123,QIAGEN NV,N7248212,1015820.0
+ARGX,argenx SE American Depositary Shares,Healthcare,04016X101,ARGENX SE,04016X10,1697862.0
+IVBXF,Innovent Biologics Inc,Healthcare,,,nan,
+MYOK,MyoKardia Inc. Common Stock,Healthcare,62857M105,MYOKARDIA INC,62857M10,1552451.0
+SFOSF,Shanghai Fosun Pharmaceutical (Group) Co. Ltd. - Class H,Healthcare,,,nan,
+RDY,Dr. Reddy's Laboratories Ltd Common Stock,Healthcare,256135203,DR REDDYS LABS LTD,25613520,1135951.0
+SHWGF,Shandong Weigao Group Medical Polymer Co. Ltd. - Class H,Healthcare,,,nan,
+DVA,DaVita Inc. Common Stock,Healthcare,23918K108,DAVITA INC,23918K10,927066.0
+RMSYF,Ramsay Health Care,Healthcare,,,nan,
+SRPT,Sarepta Therapeutics Inc. Common Stock (DE),Healthcare,803607100,SAREPTA THERAPEUTICS INC,80360710,873303.0
+IHHHF,IHH Healthcare Bhd,Healthcare,,,nan,
+XRAY,DENTSPLY SIRONA Inc. Common Stock,Healthcare,24906P109,DENTSPLY SIRONA INC,24906P10,818479.0
+QDEL,Quidel Corporation Common Stock,Healthcare,74838J101,QUIDEL CORP,74838J10,353569.0
+GH,Guardant Health Inc. Common Stock,Healthcare,40131M109,GUARDANT HEALTH INC,40131M10,1576280.0
+TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares,Healthcare,881624209,TEVA PHARMACEUTICAL INDS LTD,88162420,818686.0
+ICLR,ICON plc Ordinary Shares,Healthcare,G4705A100,ICON PLC,G4705A10,1060955.0
+TECH,Bio-Techne Corp Common Stock,Healthcare,09073M104,BIO-TECHNE CORP,09073M10,842023.0
+UHS,Universal Health Services Inc. Common Stock,Healthcare,91359E105,UNIVERSAL HEALTH RLTY INCM T,91359E10,798783.0
+NBIX,Neurocrine Biosciences Inc. Common Stock,Healthcare,64125C109,NEUROCRINE BIOSCIENCES INC,64125C10,914475.0
+CHEOF,Cochlear Ltd.,Healthcare,,,nan,
+RGEN,Repligen Corporation Common Stock,Healthcare,759916109,REPLIGEN CORP,75991610,730272.0
+HSIC,Henry Schein Inc. Common Stock,Healthcare,806407102,HENRY SCHEIN INC,80640710,1000228.0
+CVAC,CureVac N.V. Ordinary Shares,Healthcare,,,nan,
+ASND,Ascendis Pharma A/S American Depositary Shares,Healthcare,04351P101,ASCENDIS PHARMA A S,04351P10,1709626.0
+NVTA,Invitae Corporation Common Stock,Healthcare,46185L103,INVITAE CORP,46185L10,1501134.0
+GLPG,Galapagos NV American Depositary Shares,Healthcare,36315X101,GALAPAGOS NV,36315X10,1421876.0
+MRTX,Mirati Therapeutics Inc. Common Stock,Healthcare,60468T105,MIRATI THERAPEUTICS INC,60468T10,1576263.0
+JAZZ,Jazz Pharmaceuticals plc Common Stock (Ireland),Healthcare,G50871105,JAZZ PHARMACEUTICALS PLC,G5087110,1232524.0
+SNPHF,Santen Pharmaceutical Co. Ltd.,Healthcare,,,nan,
+AMED,Amedisys Inc Common Stock,Healthcare,023436108,AMEDISYS INC,02343610,896262.0
+HKMPY,Hikma Pharmaceuticals Plc ADR,Healthcare,,,nan,
+CHE,Chemed Corp,Healthcare,16359R103,CHEMED CORP NEW,16359R10,19584.0
+MYL,Mylan N.V. Ordinary Shares,Healthcare,N59465109,MYLAN NV,N5946510,1623613.0
+SNPHY,Santen Pharmaceutical Co. Ltd. ADR,Healthcare,,,nan,
+WILYY,Demant AS ADR,Healthcare,,,nan,
+PEN,Penumbra Inc. Common Stock,Healthcare,70975L107,PENUMBRA INC,70975L10,1321732.0
+AMBFF,Ambu AS - Class B,Healthcare,,,nan,
+WILLF,Demant AS,Healthcare,,,nan,
+MCRPF,MicroPort Scientific Corporation - Class H,Healthcare,,,nan,
+STDAF,Stada Arzneimittel AG Registered Shares,Healthcare,,,nan,
+TNDM,Tandem Diabetes Care Inc. Common Stock,Healthcare,875372203,TANDEM DIABETES CARE INC,87537220,1444307.0
+LHCG,LHC Group Common Stock,Healthcare,50187A107,LHC GROUP INC,50187A10,1166036.0
+EHC,Encompass Health Corporation Common Stock,Healthcare,29261A100,ENCOMPASS HEALTH CORP,29261A10,785161.0
+EXEL,Exelixis Inc. Common Stock,Healthcare,30161Q104,EXELIXIS INC,30161Q10,939767.0
+XLRN,Acceleron Pharma Inc. Common Stock,Healthcare,00434H108,ACCELERON PHARMA INC,00434H10,1280600.0
+IONS,Ionis Pharmaceuticals Inc. Common Stock,Healthcare,462222100,IONIS PHARMACEUTICALS INC,46222210,874015.0
+ZLAB,Zai Lab Limited American Depositary Shares,Healthcare,98887Q104,ZAI LAB LTD,98887Q10,1704292.0
+ACAD,ACADIA Pharmaceuticals Inc. Common Stock,Healthcare,004225108,ACADIA PHARMACEUTICALS INC,00422510,1107601.0
+CRSP,CRISPR Therapeutics AG Common Shares,Healthcare,H17182108,CRISPR THERAPEUTICS AG,H1718210,1674416.0
+PRGO,Perrigo Company plc Ordinary Shares,Healthcare,G97822103,PERRIGO CO PLC,G9782210,1585364.0
+HLF,Herbalife Nutrition Ltd. Common Stock,Healthcare,G4412G101,HERBALIFE NUTRITION LTD,G4412G10,1180262.0
+BRKR,Bruker Corporation Common Stock,Healthcare,116794108,BRUKER CORP,11679410,1109354.0
+IRTC,iRhythm Technologies Inc. Common Stock,Healthcare,450056106,IRHYTHM TECHNOLOGIES INC,45005610,1388658.0
+SHTDF,Sinopharm Group Co Ltd,Healthcare,,,nan,
+HLUYY,H. Lundbeck AS ADR,Healthcare,404030108,H & E EQUIPMENT SERVICES INC,40403010,1339605.0
+TCHBF,Tecan Group AG,Healthcare,,,nan,
+SHTDY,Sinopharm Group Co Ltd ADR,Healthcare,,,nan,
+CAKFF,McKesson Europe AG Registered Shares,Healthcare,58155Q103,MCKESSON CORP,58155Q10,1039362.0
+BHC,Bausch Health Companies Inc. Common Stock,Healthcare,071734107,BAUSCH HEALTH COS INC,07173410,
+SYNH,Syneos Health Inc. Class A Common Stock,Healthcare,87166B102,SYNEOS HEALTH INC,87166B10,1610950.0
+ARWR,Arrowhead Pharmaceuticals Inc. Common Stock,Healthcare,04280A100,ARROWHEAD PHARMACEUTICALS IN,04280A10,879407.0
+NTRA,Natera Inc. Common Stock,Healthcare,632307104,NATERA INC,63230710,1604821.0
+HRC,Hill-Rom Holdings Inc Common Stock,Healthcare,,,nan,
+GNGBY,Getinge AB ADR,Healthcare,,,nan,
+BPMC,Blueprint Medicines Corporation Common Stock,Healthcare,09627Y109,BLUEPRINT MEDICINES CORP,09627Y10,1597264.0
+PPTDF,PeptiDream Inc.,Healthcare,,,nan,
+NVAX,Novavax Inc. Common Stock,Healthcare,670002401,NOVAVAX INC,67000240,1000694.0
+RARE,Ultragenyx Pharmaceutical Inc. Common Stock,Healthcare,90400D108,ULTRAGENYX PHARMACEUTICAL IN,90400D10,1515673.0
+IOVA,Iovance Biotherapeutics Inc. Common Stock,Healthcare,462260100,IOVANCE BIOTHERAPEUTICS INC,46226010,1425205.0
+UTHR,United Therapeutics Corporation Common Stock,Healthcare,91307C102,UNITED THERAPEUTICS CORP DEL,91307C10,1082554.0
+GMED,Globus Medical Inc. Class A Common Stock,Healthcare,,,nan,
+EBS,Emergent Biosolutions Inc. Common Stock,Healthcare,29089Q105,EMERGENT BIOSOLUTIONS INC,29089Q10,1367644.0
+NVRO,Nevro Corp. Common Stock,Healthcare,64157F103,NEVRO CORP,64157F10,1444380.0
+TAISF,Taisho Pharmaceutical Holdings Co. Ltd.,Healthcare,,,nan,
+DNPUF,Sumitomo Dainippon Pharma Co. Ltd,Healthcare,86562M209,SUMITOMO MITSUI FINL GROUP I,86562M20,1022837.0
+KBYPF,Kobayashi Pharmaceutical Co. Ltd,Healthcare,,,nan,
+EKTAY,Elekta AB ADR,Healthcare,,,nan,
+DNLI,Denali Therapeutics Inc. Common Stock,Healthcare,24823R105,DENALI THERAPEUTICS INC,24823R10,1714899.0
+ALLO,Allogene Therapeutics Inc. Common Stock,Healthcare,019770106,ALLOGENE THERAPEUTICS INC,01977010,1737287.0
+BBIO,BridgeBio Pharma Inc. Common Stock,Healthcare,10806X102,BRIDGEBIO PHARMA INC,10806X10,1743881.0
+PTKFY,Kalbe Farma Tbk ADR,Healthcare,,,nan,
+HAE,Haemonetics Corporation Common Stock,Healthcare,405024100,HAEMONETICS CORP,40502410,313143.0
+NEO,NeoGenomics Inc. Common Stock,Healthcare,64049M209,NEOGENOMICS INC,64049M20,1077183.0
+ARNA,Arena Pharmaceuticals Inc. Common Stock,Healthcare,040047607,ARENA PHARMACEUTICALS INC,04004760,1080709.0
+PTKFF,Kalbe Farma Tbk,Healthcare,,,nan,
+BHVN,Biohaven Pharmaceutical Holding Company Ltd. Common Shares,Healthcare,G11196105,BIOHAVEN PHARMACTL HLDG CO L,G1119610,1689813.0
+GZPHF,Guangzhou Baiyunshan Pharmaceutical Holdings Company Limited - Class H,Healthcare,,,nan,
+SHPMF,Shanghai Pharmaceuticals Holding Co. Ltd. - Class H,Healthcare,,,nan,
+ALLK,Allakos Inc. Common Stock,Healthcare,01671P100,ALLAKOS INC,01671P10,1564824.0
+FOLD,Amicus Therapeutics Inc. Common Stock,Healthcare,03152W109,AMICUS THERAPEUTICS INC,03152W10,1023024.0
+VIR,Vir Biotechnology Inc. Common Stock,Healthcare,92764N102,VIR BIOTECHNOLOGY INC,92764N10,1706431.0
+SDC,SmileDirectClub Inc. Class A Common Stock,Healthcare,83192H106,SMILEDIRECTCLUB INC,83192H10,1775625.0
+CBPO,China Biologic Products Holdings Inc. Ordinary Shares,Healthcare,G21515104,CHINA BIOLOGIC PRODS HLDGS I,G2151510,1369868.0
+EVTCY,Evotec SE ADR,Healthcare,,,nan,
+HCM,Hutchison China MediTech Limited American Depositary Shares,Healthcare,44842L103,HUTCHISON CHINA MEDITECH LTD,44842L10,1648257.0
+TPTX,Turning Point Therapeutics Inc. Common Stock,Healthcare,90041T108,TURNING POINT THERAPEUTICS I,90041T10,1761612.0
+KOD,Kodiak Sciences Inc Common Stock,Healthcare,50015M109,KODIAK SCIENCES INC,50015M10,1468748.0
+NVST,Envista Holdings Corporation Common Stock,Healthcare,29415F104,ENVISTA HOLDINGS CORPORATION,29415F10,1757073.0
+HALO,Halozyme Therapeutics Inc. Common Stock,Healthcare,40637H109,HALOZYME THERAPEUTICS INC,40637H10,1159036.0
+FATE,Fate Therapeutics Inc. Common Stock,Healthcare,31189P102,FATE THERAPEUTICS INC,31189P10,1434316.0
+ARHCF,Alfresa Holdings Corp,Healthcare,,,nan,
+PINC,Premier Inc. Class A Common Stock,Healthcare,,,nan,
+MEPDF,Medipal Holdings Corporation,Healthcare,,,nan,
+CCXI,ChemoCentryx Inc. Common Stock,Healthcare,16383L106,CHEMOCENTRYX INC,16383L10,1340652.0
+ICUI,ICU Medical Inc. Common Stock,Healthcare,44930G107,ICU MED INC,44930G10,1230765.0
+ONEM,1Life Healthcare Inc. Common Stock,Healthcare,68269G107,1LIFE HEALTHCARE INC,68269G10,
+IART,Integra LifeSciences Holdings Corporation Common Stock,Healthcare,457985208,INTEGRA LIFESCIENCES HLDGS C,45798520,917520.0
+RGEDF,Chemical Works of Gedeon Richter Plc.,Healthcare,,,nan,
+WMGI,Wright Medical Group N.V. Ordinary Shares,Healthcare,N96617118,WRIGHT MED GROUP N V,N9661711,1492658.0
+TWST,Twist Bioscience Corporation Common Stock,Healthcare,90184D100,TWIST BIOSCIENCE CORP,90184D10,1581280.0
+RETA,Reata Pharmaceuticals Inc. Class A Common Stock,Healthcare,75615P103,REATA PHARMACEUTICALS INC,75615P10,1358762.0
+INSM,Insmed Inc. Common Stock,Healthcare,457669307,INSMED INC,45766930,1104506.0
+FGEN,FibroGen Inc Common Stock,Healthcare,31572Q808,FIBROGEN INC,31572Q80,921299.0
+NEOG,Neogen Corporation Common Stock,Healthcare,640491106,NEOGEN CORP,64049110,711377.0
+RHCGF,Ryman Healthcare,Healthcare,78377T107,RYMAN HOSPITALITY PPTYS INC,78377T10,1040829.0
+BLUE,bluebird bio Inc. Common Stock,Healthcare,09609G100,BLUEBIRD BIO INC,09609G10,1293971.0
+SAGE,Sage Therapeutics Inc. Common Stock,Healthcare,78667J108,SAGE THERAPEUTICS INC,78667J10,1597553.0
+TRSBF,3SBIO Inc,Healthcare,,,nan,
+TGTX,TG Therapeutics Inc. Common Stock,Healthcare,88322Q108,TG THERAPEUTICS INC,88322Q10,1001316.0
+DCPH,Deciphera Pharmaceuticals Inc. Common Stock,Healthcare,24344T101,DECIPHERA PHARMACEUTICALS IN,24344T10,1654151.0
+RLAY,Relay Therapeutics Inc. Common Stock,Healthcare,,,nan,
+LEGN,Legend Biotech Corporation American Depositary Shares,Healthcare,52490G102,LEGEND BIOTECH CORP,52490G10,
+PTCT,PTC Therapeutics Inc. Common Stock,Healthcare,69366J200,PTC THERAPEUTICS INC,69366J20,1070081.0
+LVZPF,Livzon Pharmaceutical Group Inc. - Class H,Healthcare,,,nan,
+GBT,Global Blood Therapeutics Inc. Common Stock,Healthcare,37890U108,GLOBAL BLOOD THERAPEUTICS IN,37890U10,1629137.0
+STAA,STAAR Surgical Company Common Stock,Healthcare,852312305,STAAR SURGICAL CO,85231230,1422427.0
+HTSUF,Hisamitsu Pharmaceutical Co Ltd,Healthcare,,,nan,
+MOR,MorphoSys AG American Depositary Shares,Healthcare,617760202,MORPHOSYS AG,61776020,
+APNHF,Aspen Pharmacare Holdings Ltd,Healthcare,,,nan,
+INSP,Inspire Medical Systems Inc. Common Stock,Healthcare,457730109,INSPIRE MED SYS INC,45773010,1609550.0
+ENSG,The Ensign Group Inc. Common Stock,Healthcare,,,nan,
+NKTR,Nektar Therapeutics  Common Stock,Healthcare,640268108,NEKTAR THERAPEUTICS,64026810,19411.0
+GWPRF,GW Pharmaceuticals,Healthcare,36197T103,GW PHARMACEUTICALS PLC,36197T10,1351288.0
+SEM,Select Medical Holdings Corporation Common Stock,Healthcare,,,nan,
+THC,Tenet Healthcare Corporation Common Stock,Healthcare,88033G407,TENET HEALTHCARE CORP,88033G40,70318.0
+NARI,Inari Medical Inc. Common Stock,Healthcare,45332Y109,INARI MED INC,45332Y10,
+GWPH,GW Pharmaceuticals Plc American Depositary Shares,Healthcare,36197T103,GW PHARMACEUTICALS PLC,36197T10,1351288.0
+GNNSF,Genscript Biotech Corporation - Class H,Healthcare,,,nan,
+APNHY,Aspen Pharmacare Holdings Ltd ADR,Healthcare,,,nan,
+ACHC,Acadia Healthcare Company Inc. Common Stock,Healthcare,00404A109,ACADIA HEALTHCARE COMPANY IN,00404A10,1520697.0
+SZUKF,SZUKF,Healthcare,,,nan,
+OSSFF,Ossur hf.,Healthcare,,,nan,
+OPK,OPKO Health Inc. Common Stock,Healthcare,68375N103,OPKO HEALTH INC,68375N10,944809.0
+IMAB,I-MAB American Depositary Shares,Healthcare,,,nan,
+BNR,Burning Rock Biotech Limited American Depositary Shares,Healthcare,12233L107,BURNING ROCK BIOTECH LTD,12233L10,
+SWTX,SpringWorks Therapeutics Inc. Common Stock,Healthcare,85205L107,SPRINGWORKS THERAPEUTICS INC,85205L10,1773427.0
+AKBLF,ALK-Abello AS - Class B,Healthcare,,,nan,
+PHMMF,Pharmamar S.A.,Healthcare,,,nan,
+EIDX,Eidos Therapeutics Inc. Common Stock,Healthcare,28249H104,EIDOS THERAPEUTICS INC,28249H10,1731831.0
+AATP,Agape ATP Corp,Healthcare,,,nan,
+MCRB,Seres Therapeutics Inc. Common Stock,Healthcare,81750R102,SERES THERAPEUTICS INC,81750R10,1609809.0
+RVMD,Revolution Medicines Inc. Common Stock,Healthcare,76155X100,REVOLUTION MEDICINES INC,76155X10,1628171.0
+NKNIF,NKNIF,Healthcare,,,nan,
+NUVA,NuVasive Inc. Common Stock,Healthcare,670704105,NUVASIVE INC,67070410,1142596.0
+CHSYF,China Medical System Hldgs Ltd,Healthcare,,,nan,
+OPCH,Option Care Health Inc. Common Stock,Healthcare,68404L201,OPTION CARE HEALTH INC,68404L20,
+AXSM,Axsome Therapeutics Inc. Common Stock,Healthcare,05464T104,AXSOME THERAPEUTICS INC,05464T10,1579428.0
+LIVN,LivaNova PLC Ordinary Shares,Healthcare,G5509L101,LIVANOVA PLC,G5509L10,1639691.0
+MMSI,Merit Medical Systems Inc. Common Stock,Healthcare,589889104,MERIT MED SYS INC,58988910,728575.0
+ALKS,Alkermes plc Ordinary Shares,Healthcare,G01767105,ALKERMES PLC,G0176710,1559053.0
+APLS,Apellis Pharmaceuticals Inc. Common Stock,Healthcare,03753U106,APELLIS PHARMACEUTICALS INC,03753U10,1492422.0
+PDCO,Patterson Companies Inc. Common Stock,Healthcare,,,nan,
+SWAV,ShockWave Medical Inc. Common Stock,Healthcare,82489T104,SHOCKWAVE MED INC,82489T10,815094.0
+CDNA,CareDx Inc. Common Stock,Healthcare,14167L103,CAREDX INC,14167L10,1217234.0
+GKOS,Glaukos Corporation Common Stock,Healthcare,377322102,GLAUKOS CORP,37732210,1192448.0
+AGIO,Agios Pharmaceuticals Inc. Common Stock,Healthcare,00847X104,AGIOS PHARMACEUTICALS INC,00847X10,1439222.0
+HRMY,Harmony Biosciences Holdings Inc. Common Stock,Healthcare,413216300,HARMONY GOLD MINING CO LTD,41321630,1023514.0
+PACB,Pacific Biosciences of California Inc. Common Stock,Healthcare,69404D108,PACIFIC BIOSCIENCES CALIF IN,69404D10,1333170.0
+PCRX,Pacira BioSciences Inc. Common Stock,Healthcare,695127100,PACIRA BIOSCIENCES,69512710,1396814.0
+CNMD,CONMED Corporation Common Stock,Healthcare,207410101,CONMED CORP,20741010,816956.0
+PMCUF,Pro Medicus,Healthcare,,,nan,
+XNCR,Xencor Inc. Common Stock,Healthcare,98401F105,XENCOR INC,98401F10,1326732.0
+TARO,Taro Pharmaceutical Industries Ltd. Ordinary Shares,Healthcare,M8737E108,TARO PHARMACEUTICAL INDS LTD,M8737E10,906338.0
+SWPIF,Sawai Pharmaceutical Co. Ltd.,Healthcare,,,nan,
+PCVX,Vaxcyte Inc. Common Stock,Healthcare,92243G108,VAXCYTE INC,92243G10,
+SRNE,Sorrento Therapeutics Inc.  Common Stock,Healthcare,83587F202,SORRENTO THERAPEUTICS INC,83587F20,850261.0
+KRTX,Karuna Therapeutics Inc. Common Stock,Healthcare,48576A100,KARUNA THERAPEUTICS INC,48576A10,1771917.0
+VCYT,Veracyte Inc. Common Stock,Healthcare,92337F107,VERACYTE INC,92337F10,1384101.0
+FMTX,Forma Therapeutics Holdings Inc. Common Stock,Healthcare,34633R104,FORMA THERAPEUTICS HLDGS INC,34633R10,
+SILK,Silk Road Medical Inc. Common Stock,Healthcare,82710M100,SILK RD MED INC,82710M10,1397702.0
+ADCT,ADC Therapeutics SA Common Shares,Healthcare,H0036K147,ADC THERAPEUTICS SA,H0036K14,
+SGFEF,Siegfried Holding AG,Healthcare,,,nan,
+ZYME,Zymeworks Inc. Common Shares,Healthcare,98985W102,ZYMEWORKS INC,98985W10,1403752.0
+BEAM,Beam Therapeutics Inc. Common Stock,Healthcare,07373V105,BEAM THERAPEUTICS INC,07373V10,
+EDIT,Editas Medicine Inc. Common Stock,Healthcare,28106W103,EDITAS MEDICINE INC,28106W10,1650664.0
+CORT,Corcept Therapeutics Incorporated Common Stock,Healthcare,218352102,CORCEPT THERAPEUTICS INC,21835210,1006281.0
+ITCI,Intra-Cellular Therapies Inc. Common Stock,Healthcare,,,nan,
+MDGL,Madrigal Pharmaceuticals Inc. Common Stock,Healthcare,558868105,MADRIGAL PHARMACEUTICALS INC,55886810,1673226.0
+CMD,Cantel Medical Corp. Common Stock,Healthcare,138098108,CANTEL MED CORP,13809810,19446.0
+ADDLF,AddLife AB - Class B,Healthcare,,,nan,
+AUPH,Aurinia Pharmaceuticals Inc Ordinary Shares,Healthcare,05156V102,AURINIA PHARMACEUTICALS INC,05156V10,1600620.0
+TSMRF,Tsumura & Co.,Healthcare,,,nan,
+BFEHF,Bachem Holding AG,Healthcare,,,nan,
+AMRN,Amarin Corporation plc,Healthcare,023111206,AMARIN CORP PLC,02311120,910988.0
+MGLN,Magellan Health Inc. Common Stock,Healthcare,559079207,MAGELLAN HEALTH INC,55907920,19411.0
+OMI,Owens & Minor Inc. Common Stock,Healthcare,690732102,OWENS & MINOR INC NEW,69073210,75234.0
+OM,Outset Medical Inc. Common Stock,Healthcare,,,nan,
+MEDGF,Medacta Group SA,Healthcare,,,nan,
+IGMS,IGM Biosciences Inc. Common Stock,Healthcare,449585108,IGM BIOSCIENCES INC,44958510,1496323.0
+QURE,uniQure N.V. Ordinary Shares,Healthcare,N90064101,UNIQURE NV,N9006410,1590560.0
+AXNX,Axonics Modulation Technologies Inc. Common Stock,Healthcare,05465P101,AXONICS MODULATION TECHNOLOG,05465P10,1603756.0
+AVNS,Avanos Medical Inc. Common Stock,Healthcare,05350V106,AVANOS MED INC,05350V10,1606498.0
+QULRY,Qualicorp Consultoria e Corretora de Seguros S.A. ADR,Healthcare,,,nan,
+PBH,Prestige Consumer Healthcare Inc. Common Stock,Healthcare,74112D101,PRESTIGE CONSMR HEALTHCARE I,74112D10,1042825.0
+REPL,Replimune Group Inc. Common Stock,Healthcare,76029N106,REPLIMUNE GROUP INC,76029N10,1737953.0
+BVNRY,Bavarian Nordic A/S ADR,Healthcare,,,nan,
+KURA,Kura Oncology Inc. Common Stock,Healthcare,50127T109,KURA ONCOLOGY INC,50127T10,1631246.0
+INO,Inovio Pharmaceuticals Inc. Common Stock,Healthcare,45773H201,INOVIO PHARMACEUTICALS INC,45773H20,1055726.0
+ATRC,AtriCure Inc. Common Stock,Healthcare,04963C209,ATRICURE INC,04963C20,1001233.0
+VIE,Viela Bio Inc. Common Stock,Healthcare,926613100,VIELA BIO INC,92661310,1734517.0
+LJUIF,SSY Group Limited,Healthcare,,,nan,
+KYMR,Kymera Therapeutics Inc. Common Stock,Healthcare,,,nan,
+GNIIF,GNIIF,Healthcare,,,nan,
+NSTG,NanoString Technologies Inc. Common Stock,Healthcare,63009R109,NANOSTRING TECHNOLOGIES INC,63009R10,1401708.0
+RVNC,Revance Therapeutics Inc. Common Stock,Healthcare,761330109,REVANCE THERAPEUTICS INC,76133010,1479290.0
+ZLDPF,Zealand Pharma A/S.,Healthcare,98920Y304,ZEALAND PHARMA A S,98920Y30,
+ZNTL,Zentalis Pharmaceuticals Inc. Common Stock,Healthcare,98943L107,ZENTALIS PHARMACEUTICALS INC,98943L10,
+ARRJF,Arjo AB - Class B,Healthcare,,,nan,
+ALVR,AlloVir Inc. Common Stock,Healthcare,,,nan,
+ZEAL,Zealand Pharma A/S American Depositary Shares,Healthcare,98920Y304,ZEALAND PHARMA A S,98920Y30,
+ADUS,Addus HomeCare Corporation Common Stock,Healthcare,006739106,ADDUS HOMECARE CORP,00673910,1468328.0
+LFCYF,Veloxis Pharmaceuticals A/S,Healthcare,,,nan,
+QUAIF,QUAIF,Healthcare,,,nan,
+YMAB,Y-mAbs Therapeutics Inc. Common Stock,Healthcare,984241109,Y-MABS THERAPEUTICS INC,98424110,1722964.0
+CSII,Cardiovascular Systems Inc. Common Stock,Healthcare,141619106,CARDIOVASCULAR SYS INC DEL,14161910,1180145.0
+CYDY,Cytodyn Inc,Healthcare,,,nan,
+RCKT,Rocket Pharmaceuticals Inc. Common Stock,Healthcare,77313F106,ROCKET PHARMACEUTICALS INC,77313F10,1281895.0
+AMGXF,AnGes Inc.,Healthcare,,,nan,
+SGMO,Sangamo Therapeutics Inc. Common Stock,Healthcare,800677106,SANGAMO THERAPEUTICS INC,80067710,1024795.0
+IRWD,Ironwood Pharmaceuticals Inc. Class A Common Stock,Healthcare,46333X108,IRONWOOD PHARMACEUTICALS INC,46333X10,1446847.0
+HAWPF,Haw Par Corporation Limited,Healthcare,,,nan,
+HRTX,Heron Therapeutics Inc. Common Stock,Healthcare,427746102,HERON THERAPEUTICS INC,42774610,818033.0
+MYOV,Myovant Sciences Ltd. Common Shares,Healthcare,G637AM102,MYOVANT SCIENCES LTD,G637AM10,1679082.0
+CRTX,Cortexyme Inc. Common Stock,Healthcare,22053A107,CORTEXYME INC,22053A10,1662774.0
+BEAT,BioTelemetry Inc. Common Stock,Healthcare,090672106,BIOTELEMETRY INC,09067210,1009215.0
+NTLA,Intellia Therapeutics Inc. Common Stock,Healthcare,45826J105,INTELLIA THERAPEUTICS INC,45826J10,1652130.0
+NWBO,Northwest Biotherapeutics Inc,Healthcare,,,nan,
+DRNA,Dicerna Pharmaceuticals Inc. Common Stock,Healthcare,253031108,DICERNA PHARMACEUTICALS INC,25303110,1399529.0
+MLAB,Mesa Laboratories Inc. Common Stock,Healthcare,59064R109,MESA LABS INC,59064R10,724004.0
+PLHNF,Paul Hartmann AG,Healthcare,,,nan,
+KARBF,Karo Pharma AB,Healthcare,,,nan,
+SHHPF,Ship Healthcare Holdings Inc,Healthcare,,,nan,
+MRCHF,H.U. Group Holdings Inc.,Healthcare,,,nan,
+LTGHF,Life Healthcare Group Holdings Limited,Healthcare,53223X107,LIFE STORAGE INC,53223X10,944314.0
+NNOX,NANO-X IMAGING LTD Ordinary Shares,Healthcare,,,nan,
+RCUS,Arcus Biosciences Inc. Common Stock,Healthcare,03969F109,ARCUS BIOSCIENCES INC,03969F10,1724521.0
+LGND,Ligand Pharmaceuticals Incorporated Common Stock,Healthcare,53220K504,LIGAND PHARMACEUTICALS INC,53220K50,886163.0
+INMD,InMode Ltd. Ordinary Shares,Healthcare,M5425M103,INMODE LTD,M5425M10,1742692.0
+NRC,National Research Corporation Common Stock,Healthcare,,,nan,
+EPZM,Epizyme Inc. Common Stock,Healthcare,29428V104,EPIZYME INC,29428V10,1571498.0
+TTALF,Terveystalo Plc,Healthcare,,,nan,
+CMPS,COMPASS Pathways Plc American Depository Shares,Healthcare,,,nan,
+ENDP,Endo International plc Ordinary Shares,Healthcare,G30401106,ENDO INTL PLC,G3040110,1593034.0
+MESO,Mesoblast Limited American Depositary Shares,Healthcare,590717104,MESOBLAST LTD,59071710,1345099.0
+STOK,Stoke Therapeutics Inc. Common Stock,Healthcare,86150R107,STOKE THERAPEUTICS INC,86150R10,1623526.0
+MEOBF,Mesoblast Ltd,Healthcare,590717104,MESOBLAST LTD,59071710,1345099.0
+QTRX,Quanterix Corporation Common Stock,Healthcare,74766Q101,QUANTERIX CORP,74766Q10,1503274.0
+MD,Mednax Inc. Common Stock,Healthcare,58502B106,MEDNAX INC,58502B10,893949.0
+CYBQF,Cyberdyne Inc,Healthcare,,,nan,
+MGNX,MacroGenics Inc. Common Stock,Healthcare,556099109,MACROGENICS INC,55609910,1125345.0
+NNCSF,Nanosonics Limited,Healthcare,,,nan,
+MRSN,Mersana Therapeutics Inc. Common Stock,Healthcare,59045L106,MERSANA THERAPEUTICS INC,59045L10,1442836.0
+CLLKF,CELLINK,Healthcare,,,nan,
+ARCT,Arcturus Therapeutics Holdings Inc. Common Stock,Healthcare,03969T109,ARCTURUS THERAPEUTICS HLDG I,03969T10,1768224.0
+TRIL,Trillium Therapeutics Inc. Common Shares,Healthcare,89620X506,TRILLIUM THERAPEUTICS INC,89620X50,1616212.0
+CHRS,Coherus BioSciences Inc. Common Stock,Healthcare,19249H103,COHERUS BIOSCIENCES INC,19249H10,1512762.0
+ATRI,Atrion Corporation Common Stock,Healthcare,049904105,ATRION CORP,04990410,701288.0
+PNTG,The Pennant Group Inc. Common Stock ,Healthcare,,,nan,
+ZGNX,Zogenix Inc. Common Stock,Healthcare,98978L204,ZOGENIX INC,98978L20,1375151.0
+KNSA,Kiniksa Pharmaceuticals Ltd. Class A Common Stock,Healthcare,G5269C101,KINIKSA PHARMACEUTICALS LTD,G5269C10,1730430.0
+NGM,NGM Biopharmaceuticals Inc. Common Stock,Healthcare,62921N105,NGM BIOPHARMACEUTICALS INC,62921N10,1426332.0
+CGEN,Compugen Ltd. Ordinary Shares,Healthcare,M25722105,COMPUGEN LTD,M2572210,1119774.0
+TBPH,Theravance Biopharma Inc. Ordinary Shares,Healthcare,G8807B106,THERAVANCE BIOPHARMA INC,G8807B10,1583107.0
+SMGRF,Summerset Group Holdings Limited,Healthcare,,,nan,
+CYTK,Cytokinetics Incorporated Common Stock,Healthcare,23282W605,CYTOKINETICS INC,23282W60,1061983.0
+BDTX,Black Diamond Therapeutics Inc. Common Stock,Healthcare,09203E105,BLACK DIAMOND THERAPEUTICS I,09203E10,1701541.0
+AMTI,Applied Molecular Transport Inc. Common Stock,Healthcare,03824M109,APPLIED MOLECULAR TRANS INC,03824M10,
+HSKA,Heska Corporation Common Stock,Healthcare,42805E306,HESKA CORP,42805E30,1038133.0
+PBHDF,PBHDF,Healthcare,,,nan,
+SGRY,Surgery Partners Inc. Common Stock,Healthcare,86881A100,SURGERY PARTNERS INC,86881A10,1638833.0
+ADVM,Adverum Biotechnologies Inc. Common Stock,Healthcare,00773U108,ADVERUM BIOTECHNOLOGIES INC,00773U10,1501756.0
+USPH,U.S. Physical Therapy Inc. Common Stock,Healthcare,,,nan,
+RAFLF,Raffles Medical Group Ltd,Healthcare,,,nan,
+OTRK,Ontrak Inc. Common Stock,Healthcare,,,nan,
+KROS,Keros Therapeutics Inc. Common Stock,Healthcare,492327101,KEROS THERAPEUTICS INC,49232710,
+KPTI,Karyopharm Therapeutics Inc. Common Stock,Healthcare,48576U106,KARYOPHARM THERAPEUTICS INC,48576U10,1503802.0
+ATRA,Atara Biotherapeutics Inc. Common Stock,Healthcare,046513107,ATARA BIOTHERAPEUTICS INC,04651310,1604464.0
+CALZF,Polynovo Limited,Healthcare,,,nan,
+CNST,Constellation Pharmaceuticals Inc. Common Stock,Healthcare,210373106,CONSTELLATION PHARMCETICLS I,21037310,1434418.0
+RGNX,REGENXBIO Inc. Common Stock,Healthcare,75901B107,REGENXBIO INC,75901B10,1590877.0
+ATNX,Athenex Inc. Common Stock,Healthcare,04685N103,ATHENEX INC,04685N10,1300699.0
+OSUR,OraSure Technologies Inc. Common Stock,Healthcare,68554V108,ORASURE TECHNOLOGIES INC,68554V10,801555.0
+CERS,Cerus Corporation Common Stock,Healthcare,157085101,CERUS CORP,15708510,1020214.0
+RTRX,Retrophin Inc. Common Stock,Healthcare,761299106,RETROPHIN INC,76129910,1438533.0
+SUPN,Supernus Pharmaceuticals Inc. Common Stock,Healthcare,868459108,SUPERNUS PHARMACEUTICALS INC,86845910,1356576.0
+ANNX,Annexon Inc. Common Stock,Healthcare,,,nan,
+INVVY,Indivior Plc ADR,Healthcare,,,nan,
+KSPHF,Kissei Pharmaceutical Co. Ltd,Healthcare,,,nan,
+RNA,Avidity Biosciences Inc. Common Stock,Healthcare,05370A108,AVIDITY BIOSCIENCES INC,05370A10,
+TBIO,Translate Bio Inc. Common Stock,Healthcare,89374L104,TRANSLATE BIO INC,89374L10,1693415.0
+INVA,Innoviva Inc. Common Stock,Healthcare,45781M101,INNOVIVA INC,45781M10,1080014.0
+GBIO,Generation Bio Co. Common Stock,Healthcare,37148K100,GENERATION BIO CO,37148K10,
+NRIX,Nurix Therapeutics Inc. Common stock,Healthcare,,,nan,
+PSNL,Personalis Inc. Common Stock,Healthcare,71535D106,PERSONALIS INC,71535D10,1527753.0
+BMLKF,BMLKF,Healthcare,,,nan,
+IMGN,ImmunoGen Inc. Common Stock,Healthcare,45253H101,IMMUNOGEN INC,45253H10,775820.0
+BTAI,BioXcel Therapeutics Inc. Common Stock,Healthcare,09075P105,BIOXCEL THERAPEUTICS INC,09075P10,1720893.0
+SOLTF,Sosei Group Corp.,Healthcare,,,nan,
+TOPCF,Topcon Corporation,Healthcare,,,nan,
+RPTX,Repare Therapeutics Inc. Common Shares,Healthcare,760273102,REPARE THERAPEUTICS INC,76027310,
+ARQT,Arcutis Biotherapeutics Inc. Common Stock,Healthcare,03969K108,ARCUTIS BIOTHERAPEUTICS INC,03969K10,1787306.0
+GTH,Genetron Holdings Limited ADS,Healthcare,37186H100,GENETRON HLDGS LTD,37186H10,
+MYGN,Myriad Genetics Inc. Common Stock,Healthcare,62855J104,MYRIAD GENETICS INC,62855J10,899923.0
+TGRNF,Tong Ren Tang Technologies Co - Class H,Healthcare,,,nan,
+RYTM,Rhythm Pharmaceuticals Inc. Common Stock,Healthcare,76243J105,RHYTHM PHARMACEUTICALS INC,76243J10,1649904.0
+HGYMF,Hogy Medical Co Ltd,Healthcare,,,nan,
+LMNX,Luminex Corporation Common Stock,Healthcare,55027E102,LUMINEX CORP DEL,55027E10,1033905.0
+AMPH,Amphastar Pharmaceuticals Inc. Common Stock,Healthcare,03209R103,AMPHASTAR PHARMACEUTICALS IN,03209R10,1297184.0
+PHAT,Phathom Pharmaceuticals Inc. Common Stock,Healthcare,71722W107,PHATHOM PHARMACEUTICALS INC,71722W10,1783183.0
+NKTX,Nkarta Inc. Common Stock,Healthcare,,,nan,
+NHC,National HealthCare Corporation Common Stock,Healthcare,635906100,NATIONAL HEALTHCARE CORP,63590610,1047335.0
+SNBIF,SanBio Company Limited,Healthcare,,,nan,
+ICPT,Intercept Pharmaceuticals Inc. Common Stock,Healthcare,45845P108,INTERCEPT PHARMACEUTICALS IN,45845P10,1270073.0
+BITGF,Biotage AB,Healthcare,,,nan,
+CSTL,Castle Biosciences Inc. Common Stock,Healthcare,14843C105,CASTLE BIOSCIENCES INC,14843C10,1447362.0
+KIDS,OrthoPediatrics Corp. Common Stock,Healthcare,68752L100,ORTHOPEDIATRICS CORP,68752L10,1425450.0
+JLFNF,Japan Lifeline Co. Ltd.,Healthcare,47109U104,JAPAN SMALLER CAPITALIZATION,47109U10,859796.0
+KRYS,Krystal Biotech Inc. Common Stock,Healthcare,501147102,KRYSTAL BIOTECH INC,50114710,1711279.0
+VCEL,Vericel Corporation Common Stock,Healthcare,92346J108,VERICEL CORP,92346J10,887359.0
+ESPR,Esperion Therapeutics Inc. Common Stock,Healthcare,29664W105,ESPERION THERAPEUTICS INC NE,29664W10,1267565.0
+BGAIF,BioGaia AG - Class B,Healthcare,,,nan,
+BLFS,BioLife Solutions Inc. Common Stock,Healthcare,09062W204,BIOLIFE SOLUTIONS INC,09062W20,834365.0
+NK,NantKwest Inc. Common Stock,Healthcare,63016Q102,NANTKWEST INC,63016Q10,1326110.0
+ULIHF,United Laboratories International Holdings Ltd.,Healthcare,,,nan,
+AKRO,Akero Therapeutics Inc. Common Stock,Healthcare,00973Y108,AKERO THERAPEUTICS INC,00973Y10,1744659.0
+GNMLF,Genomma Lab Internacional SAB -Series B,Healthcare,,,nan,
+BRBR,BellRing Brands Inc. Class A Common Stock,Healthcare,079823100,BELLRING BRANDS INC,07982310,1772016.0
+ENTA,Enanta Pharmaceuticals Inc. Common Stock,Healthcare,29251M106,ENANTA PHARMACEUTICALS INC,29251M10,1177648.0
+PETQ,PetIQ Inc. Class A Common Stock,Healthcare,71639T106,PETIQ INC,71639T10,1668673.0
+LNTH,Lantheus Holdings Inc. Common Stock,Healthcare,516544103,LANTHEUS HLDGS INC,51654410,1521036.0
+OXBDF,Oxford Biomedica,Healthcare,,,nan,
+SHPHF,Sihuan Pharmaceutical Holdings Group Ltd,Healthcare,,,nan,
+RAPT,RAPT Therapeutics Inc. Common Stock,Healthcare,75382E109,RAPT THERAPEUTICS INC,75382E10,1673772.0
+PGEN,Precigen Inc. Common Stock,Healthcare,74017N105,PRECIGEN INC,74017N10,
+ADAP,Adaptimmune Therapeutics plc American Depositary Shares,Healthcare,00653A107,ADAPTIMMUNE THERAPEUTICS PLC,00653A10,1631650.0
+ARVN,Arvinas Inc. Common Stock,Healthcare,04335A105,ARVINAS INC,04335A10,1581331.0
+CLLS,Cellectis S.A. American Depositary Shares,Healthcare,15117K103,CELLECTIS S A,15117K10,1627281.0
+RDNT,RadNet Inc. Common Stock,Healthcare,750491102,RADNET INC,75049110,1473597.0
+GNMK,GenMark Diagnostics Inc. Common Stock,Healthcare,372309104,GENMARK DIAGNOSTICS INC,37230910,1487371.0
+ECGS,Eco-Growth Strategies Inc,Healthcare,,,nan,
+SKCZF,Selcuk Ecza Deposu,Healthcare,,,nan,
+XVIPF,Xvivo Perfusion AB,Healthcare,,,nan,
+PLRX,Pliant Therapeutics Inc. Common Stock,Healthcare,729139105,PLIANT THERAPEUTICS INC,72913910,
+CMVLF,Cellectis,Healthcare,15117K103,CELLECTIS S A,15117K10,1627281.0
+MORF,Morphic Holding Inc. Common Stock,Healthcare,61775R105,MORPHIC HLDG INC,61775R10,1679363.0
+FLGT,Fulgent Genetics Inc. Common Stock,Healthcare,359664109,FULGENT GENETICS INC,35966410,1674930.0
+ITOS,iTeos Therapeutics Inc. Common Stock,Healthcare,,,nan,
+CLVLF,Clinuvel Pharmaceuticals Ltd,Healthcare,,,nan,
+NUNZ,Nunzia Pharmaceutical Corp,Healthcare,,,nan,
+PASG,Passage Bio Inc. Common Stock,Healthcare,702712100,PASSAGE BIO INC,70271210,
+VIVO,Meridian Bioscience Inc. Common Stock,Healthcare,589584101,MERIDIAN BIOSCIENCE INC,58958410,794172.0
+DYN,Dyne Therapeutics Inc. Common Stock,Healthcare,26817Q886,DYNEX CAP INC,26817Q88,826675.0
+ATEC,Alphatec Holdings Inc. Common Stock,Healthcare,02081G201,ALPHATEC HLDGS INC,02081G20,1350653.0
+AMRX,Amneal Pharmaceuticals Inc. Class A Common Stock,Healthcare,03168L105,AMNEAL PHARMACEUTICALS INC,03168L10,1723128.0
+VAPO,Vapotherm Inc. Common Stock,Healthcare,922107107,VAPOTHERM INC,92210710,1253176.0
+ALEC,Alector Inc. Common Stock,Healthcare,014442107,ALECTOR INC,01444210,1653087.0
+PRVB,Provention Bio Inc. Common Stock,Healthcare,74374N102,PROVENTION BIO INC,74374N10,1695357.0
+PTGX,Protagonist Therapeutics Inc. Common Stock,Healthcare,74366E102,PROTAGONIST THERAPEUTICS INC,74366E10,1624658.0
+PAHC,Phibro Animal Health Corporation Class A Common Stock,Healthcare,71742Q106,PHIBRO ANIMAL HEALTH CORP,71742Q10,1069899.0
+FREQ,Frequency Therapeutics Inc. Common Stock,Healthcare,35803L108,FREQUENCY THERAPEUTICS INC,35803L10,1703647.0
+GUERF,Guerbet SA,Healthcare,,,nan,
+IMMVF,Immunovia AB,Healthcare,,,nan,
+CRY,CryoLife Inc. Common Stock,Healthcare,228903100,CRYOLIFE INC,22890310,784199.0
+OCUL,Ocular Therapeutix Inc. Common Stock,Healthcare,67576A100,OCULAR THERAPEUTIX INC,67576A10,1393434.0
+SIBN,SI-BONE Inc. Common Stock,Healthcare,,,nan,
+MDXG,Mimedx Group Inc,Healthcare,,,nan,
+AGEN,Agenus Inc. Common Stock,Healthcare,00847G705,AGENUS INC,00847G70,1098972.0
+TVTY,Tivity Health Inc. Common Stock,Healthcare,88870R102,TIVITY HEALTH INC,88870R10,704415.0
+INBX,Inhibrx Inc. Common Stock,Healthcare,,,nan,
+TRXPF,Torii Pharmaceutical Co. Ltd,Healthcare,,,nan,
+IMTX,Immatics N.V. Ordinary Shares,Healthcare,,,nan,
+AFIB,Acutus Medical Inc. Common Stock,Healthcare,,,nan,
+ANAB,AnaptysBio Inc. Common Stock,Healthcare,032724106,ANAPTYSBIO INC,03272410,1370053.0
+TCMD,Tactile Systems Technology Inc. Common Stock,Healthcare,87357P100,TACTILE SYS TECHNOLOGY INC,87357P10,1027838.0
+TCRR,TCR2 Therapeutics Inc. Common Stock,Healthcare,87808K106,TCR2 THERAPEUTICS INC,87808K10,1750019.0
+CAMRF,Camurus AB,Healthcare,,,nan,
+KDMN,Kadmon Holdings Inc. Common Stock,Healthcare,48283N106,KADMON HLDGS INC,48283N10,1557142.0
+HNGR,Hanger Inc. Common Stock,Healthcare,41043F208,HANGER INC,41043F20,722723.0
+PHGUF,Pharming Group N.V.,Healthcare,,,nan,
+PSTX,Poseida Therapeutics Inc. Common Stock,Healthcare,,,nan,
+AKUS,Akouos Inc. Common Stock,Healthcare,00973J101,AKOUOS INC,00973J10,
+GOSS,Gossamer Bio Inc. Common Stock,Healthcare,38341P102,GOSSAMER BIO INC,38341P10,1728117.0
+ALBO,Albireo Pharma Inc. Common Stock,Healthcare,01345P106,ALBIREO PHARMA INC,01345P10,1653087.0
+COLL,Collegium Pharmaceutical Inc. Common Stock,Healthcare,19459J104,COLLEGIUM PHARMACEUTICAL INC,19459J10,1631650.0
+HGEN,Humanigen Inc. Common Stock,Healthcare,,,nan,
+LMAT,LeMaitre Vascular Inc. Common Stock,Healthcare,525558201,LEMAITRE VASCULAR INC,52555820,1158895.0
+CARA,Cara Therapeutics Inc. Common Stock,Healthcare,140755109,CARA THERAPEUTICS INC,14075510,1346830.0
+AMEH,Apollo Medical Holdings Inc. Common Stock,Healthcare,,,nan,
+ORIC,Oric Pharmaceuticals Inc. Common Stock,Healthcare,68622P109,ORIC PHARMACEUTICALS INC,68622P10,
+OMER,Omeros Corporation Common Stock,Healthcare,682143102,OMEROS CORP,68214310,1285819.0
+BSTC,BioSpecifics Technologies Corp. Common Stock,Healthcare,090931106,BIOSPECIFICS TECHNOLOGIES CO,09093110,875622.0
+ATHA,Athira Pharma Inc. Common Stock,Healthcare,,,nan,
+CALT,Calliditas Therapeutics AB American Depositary Shares,Healthcare,13124Q106,CALLIDITAS THERAPEUTICS AB,13124Q10,
+OFIX,Orthofix Medical Inc. Common Stock (DE),Healthcare,68752M108,ORTHOFIX MED INC,68752M10,884624.0
+SVA,Sinovac Biotech Ltd. Ordinary Shares,Healthcare,P8696W104,SINOVAC BIOTECH LTD,P8696W10,1084201.0
+CLDX,Celldex Therapeutics Inc.,Healthcare,15117B202,CELLDEX THERAPEUTICS INC NEW,15117B20,744218.0
+AUTL,Autolus Therapeutics plc American Depositary Share,Healthcare,05280R100,AUTOLUS THERAPEUTICS PLC,05280R10,1730463.0
+AXDX,Accelerate Diagnostics Inc. Common Stock,Healthcare,00430H102,ACCELERATE DIAGNOSTICS INC,00430H10,727207.0
+CPPSF,Cassiopea S.p.A.,Healthcare,,,nan,
+CBAY,CymaBay Therapeutics Inc. Common Stock,Healthcare,23257D103,CYMABAY THERAPEUTICS INC,23257D10,1042074.0
+BCRX,BioCryst Pharmaceuticals Inc. Common Stock,Healthcare,09058V103,BIOCRYST PHARMACEUTICALS INC,09058V10,882796.0
+INGN,Inogen Inc Common Stock,Healthcare,45780L104,INOGEN INC,45780L10,1294133.0
+SNDX,Syndax Pharmaceuticals Inc. Common Stock,Healthcare,87164F105,SYNDAX PHARMACEUTICALS INC,87164F10,1395937.0
+RDUS,Radius Health Inc. Common Stock,Healthcare,750469207,RADIUS HEALTH INC,75046920,1428522.0
+NTUS,Natus Medical Incorporated Common Stock,Healthcare,639050103,NATUS MED INC DEL,63905010,944537.0
+CYH,Community Health Systems Inc. Common Stock,Healthcare,,,nan,
+EGRX,Eagle Pharmaceuticals Inc. Common Stock,Healthcare,269796108,EAGLE PHARMACEUTICALS INC,26979610,827871.0
+FLXN,Flexion Therapeutics Inc. Common Stock,Healthcare,33938J106,FLEXION THERAPEUTICS INC,33938J10,1419600.0
+VXRT,Vaxart Inc Common Stock,Healthcare,92243A200,VAXART INC,92243A20,72444.0
+VBIV,VBI Vaccines Inc. New Common Stock (Canada),Healthcare,91822J103,VBI VACCINES INC,91822J10,764195.0
+GERN,Geron Corporation Common Stock,Healthcare,374163103,GERON CORP,37416310,886744.0
+LWEL,Luckwel Pharmaceuticals Inc,Healthcare,,,nan,
+FRLN,Freeline Therapeutics Holdings plc American Depositary Shares,Healthcare,,,nan,
+KHTRF,Knight Therapeutics Inc,Healthcare,499049104,KNIGHT SWIFT TRANSN HLDGS IN,49904910,1492691.0
+AVRO,AVROBIO Inc. Common Stock,Healthcare,05455M100,AVROBIO INC,05455M10,1681087.0
+APRE,Aprea Therapeutics Inc. Common stock,Healthcare,03836J102,APREA THERAPEUTICS INC,03836J10,1781983.0
+SRDX,Surmodics Inc. Common Stock,Healthcare,868873100,SURMODICS INC,86887310,1220692.0
+VNDA,Vanda Pharmaceuticals Inc. Common Stock,Healthcare,921659108,VANDA PHARMACEUTICALS INC,92165910,1305597.0
+ABSCF,Ab Science,Healthcare,,,nan,
+INZY,Inozyme Pharma Inc. Common Stock,Healthcare,,,nan,
+VREX,Varex Imaging Corporation Common Stock,Healthcare,92214X106,VAREX IMAGING CORP,92214X10,1681622.0
+SPPI,Spectrum Pharmaceuticals Inc.Common Stock,Healthcare,84763A108,SPECTRUM PHARMACEUTICALS INC,84763A10,1166904.0
+OYST,Oyster Point Pharma Inc. Common Stock,Healthcare,69242L106,OYSTER PT PHARMA INC,69242L10,1720725.0
+RLMD,Relmada Therapeutics Inc. Common Stock,Healthcare,75955J402,RELMADA THERAPEUTICS INC,75955J40,1553643.0
+AXGN,Axogen Inc. Common Stock,Healthcare,05463X106,AXOGEN INC,05463X10,805928.0
+ISEE,IVERIC bio Inc. Common Stock,Healthcare,46583P102,IVERIC BIO INC,46583P10,1410939.0
+IVA,Inventiva S.A. American Depository Shares,Healthcare,,,nan,
+RCEL,Avita Therapeutics Inc. Common Stock,Healthcare,05380C102,AVITA THERAPEUTICS INC,05380C10,
+BKD,Brookdale Senior Living Inc. Common Stock,Healthcare,112463104,BROOKDALE SR LIVING INC,11246310,1332349.0
+XBIT,XBiotech Inc. Common Stock,Healthcare,98400H102,XBIOTECH INC,98400H10,1626878.0
+ODT,Odonate Therapeutics Inc. Common Stock,Healthcare,676079106,ODONATE THERAPEUTICS INC,67607910,1299969.0
+ESTA,Establishment Labs Holdings Inc. Common Shares,Healthcare,G31249108,ESTABLISHMENT LABS HLDGS INC,G3124910,1688757.0
+FUSN,Fusion Pharmaceuticals Inc. Common Shares,Healthcare,36118A100,FUSION PHARMACEUTICALS INC,36118A10,
+BCEL,Atreca Inc. Class A Common Stock,Healthcare,04965G109,ATRECA INC,04965G10,1532346.0
+ATRS,Antares Pharma Inc. Common Stock,Healthcare,036642106,ANTARES PHARMA INC,03664210,1016169.0
+SIGA,SIGA Technologies Inc. Common Stock,Healthcare,826917106,SIGA TECHNOLOGIES INC,82691710,1010086.0
+CLHLF,Coltene Hldg AG Registered Shares,Healthcare,,,nan,
+ANIK,Anika Therapeutics Inc. Common Stock,Healthcare,035255108,ANIKA THERAPEUTICS INC,03525510,898437.0
+FLDM,Fluidigm Corporation Common Stock,Healthcare,34385P108,FLUIDIGM CORP DEL,34385P10,1162194.0
+MTEM,Molecular Templates Inc. Common Stock,Healthcare,608550109,MOLECULAR TEMPLATES INC,60855010,1183765.0
+XENT,Intersect ENT Inc. Common Stock,Healthcare,46071F103,INTERSECT ENT INC,46071F10,1271214.0
+FIXX,Homology Medicines Inc. Common Stock,Healthcare,438083107,HOMOLOGY MEDICINES INC,43808310,1661998.0
+CVM,Cel-Sci Corporation Common Stock,Healthcare,,,nan,
+CLVS,Clovis Oncology Inc. Common Stock,Healthcare,189464100,CLOVIS ONCOLOGY INC,18946410,93751.0
+ASMB,Assembly Biosciences Inc. Common Stock,Healthcare,045396108,ASSEMBLY BIOSCIENCES INC,04539610,1426800.0
+PBIGF,Paradigm Biopharmaceuticals Limited,Healthcare,,,nan,
+MGTX,MeiraGTx Holdings plc Ordinary Shares,Healthcare,G59665102,MEIRAGTX HLDGS PLC,G5966510,1735438.0
+APLT,Applied Therapeutics Inc. Common Stock,Healthcare,03828A101,APPLIED THERAPEUTICS INC,03828A10,1697532.0
+CRNX,Crinetics Pharmaceuticals Inc. Common Stock,Healthcare,22663K107,CRINETICS PHARMACEUTICALS IN,22663K10,1658247.0
+ETNB,89bio Inc. Common Stock,Healthcare,282559103,89BIO INC,28255910,1785173.0
+ZIOP,ZIOPHARM Oncology Inc Common Stock,Healthcare,98973P101,ZIOPHARM ONCOLOGY INC,98973P10,1019231.0
+NLTX,Neoleukin Therapeutics Inc. Common Stock,Healthcare,64049K104,NEOLEUKIN THERAPEUTICS INC,64049K10,1404644.0
+GTHX,G1 Therapeutics Inc. Common Stock,Healthcare,3621LQ109,G1 THERAPEUTICS INC,3621LQ10,1560241.0
+GTS,Triple-S Management Corporation Class B Common Stock,Healthcare,896749108,TRIPLE-S MGMT CORP,89674910,1171662.0
+QTNT,Quotient Limited Ordinary Shares,Healthcare,G73268107,QUOTIENT LTD,G7326810,1596946.0
+EMIS,Emisphere Technologies Inc.,Healthcare,,,nan,
+ZYXI,Zynex Inc. Common Stock,Healthcare,98986M103,ZYNEX INC,98986M10,846475.0
+URGN,UroGen Pharma Ltd. Ordinary Shares,Healthcare,M96088105,UROGEN PHARMA LTD,M9608810,1668243.0
+AMAG,AMAG Pharmaceuticals Inc. Common Stock,Healthcare,00163U106,AMAG PHARMACEUTICALS INC,00163U10,792977.0
+AKBA,Akebia Therapeutics Inc. Common Stock,Healthcare,00972D105,AKEBIA THERAPEUTICS INC,00972D10,1517022.0
+MNKD,MannKind Corporation Common Stock,Healthcare,56400P706,MANNKIND CORP,56400P70,899460.0
+ARDX,Ardelyx Inc. Common Stock,Healthcare,039697107,ARDELYX INC,03969710,1437402.0
+CDMO,Avid Bioservices Inc. Common Stock,Healthcare,05368M106,AVID BIOSERVICES INC,05368M10,704562.0
+MIRM,Mirum Pharmaceuticals Inc. Common Stock,Healthcare,604749101,MIRUM PHARMACEUTICALS INC,60474910,1759425.0
+DVAX,Dynavax Technologies Corporation Common Stock,Healthcare,268158201,DYNAVAX TECHNOLOGIES CORP,26815820,1029142.0
+PBBIF,Probi AB,Healthcare,,,nan,
+VRAY,ViewRay Inc. Common Stock,Healthcare,92672L107,VIEWRAY INC,92672L10,1597313.0
+AERI,Aerie Pharmaceuticals Inc. Common Stock,Healthcare,00771V108,AERIE PHARMACEUTICALS INC,00771V10,1337553.0
+PRTA,Prothena Corporation plc Ordinary Shares,Healthcare,G72800108,PROTHENA CORP PLC,G7280010,1559053.0
+CRDF,Cardiff Oncology Inc. Common Stock,Healthcare,14147L108,CARDIFF ONCOLOGY INC,14147L10,
+APTO,Aptose Biosciences Inc. Common Shares,Healthcare,03835T200,APTOSE BIOSCIENCES INC,03835T20,882361.0
+TXMD,TherapeuticsMD Inc. Common Stock,Healthcare,88338N107,THERAPEUTICSMD INC,88338N10,25743.0
+TCDA,Tricida Inc. Common Stock,Healthcare,89610F101,TRICIDA INC,89610F10,1595585.0
+KALA,Kala Pharmaceuticals Inc. Common Stock,Healthcare,483119103,KALA PHARMACEUTICALS INC,48311910,1479419.0
+ORTX,Orchard Therapeutics plc American Depositary Shares,Healthcare,68570P101,ORCHARD THERAPEUTICS PLC,68570P10,1748907.0
+STRO,Sutro Biopharma Inc. Common Stock,Healthcare,869367102,SUTRO BIOPHARMA INC,86936710,1382101.0
+MAYNF,Mayne Pharma Group Limited,Healthcare,,,nan,
+CKDXF,Opthea Limited,Healthcare,,,nan,
+CO,Global Cord Blood Corporation Common Stock,Healthcare,G39342103,GLOBAL CORD BLOOD CORPORATIO,G3934210,1467808.0
+MRNS,Marinus Pharmaceuticals Inc. Common Stock,Healthcare,56854Q101,MARINUS PHARMACEUTICALS INC,56854Q10,1267813.0
+SPHRF,Starpharma Holdings Ltd.,Healthcare,,,nan,
+BYSI,BeyondSpring Inc. Ordinary Shares,Healthcare,G10830100,BEYONDSPRING INC,G1083010,1677940.0
+TLSA,Tiziana Life Sciences plc American Depository Share,Healthcare,88875G101,TIZIANA LIFE SCIENCES PLC,88875G10,
+SRRK,Scholar Rock Holding Corporation Common Stock,Healthcare,80706P103,SCHOLAR ROCK HLDG CORP,80706P10,1727196.0
+ANGO,AngioDynamics Inc. Common Stock,Healthcare,03475V101,ANGIODYNAMICS INC,03475V10,1275187.0
+CUE,Cue Biopharma Inc. Common Stock,Healthcare,22978P106,CUE BIOPHARMA INC,22978P10,1645460.0
+RIGL,Rigel Pharmaceuticals Inc. Common Stock,Healthcare,766559603,RIGEL PHARMACEUTICALS INC,76655960,1034842.0
+VYGR,Voyager Therapeutics Inc. Common Stock,Healthcare,92915B106,VOYAGER THERAPEUTICS INC,92915B10,1640266.0
+AMYT,Amryt Pharma plc American Depositary Shares,Healthcare,,,nan,
+TRVN,Trevena Inc. Common Stock,Healthcare,89532E109,TREVENA INC,89532E10,1429560.0
+RUBY,Rubius Therapeutics Inc. Common Stock,Healthcare,78116T103,RUBIUS THERAPEUTICS INC,78116T10,1709401.0
+VKTX,Viking Therapeutics Inc. Common Stock,Healthcare,92686J106,VIKING THERAPEUTICS INC,92686J10,93751.0
+MLLCF,Molecular Partners AG,Healthcare,,,nan,
+SPNE,SeaSpine Holdings Corporation Common Stock,Healthcare,81255T108,SEASPINE HLDGS CORP,81255T10,1637761.0
+ARA,American Renal Associates Holdings Inc Common Stock,Healthcare,029227105,AMERICAN RENAL ASSOCS HLDGS,02922710,1524408.0
+VMD,Viemed Healthcare Inc. Common Shares,Healthcare,92663R105,VIEMED HEALTHCARE INC,92663R10,1729149.0
+SMLR,Semler Scientific Inc,Healthcare,,,nan,
+WVE,Wave Life Sciences Ltd. Ordinary Shares,Healthcare,Y95308105,WAVE LIFE SCIENCES LTD,Y9530810,1631574.0
+DRRX,DURECT Corporation Common Stock,Healthcare,266605104,DURECT CORP,26660510,1082038.0
+FBRX,Forte Biosciences Inc. Common Stock,Healthcare,34962G109,FORTE BIOSCIENCES INC,34962G10,
+HARP,Harpoon Therapeutics Inc. Common Stock,Healthcare,41358P106,HARPOON THERAPEUTICS INC,41358P10,1708493.0
+CUTR,Cutera Inc. Common Stock,Healthcare,232109108,CUTERA INC,23210910,79677.0
+AWH,Aspira Women's Health Inc. Common Stock,Healthcare,04537Y109,ASPIRA WOMENS HEALTH INC,04537Y10,
+MRUS,Merus N.V. Common Shares,Healthcare,N5749R100,MERUS N V,N5749R10,1651311.0
+PFGTF,Pacific Edge Limited,Healthcare,,,nan,
+OSMT,Osmotica Pharmaceuticals plc Ordinary Shares,Healthcare,G6S41R101,OSMOTICA PHARMACEUTICALS PLC,G6S41R10,
+PBYI,Puma Biotechnology Inc Common Stock,Healthcare,74587V107,PUMA BIOTECHNOLOGY INC,74587V10,1401667.0
+KMDA,Kamada Ltd. Ordinary Shares,Healthcare,M6240T109,KAMADA LTD,M6240T10,1567529.0
+XENE,Xenon Pharmaceuticals Inc. Common Shares,Healthcare,98420N105,XENON PHARMACEUTICALS INC,98420N10,1582313.0
+CODX,Co-Diagnostics Inc. Common Stock,Healthcare,189763105,CO-DIAGNOSTICS INC,18976310,1692415.0
+BCYC,Bicycle Therapeutics plc American Depositary Shares,Healthcare,088786108,BICYCLE THERAPEUTICS PLC,08878610,1761612.0
+SURF,Surface Oncology Inc. Common Stock,Healthcare,86877M209,SURFACE ONCOLOGY INC,86877M20,1718108.0
+IDYA,IDEAYA Biosciences Inc. Common Stock,Healthcare,45166A102,IDEAYA BIOSCIENCES INC,45166A10,1676725.0
+OZYMF,Orphazyme A/S,Healthcare,,,nan,
+IPHA,Innate Pharma S.A. ADS,Healthcare,45781K204,INNATE PHARMA S A,45781K20,
+RDHL,Redhill Biopharma Ltd. American Depositary Shares,Healthcare,757468103,REDHILL BIOPHARMA LTD,75746810,1553846.0
+DTIL,Precision BioSciences Inc. Common Stock,Healthcare,74019P108,PRECISION BIOSCIENCES INC,74019P10,1357874.0
+PROG,Progenity Inc. Common Stock,Healthcare,74319F107,PROGENITY INC,74319F10,
+PRVL,Prevail Therapeutics Inc. Common Stock,Healthcare,74140Y101,PREVAIL THERAPEUTICS INC,74140Y10,1714798.0
+CTSO,Cytosorbents Corporation Common Stock,Healthcare,23283X206,CYTOSORBENTS CORP,23283X20,
+AGLE,Aeglea BioTherapeutics Inc. Common Stock,Healthcare,00773J103,AEGLEA BIOTHERAPEUTICS INC,00773J10,59478.0
+ACIU,AC Immune SA Common Stock,Healthcare,H00263105,AC IMMUNE SA,H0026310,1651625.0
+CBMG,Cellular Biomedicine Group Inc. Common Stock,Healthcare,15117P102,CELLULAR BIOMEDICINE GROUP I,15117P10,1378624.0
+ANIP,ANI Pharmaceuticals Inc.,Healthcare,00182C103,ANI PHARMACEUTICALS INC,00182C10,1023024.0
+ITMMF,Itamar Medical Ltd,Healthcare,465437101,ITAMAR MED LTD,46543710,1613170.0
+IMUX,Immunic Inc. Common Stock,Healthcare,4525EP101,IMMUNIC INC,4525EP10,1280776.0
+TMDX,TransMedics Group Inc. Common Stock,Healthcare,89377M109,TRANSMEDICS GROUP INC,89377M10,1756262.0
+IBIO,iBio Inc. Common Stock,Healthcare,451033203,IBIO INC,45103320,1420720.0
+SPRO,Spero Therapeutics Inc. Common Stock,Healthcare,84833T103,SPERO THERAPEUTICS INC,84833T10,1701108.0
+SYRS,Syros Pharmaceuticals Inc. Common Stock,Healthcare,87184Q107,SYROS PHARMACEUTICALS INC,87184Q10,1556263.0
+BDSI,BioDelivery Sciences International Inc. Common Stock,Healthcare,09060J106,BIODELIVERY SCIENCES INTL IN,09060J10,1328003.0
+NXTC,NextCure Inc. Common Stock,Healthcare,65343E108,NEXTCURE INC,65343E10,1661059.0
+CNCE,Concert Pharmaceuticals Inc. Common Stock,Healthcare,206022105,CONCERT PHARMACEUTICALS INC,20602210,1367920.0
+MGTA,Magenta Therapeutics Inc. Common Stock,Healthcare,55910K108,MAGENTA THERAPEUTICS INC,55910K10,1690585.0
+OVID,Ovid Therapeutics Inc. Common Stock,Healthcare,690469101,OVID THERAPEUTICS INC,69046910,1636651.0
+PAND,Pandion Therapeutics Inc. Common Stock,Healthcare,,,nan,
+JNCE,Jounce Therapeutics Inc. Common Stock,Healthcare,481116101,JOUNCE THERAPEUTICS INC,48111610,1640455.0
+TFFP,TFF Pharmaceuticals Inc. Common Stock,Healthcare,87241J104,TFF PHARMACEUTICALS INC,87241J10,1733413.0
+CPRX,Catalyst Pharmaceuticals Inc. Common Stock,Healthcare,14888U101,CATALYST PHARMACEUTICALS INC,14888U10,1369568.0
+RCAR,RenovaCare Inc,Healthcare,,,nan,
+VYNE,VYNE Therapeutics Inc. Common Stock,Healthcare,,,nan,
+TLPPF,Telix Pharmaceuticals Limited,Healthcare,,,nan,
+MEIP,MEI Pharma Inc. Common Stock,Healthcare,55279B202,MEI PHARMA INC,55279B20,1262104.0
+BCLI,Brainstorm Cell Therapeutics Inc. Common Stock,Healthcare,10501E201,BRAINSTORM CELL THERAPEUTICS,10501E20,1137883.0
+ATHX,Athersys Inc. Common Stock,Healthcare,04744L106,ATHERSYS INC NEW,04744L10,1317875.0
+VRNA,Verona Pharma plc American Depositary Share,Healthcare,925050106,VERONA PHARMA PLC,92505010,1657312.0
+OXFD,Oxford Immunotec Global PLC Ordinary Shares,Healthcare,G6855A103,OXFORD IMMUNOTEC GLOBAL PLC,G6855A10,1586049.0
+IPHYF,Innate Pharma - Class A,Healthcare,45781K204,INNATE PHARMA S A,45781K20,
+AVXL,Anavex Life Sciences Corp. Common Stock,Healthcare,032797300,ANAVEX LIFE SCIENCES CORP,03279730,1314052.0
+CTMX,CytomX Therapeutics Inc. Common Stock,Healthcare,23284F105,CYTOMX THERAPEUTICS INC,23284F10,1501989.0
+PLSE,Pulse Biosciences Inc Common Stock (DE),Healthcare,74587B101,PULSE BIOSCIENCES INC,74587B10,1625101.0
+AVDL,Avadel Pharmaceuticals plc American Depositary Shares,Healthcare,05337M104,AVADEL PHARMACEUTICALS PLC,05337M10,1012477.0
+UTMD,Utah Medical Products Inc. Common Stock,Healthcare,917488108,UTAH MED PRODS INC,91748810,706698.0
+GRTX,Galera Therapeutics Inc. Common Stock,Healthcare,36338D108,GALERA THERAPEUTICS INC,36338D10,1563577.0
+FULC,Fulcrum Therapeutics Inc. Common Stock,Healthcare,359616109,FULCRUM THERAPEUTICS INC,35961610,1680581.0
+IMRA,IMARA Inc. Common Stock,Healthcare,45249V107,IMARA INC,45249V10,
+COOSF,Carbios,Healthcare,,,nan,
+ITMR,Itamar Medical Ltd. American Depository Shares,Healthcare,465437101,ITAMAR MED LTD,46543710,1613170.0
+EIGR,Eiger BioPharmaceuticals Inc. Common Stock,Healthcare,28249U105,EIGER BIOPHARMACEUTICALS INC,28249U10,1454815.0
+ALDX,Aldeyra Therapeutics Inc. Common Stock,Healthcare,01438T106,ALDEYRA THERAPEUTICS INC,01438T10,1341235.0
+GMDTF,Golden Meditech Holdings Limited,Healthcare,,,nan,
+CABA,Cabaletta Bio Inc. Common Stock,Healthcare,12674W109,CABALETTA BIO INC,12674W10,1759138.0
+ARAY,Accuray Incorporated Common Stock,Healthcare,004397105,ACCURAY INC,00439710,1138723.0
+SELB,Selecta Biosciences Inc. Common Stock,Healthcare,816212104,SELECTA BIOSCIENCES INC,81621210,1548606.0
+LRMR,Larimar Therapeutics Inc. Common Stock,Healthcare,517125100,LARIMAR THERAPEUTICS INC,51712510,
+QUTEF,Lumibird,Healthcare,,,nan,
+AFMD,Affimed N.V.,Healthcare,N01045108,AFFIMED N V,N0104510,1608390.0
+NCNA,NuCana plc American Depositary Share,Healthcare,67022C106,NUCANA PLC,67022C10,1709626.0
+KRMD,Repro Med Systems Inc. Common Stock,Healthcare,759910102,REPRO MED SYS INC,75991010,704440.0
+GMDA,Gamida Cell Ltd. Ordinary Shares,Healthcare,M47364100,GAMIDA CELL LTD,M4736410,1600847.0
+LCI,Lannett Co Inc Common Stock,Healthcare,,,nan,
+KALV,KalVista Pharmaceuticals Inc. Common Stock,Healthcare,483497103,KALVISTA PHARMACEUTICALS INC,48349710,1348911.0
+INFU,InfuSystems Holdings Inc. Common Stock,Healthcare,,,nan,
+RVP,Retractable Technologies Inc. Common Stock,Healthcare,76129W105,RETRACTABLE TECHNOLOGIES INC,76129W10,946563.0
+IRMD,iRadimed Corporation Common Stock,Healthcare,46266A109,IRADIMED CORP,46266A10,1325618.0
+STXS,Stereotaxis Inc. Common Stock,Healthcare,85916J409,STEREOTAXIS INC,85916J40,1289340.0
+JYNT,The Joint Corp. Common Stock,Healthcare,,,nan,
+CALA,Calithera Biosciences Inc. Common Stock,Healthcare,13089P101,CALITHERA BIOSCIENCES INC,13089P10,1496671.0
+IVC,Invacare Corporation Common Stock,Healthcare,461203101,INVACARE CORP,46120310,742112.0
+AGRX,Agile Therapeutics Inc. Common Stock,Healthcare,00847L100,AGILE THERAPEUTICS INC,00847L10,1260990.0
+KZR,Kezar Life Sciences Inc. Common Stock,Healthcare,49372L100,KEZAR LIFE SCIENCES INC,49372L10,1645666.0
+CTIC,CTI BioPharma Corp. (DE) Common Stock,Healthcare,12648L601,CTI BIOPHARMA CORP,12648L60,891293.0
+BRRGF,BerGenBio ASA,Healthcare,,,nan,
+UROV,Urovant Sciences Ltd. Common Stock,Healthcare,G9381B108,UROVANT SCIENCES LTD,G9381B10,1740547.0
+PHCUF,Photocure ASA,Healthcare,,,nan,
+CMPI,Checkmate Pharmaceuticals Inc. Common Stock,Healthcare,,,nan,
+PSTI,Pluristem Therapeutics Inc. Common Stock,Healthcare,72940R300,PLURISTEM THERAPEUTICS INC,72940R30,
+PDLI,PDL BioPharma Inc. Common Stock,Healthcare,69329Y104,PDL BIOPHARMA INC,69329Y10,882104.0
+REDIF,Redhill Biopharma,Healthcare,757468103,REDHILL BIOPHARMA LTD,75746810,1553846.0
+HOOK,HOOKIPA Pharma Inc. Common Stock,Healthcare,43906K100,HOOKIPA PHARMA INC,43906K10,1760542.0
+KDNY,Chinook Therapeutics Inc. Common Stock,Healthcare,,,nan,
+KLDO,Kaleido Biosciences Inc. Common Stock,Healthcare,483347100,KALEIDO BIOSCIENCES INC,48334710,1751299.0
+VPAHF,Volpara Health Technologies Limited,Healthcare,,,nan,
+ACET,Adicet Bio Inc. Common Stock ,Healthcare,,,nan,
+SCPH,scPharmaceuticals Inc. Common Stock,Healthcare,810648105,SCPHARMACEUTICALS INC,81064810,1604950.0
+IMSU,Kavtek Software Corp,Healthcare,,,nan,
+XERS,Xeris Pharmaceuticals Inc. Common Stock,Healthcare,98422L107,XERIS PHARMACEUTICALS INC,98422L10,1346302.0
+ABUS,Arbutus Biopharma Corporation Common Stock,Healthcare,03879J100,ARBUTUS BIOPHARMA CORP,03879J10,1447028.0
+OASMY,Oasmia Pharmaceutical AB ADR,Healthcare,,,nan,
+MNOV,Medicinova Inc Common Stock,Healthcare,58468P206,MEDICINOVA INC,58468P20,1226616.0
+AIXN,AiXin Life International Inc,Healthcare,,,nan,
+MTCR,Metacrine Inc. Common Stock,Healthcare,,,nan,
+NEPT,Neptune Wellness Solutions Inc. Ordinary Shares,Healthcare,64079L105,NEPTUNE WELLNESS SOLUTIONS I,64079L10,1401395.0
+SAVA,Cassava Sciences Inc. Common Stock,Healthcare,14817C107,CASSAVA SCIENCES INC,14817C10,1069530.0
+FBIO,Fortress Biotech Inc. Common Stock,Healthcare,34960Q109,FORTRESS BIOTECH INC,34960Q10,1429260.0
+SIEN,Sientra Inc. Common Stock,Healthcare,82621J105,SIENTRA INC,82621J10,1551693.0
+SMMT,Summit Therapeutics Inc. Common Stock ,Healthcare,86627R102,SUMMIT THERAPEUTICS PLC,86627R10,1599298.0
+CHMA,Chiasma Inc. Common Stock,Healthcare,16706W102,CHIASMA INC,16706W10,1339469.0
+CMICF,Cmic Holdings Co Ltd.,Healthcare,,,nan,
+TELA,TELA Bio Inc. Common Stock,Healthcare,872381108,TELA BIO INC,87238110,1561921.0
+DGTLF,OCI International Holdings Limited,Healthcare,,,nan,
+IMV,IMV Inc. Common Shares,Healthcare,44974L103,IMV INC,44974L10,1734768.0
+PRTK,Paratek Pharmaceuticals Inc. Common Stock,Healthcare,699374302,PARATEK PHARMACEUTICALS INC,69937430,1037643.0
+EOSS,EOS Inc,Healthcare,,,nan,
+EVLO,Evelo Biosciences Inc. Common Stock,Healthcare,299734103,EVELO BIOSCIENCES INC,29973410,1694665.0
+XOMA,XOMA Corporation Common Stock,Healthcare,98419J206,XOMA CORP DEL,98419J20,791908.0
+VRCA,Verrica Pharmaceuticals Inc. Common Stock,Healthcare,92511W108,VERRICA PHARMACEUTICALS INC,92511W10,1262104.0
+MSON,MISONIX Inc. Common Stock (DE),Healthcare,604871103,MISONIX INC,60487110,880432.0
+EVFM,Evofem Biosciences Inc. Common Stock,Healthcare,30048L104,EVOFEM BIOSCIENCES INC,30048L10,1659886.0
+ACBM,Acro Biomedical Co Ltd,Healthcare,,,nan,
+APYX,Apyx Medical Corporation Common Stock,Healthcare,03837C106,APYX MED CORP,03837C10,719135.0
+DYAI,Dyadic International Inc. Common Stock,Healthcare,26745T101,DYADIC INTL INC DEL,26745T10,1213809.0
+VSTM,Verastem Inc. Common Stock,Healthcare,92337C104,VERASTEM INC,92337C10,1526119.0
+ORXOF,Orexo AB,Healthcare,,,nan,
+NBSE,NeuBase Therapeutics Inc.  Common Stock,Healthcare,64132K102,NEUBASE THERAPEUTICS INC,64132K10,1173281.0
+APT,Alpha Pro Tech Ltd. Common Stock,Healthcare,020772109,ALPHA PRO TECH LTD,02077210,88000.0
+FPRX,Five Prime Therapeutics Inc. Common Stock,Healthcare,33830X104,FIVE PRIME THERAPEUTICS INC,33830X10,1175505.0
+TLC,Taiwan Liposome Company Ltd. American Depository Shares,Healthcare,874038102,TAIWAN LIPOSOME CO LTD,87403810,1722890.0
+UBX,Unity Biotechnology Inc. Common Stock,Healthcare,91381U101,UNITY BIOTECHNOLOGY INC,91381U10,1463361.0
+CASI,CASI Pharmaceuticals Inc. Common Stock,Healthcare,14757U109,CASI PHARMACEUTICALS INC,14757U10,895051.0
+TTOO,T2 Biosystems Inc. Common Stock,Healthcare,89853L104,T2 BIOSYSTEMS INC,89853L10,1492674.0
+OPTN,OptiNose Inc. Common Stock,Healthcare,68404V100,OPTINOSE INC,68404V10,1719928.0
+PRQR,ProQR Therapeutics N.V. Ordinary Shares,Healthcare,N71542109,PROQR THRAPEUTICS N V,N7154210,1612940.0
+PYPD,PolyPid Ltd. Ordinary Shares,Healthcare,M8001Q118,POLYPID LTD,M8001Q11,
+ADMA,ADMA Biologics Inc Common Stock,Healthcare,000899104,ADMA BIOLOGICS INC,00089910,1368514.0
+ALPN,Alpine Immune Sciences Inc. Common Stock,Healthcare,02083G100,ALPINE IMMUNE SCIENCES INC,02083G10,1626199.0
+EPIX,ESSA Pharma Inc. Common Stock,Healthcare,29668H708,ESSA PHARMA INC,29668H70,1633932.0
+LCTX,Lineage Cell Therapeutics Inc. Common Stock,Healthcare,53566P109,LINEAGE CELL THERAPEUTICS IN,53566P10,
+SOLY,Soliton Inc. Common Stock,Healthcare,834251100,SOLITON INC,83425110,1548187.0
+SLGL,Sol-Gel Technologies Ltd. Ordinary Shares,Healthcare,,,nan,
+ELVAF,Evolva Holding SA,Healthcare,,,nan,
+HTBX,Heat Biologics Inc. Common Stock,Healthcare,42237K300,HEAT BIOLOGICS INC,42237K30,1476963.0
+SMTI,Sanara MedTech Inc,Healthcare,,,nan,
+AQB,AquaBounty Technologies Inc. Common Stock,Healthcare,03842K200,AQUABOUNTY TECHNOLOGIES INC,03842K20,1603978.0
+FENC,Fennec Pharmaceuticals Inc. Common Stock,Healthcare,31447P100,FENNEC PHARMACEUTICALS INC,31447P10,1211583.0
+XGN,Exagen Inc. Common Stock,Healthcare,30068X103,EXAGEN INC,30068X10,1274737.0
+ACRS,Aclaris Therapeutics Inc. Common Stock,Healthcare,00461U105,ACLARIS THERAPEUTICS INC,00461U10,1557746.0
+NYMX,Nymox Pharmaceutical Corporation Common Stock (Bahamas),Healthcare,P73398102,NYMOX PHARMACEUTICAL CORP,P7339810,
+SBEV,Splash Beverage Group Inc,Healthcare,,,nan,
+BPSR,Organicell Regenerative Medicine Inc,Healthcare,,,nan,
+ETON,Eton Pharmaceuticals Inc. Common Stock,Healthcare,29772L108,ETON PHARMACEUTICALS INC,29772L10,1710340.0
+LOGC,LogicBio Therapeutics Inc. Common Stock,Healthcare,54142F102,LOGICBIO THERAPEUTICS INC,54142F10,1664106.0
+OTIC,Otonomy Inc. Common Stock,Healthcare,68906L105,OTONOMY INC,68906L10,1493566.0
+AQST,Aquestive Therapeutics Inc. Common Stock,Healthcare,03843E104,AQUESTIVE THERAPEUTICS INC,03843E10,1398733.0
+CRMD,CorMedix Inc. Common Stock,Healthcare,21900C308,CORMEDIX INC,21900C30,1410098.0
+ENLV,Enlivex Therapeutics Ltd. Ordinary Shares,Healthcare,M4130Y106,ENLIVEX THERAPEUTICS LTD,M4130Y10,1596812.0
+AIH,Aesthetic Medical International Holdings Group Ltd. American Depositary Shares,Healthcare,00809M104,AESTHETIC MED INTL HLDG GR L,00809M10,1757143.0
+CERC,Cerecor Inc. Common Stock,Healthcare,15671L109,CERECOR INC,15671L10,1534120.0
+MRNTF,Medicrea International,Healthcare,,,nan,
+MREO,Mereo BioPharma Group plc American Depositary Shares,Healthcare,589492107,MEREO BIOPHARMA GROUP PLC,58949210,1719714.0
+CMRX,Chimerix Inc. Common Stock,Healthcare,16934W106,CHIMERIX INC,16934W10,1434868.0
+MBIO,Mustang Bio Inc. Common Stock,Healthcare,62818Q104,MUSTANG BIO INC,62818Q10,
+NXSCF,Next Science Limited,Healthcare,,,nan,
+SLDB,Solid Biosciences Inc. Common Stock,Healthcare,83422E105,SOLID BIOSCIENCES INC,83422E10,1707502.0
+AXGT,Axovant Gene Therapies Ltd. Common Shares,Healthcare,G0750W203,AXOVANT GENE THERAPIES,G0750W20,1636050.0
+GNFT,GENFIT S.A. American Depositary Shares,Healthcare,372279109,GENFIT S A,37227910,
+VERU,Veru Inc. Common Stock,Healthcare,92536C103,VERU INC,92536C10,
+MTNB,Matinas Biopharma Holdings Inc. Common Stock,Healthcare,576810105,MATINAS BIOPHARMA HLDGS INC,57681010,1582554.0
+LFVN,Lifevantage Corporation Common Stock (Delaware),Healthcare,53222K205,LIFEVANTAGE CORP,53222K20,849146.0
+HQDA,HQDA Elderly Life Network Corp,Healthcare,,,nan,
+BFRA,Biofrontera AG American Depositary Shares,Healthcare,09075G105,BIOFRONTERA AG,09075G10,1712641.0
+AYLA,Ayala Pharmaceuticals Inc. Common Stock,Healthcare,05465V108,AYALA PHARMACEUTICALS INC,05465V10,
+DBVT,DBV Technologies S.A. American Depositary Shares,Healthcare,23306J101,DBV TECHNOLOGIES S A,23306J10,1613780.0
+IUGNF,Imugene Ltd.,Healthcare,,,nan,
+CXRXF,Advanz Pharma Corp Ltd (Limited Voting),Healthcare,,,nan,
+CKPT,Checkpoint Therapeutics Inc. Common Stock,Healthcare,162828107,CHECKPOINT THERAPEUTICS INC,16282810,1651407.0
+AXLA,Axcella Health Inc. Common Stock,Healthcare,05454B105,AXCELLA HEALTH INC,05454B10,1633070.0
+GNFTF,Genfit,Healthcare,372279109,GENFIT S A,37227910,
+BNIGF,Beroni Group Limited,Healthcare,,,nan,
+DMTRF,3-D Matrix Ltd.,Healthcare,88554D205,3-D SYS CORP DEL,88554D20,1023748.0
+ATNM,Actinium Pharmaceuticals Inc. (Delaware) Common Stock,Healthcare,00507W107,ACTINIUM PHARMACEUTICALS INC,00507W10,1397047.0
+KIN,Kindred Biosciences Inc. Common Stock,Healthcare,494577109,KINDRED BIOSCIENCES INC,49457710,1561743.0
+GLYC,GlycoMimetics Inc. Common Stock,Healthcare,38000Q102,GLYCOMIMETICS INC,38000Q10,1253689.0
+LYRA,Lyra Therapeutics Inc. Common Stock,Healthcare,55234L105,LYRA THERAPEUTICS INC,55234L10,
+THTX,Theratechnologies Inc. Common Shares,Healthcare,88338H100,THERATECHNOLOGIES INC,88338H10,1512717.0
+LQDA,Liquidia Technologies Inc. Common Stock,Healthcare,53635D202,LIQUIDIA TECHNOLOGIES INC,53635D20,1330436.0
+CRHM,CRH Medical Corporation Common Shares of Beneficial Interest,Healthcare,,,nan,
+ENOB,Enochian Biosciences Inc. Common Stock,Healthcare,29350E104,ENOCHIAN BIOSCIENCES INC,29350E10,
+ACRX,AcelRx Pharmaceuticals Inc. Common Stock,Healthcare,00444T100,ACELRX PHARMACEUTICALS INC,00444T10,1427925.0
+FVE,Five Star Senior Living Inc. Common Stock,Healthcare,33832D205,FIVE STAR SENIOR LIVING INC,33832D20,1159281.0
+VNRX,VolitionRX Limited Common Stock,Healthcare,928661107,VOLITIONRX LTD,92866110,93314.0
+BSGM,BioSig Technologies Inc. Common Stock,Healthcare,09073N201,BIOSIG TECHNOLOGIES INC,09073N20,
+FHAI,Fountain Healthy Aging Inc,Healthcare,,,nan,
+GALT,Galectin Therapeutics Inc. Common Stock,Healthcare,363225202,GALECTIN THERAPEUTICS INC,36322520,1133416.0
+RTSL,Rapid Therapeutic Science Laboratories Inc,Healthcare,753422104,RAPID7 INC,75342210,1560327.0
+AVEO,AVEO Pharmaceuticals Inc. Common Stock,Healthcare,053588307,AVEO PHARMACEUTICALS INC,05358830,
+BDABF,Boule Diagnostics AB,Healthcare,,,nan,
+SRGA,Surgalign Holdings Inc. Common Stock,Healthcare,,,nan,
+APTX,Aptinyx Inc. Common Stock,Healthcare,03836N103,APTINYX INC,03836N10,1674365.0
+CFRX,ContraFect Corporation Common Stock,Healthcare,212326300,CONTRAFECT CORP,21232630,1478069.0
+BLU,BELLUS Health Inc. Common Shares,Healthcare,07987C204,BELLUS HEALTH INC NEW,07987C20,1259942.0
+LMNL,Liminal BioSciences Inc. Common Shares,Healthcare,53272L103,LIMINAL BIOSCIENCES INC,53272L10,1351172.0
+MIST,Milestone Pharmaceuticals Inc. Common Shares,Healthcare,59935V107,MILESTONE PHARMACEUTICALS IN,59935V10,1408443.0
+SLNO,Soleno Therapeutics Inc. Common Stock,Healthcare,834203200,SOLENO THERAPEUTICS INC,83420320,1484565.0
+CBIXF,Carna Biosciences Inc.,Healthcare,,,nan,
+AMPE,Ampio Pharmaceuticals Inc.,Healthcare,03209T109,AMPIO PHARMACEUTICALS INC,03209T10,1411906.0
+LXRX,Lexicon Pharmaceuticals Inc. Common Stock,Healthcare,528872302,LEXICON PHARMACEUTICALS INC,52887230,857737.0
+ROMJF,Rubicon Organics Inc,Healthcare,,,nan,
+EQ,Equillium Inc. Common Stock,Healthcare,29446K106,EQUILLIUM INC,29446K10,1746466.0
+HROW,Harrow Health Inc. Common Stock,Healthcare,415858109,HARROW HEALTH INC,41585810,
+FONR,Fonar Corporation Common Stock,Healthcare,344437405,FONAR CORP,34443740,355019.0
+SESN,Sesen Bio Inc. Common Stock,Healthcare,817763105,SESEN BIO INC,81776310,1485003.0
+GNPX,Genprex Inc. Common Stock,Healthcare,372446104,GENPREX INC,37244610,1595248.0
+AGTC,Applied Genetic Technologies Corporation Common Stock,Healthcare,03820J100,APPLIED GENETIC TECHNOLOGIES,03820J10,1273636.0
+SBBP,Strongbridge Biopharma plc Ordinary Shares,Healthcare,G85347105,STRONGBRIDGE BIOPHARMA PLC,G8534710,1634432.0
+NERV,Minerva Neurosciences Inc Common Stock,Healthcare,603380106,MINERVA NEUROSCIENCES INC,60338010,1598646.0
+EDAP,EDAP TMS S.A. American Depositary Shares,Healthcare,268311107,EDAP TMS S A,26831110,1041934.0
+SRRA,Sierra Oncology Inc. Common Stock,Healthcare,82640U404,SIERRA ONCOLOGY INC,82640U40,1290149.0
+IPATF,ImmunoPrecise Antibodies Ltd,Healthcare,,,nan,
+CDTX,Cidara Therapeutics Inc. Common Stock,Healthcare,171757107,CIDARA THERAPEUTICS INC,17175710,1610618.0
+LPTX,Leap Therapeutics Inc. Common Stock,Healthcare,52187K101,LEAP THERAPEUTICS INC,52187K10,1509745.0
+CLYYF,Celyad Oncology,Healthcare,151205200,CELYAD SA,15120520,1637890.0
+OBSV,ObsEva SA Ordinary Shares,Healthcare,H5861P103,OBSEVA SA,H5861P10,1685316.0
+BIVI,BioVie Inc. Class A Common Stock,Healthcare,,,nan,
+PDEX,Pro-Dex Inc. Common Stock,Healthcare,74265M205,PRO-DEX INC COLO,74265M20,353184.0
+XXII,22nd Century Group Inc. Common Stock,Healthcare,90137F103,22ND CENTY GROUP INC,90137F10,1766600.0
+EWLU,Merion Inc,Healthcare,,,nan,
+TARA,Protara Therapeutics Inc.  Common Stock,Healthcare,74365U107,PROTARA THERAPEUTICS INC,74365U10,
+TYME,Tyme Technologies Inc. Common Stock,Healthcare,90238J103,TYME TECHNOLOGIES INC,90238J10,1537917.0
+PLX,Protalix BioTherapeutics Inc. (DE) Common Stock,Healthcare,74365A309,PROTALIX BIOTHERAPEUTICS INC,74365A30,1006281.0
+SOMNF,Somnomed Limited,Healthcare,,,nan,
+HBIO,Harvard Bioscience Inc. Common Stock,Healthcare,416906105,HARVARD BIOSCIENCE INC,41690610,1344907.0
+IFRX,InflaRx N.V. Common Stock,Healthcare,N44821101,INFLARX NV,N4482110,1708688.0
+CBIO,Catalyst Biosciences Inc. Common Stock,Healthcare,14888D208,CATALYST BIOSCIENCES INC,14888D20,1124105.0
+KBBTF,Kubota Pharmaceutical Holdings Co Ltd,Healthcare,,,nan,
+WINT,Windtree Therapeutics Inc. Common Stock,Healthcare,97382D303,WINDTREE THERAPEUTICS INC,97382D30,
+MFCSF,Medical Facilities Corp,Healthcare,58463J304,MEDICAL PPTYS TRUST INC,58463J30,1287865.0
+LUMO,Lumos Pharma Inc. Common Stock,Healthcare,55028X109,LUMOS PHARMA INC,55028X10,
+CLPT,ClearPoint Neuro Inc. Common Stock,Healthcare,18507C103,CLEARPOINT NEURO INC,18507C10,
+ELOX,Eloxx Pharmaceuticals Inc. Common Stock,Healthcare,29014R103,ELOXX PHARMACEUTICALS INC,29014R10,1035354.0
+EOLS,Evolus Inc. Common Stock,Healthcare,30052C107,EVOLUS INC,30052C10,1570562.0
+GNCA,Genocea Biosciences Inc. Common Stock,Healthcare,372427401,GENOCEA BIOSCIENCES INC,37242740,1457612.0
+PIRS,Pieris Pharmaceuticals Inc. Common Stock,Healthcare,720795103,PIERIS PHARMACEUTICALS INC,72079510,1583648.0
+EVOK,Evoke Pharma Inc. Common Stock,Healthcare,30049G104,EVOKE PHARMA INC,30049G10,1403708.0
+VTVT,vTv Therapeutics Inc. Class A Common Stock,Healthcare,918385105,VTV THERAPEUTICS INC,91838510,1641489.0
+CYAD,Celyad SA American Depositary Shares,Healthcare,151205200,CELYAD SA,15120520,1637890.0
+ERYP,Erytech Pharma S.A. American Depositary Shares,Healthcare,29604W108,ERYTECH PHARMA,29604W10,1624422.0
+COGT,Cogent Biosciences Inc. Common Stock,Healthcare,19239V302,COGENT COMMUNICATIONS HLDGS,19239V30,1158324.0
+LGIQ,Logiq Inc,Healthcare,,,nan,
+MLSS,Milestone Scientific Inc. Common Stock,Healthcare,59935P209,MILESTONE SCIENTIFIC INC,59935P20,855683.0
+IIN,Intricon Corporation Common Stock,Healthcare,46121H109,INTRICON CORP,46121H10,88790.0
+GRTS,Gritstone Oncology Inc. Common Stock,Healthcare,39868T105,GRITSTONE ONCOLOGY INC,39868T10,1656634.0
+ABEO,Abeona Therapeutics Inc. Common Stock,Healthcare,00289Y107,ABEONA THERAPEUTICS INC,00289Y10,318306.0
+CSBR,Champions Oncology Inc. Common Stock,Healthcare,15870P307,CHAMPIONS ONCOLOGY INC,15870P30,771856.0
+CATB,Catabasis Pharmaceuticals Inc. Common Stock,Healthcare,14875P206,CATABASIS PHARMACEUTICALS IN,14875P20,1454789.0
+LJPC,La Jolla Pharmaceutical Company Common Stock,Healthcare,503459604,LA JOLLA PHARMACEUTICAL CO,50345960,920465.0
+ORGS,Orgenesis Inc. Common Stock,Healthcare,68619K204,ORGENESIS INC,68619K20,1460602.0
+CRVS,Corvus Pharmaceuticals Inc. Common Stock,Healthcare,221015100,CORVUS PHARMACEUTICALS INC,22101510,1626971.0
+INMB,INmune Bio Inc. Common stock,Healthcare,45782T105,INMUNE BIO INC,45782T10,1711754.0
+ADMS,Adamas Pharmaceuticals Inc. Common Stock,Healthcare,00548A106,ADAMAS PHARMACEUTICALS INC,00548A10,1328143.0
+EVGN,Evogene Ltd Ordinary Shares,Healthcare,M4119S104,EVOGENE LTD,M4119S10,1574565.0
+LTRN,Lantern Pharma Inc. Common Stock,Healthcare,51654W101,LANTERN PHARMA INC,51654W10,
+XTNT,Xtant Medical Holdings Inc. Common Stock,Healthcare,98420P308,XTANT MED HLDGS INC,98420P30,1453593.0
+KDEVF,Karolinska Development AB,Healthcare,,,nan,
+NMTR,9 Meters Biopharma Inc. Common Stock,Healthcare,654405109,9 METERS BIOPHARMA INC,65440510,
+ZYNE,Zynerba Pharmaceuticals Inc. Common Stock,Healthcare,98986X109,ZYNERBA PHARMACEUTICALS INC,98986X10,1621443.0
+STIM,Neuronetics Inc. Common Stock,Healthcare,64131A105,NEURONETICS INC,64131A10,1227636.0
+XFOR,X4 Pharmaceuticals Inc. Common Stock,Healthcare,98420X103,X4 PHARMACEUTICALS INC,98420X10,1632304.0
+ALIOF,ALIOF,Healthcare,,,nan,
+ENZ,Enzo Biochem Inc. Common Stock ($0.01 Par Value),Healthcare,294100102,ENZO BIOCHEM INC,29410010,316253.0
+ATBPF,Antibe Therapeutics Inc,Healthcare,,,nan,
+NRBO,NeuroBo Pharmaceuticals Inc. Common Stock,Healthcare,64132R107,NEUROBO PHARMACEUTICALS INC,64132R10,1638287.0
+OTLK,Outlook Therapeutics Inc. Common Stock,Healthcare,69012T206,OUTLOOK THERAPEUTICS INC,69012T20,1649989.0
+PHAS,PhaseBio Pharmaceuticals Inc. Common Stock,Healthcare,717224109,PHASEBIO PHARMACEUTICALS INC,71722410,1169245.0
+OCX,OncoCyte Corporation Common Stock,Healthcare,68235C107,ONCOCYTE CORP,68235C10,1642380.0
+QLGN,Qualigen Therapeutics Inc. Common Stock,Healthcare,74754R103,QUALIGEN THERAPEUTICS INC,74754R10,
+CEMI,Chembio Diagnostics Inc. Common Stock,Healthcare,163572209,CHEMBIO DIAGNOSTICS INC,16357220,1092662.0
+VERO,Venus Concept Inc. Common Stock,Healthcare,92332W105,VENUS CONCEPT INC,92332W10,1409269.0
+RMTI,Rockwell Medical Inc. (DE) Common Stock,Healthcare,,,nan,
+PAVM,PAVmed Inc. Common Stock,Healthcare,70387R106,PAVMED INC,70387R10,1624326.0
+MDWD,MediWound Ltd. Ordinary Shares,Healthcare,M68830104,MEDIWOUND LTD,M6883010,1593984.0
+DRIO,DarioHealth Corp. Common Stock,Healthcare,23725P209,DARIOHEALTH CORP,23725P20,1533998.0
+ONCY,Oncolytics Biotech Inc. Common Shares,Healthcare,682310875,ONCOLYTICS BIOTECH INC,68231087,
+ONCS,OncoSec Medical Incorporated Common Stock,Healthcare,68234L306,ONCOSEC MED INC,68234L30,1444307.0
+TNXP,Tonix Pharmaceuticals Holding Corp. Common Stock,Healthcare,890260706,TONIX PHARMACEUTICALS HLDG C,89026070,1430306.0
+PTN,Palatin Technologies Inc. Common Stock,Healthcare,696077403,PALATIN TECHNOLOGIES INC,69607740,911216.0
+AVCO,Avalon GloboCare Corp. Common Stock,Healthcare,05344R104,AVALON GLOBOCARE CORP,05344R10,1630212.0
+LPCN,Lipocine Inc. Common Stock,Healthcare,53630X104,LIPOCINE INC NEW,53630X10,1535955.0
+CYCN,Cyclerion Therapeutics Inc. Common Stock,Healthcare,23255M105,CYCLERION THERAPEUTICS INC,23255M10,1755237.0
+IMMP,Immutep Limited American Depositary Shares,Healthcare,45257L108,IMMUTEP LTD,45257L10,1506184.0
+CAPR,Capricor Therapeutics Inc. Common Stock,Healthcare,14070B309,CAPRICOR THERAPEUTICS INC,14070B30,1133869.0
+KMLXF,Respiri Limited,Healthcare,,,nan,
+AIM,AIM ImmunoTech Inc. Common Stock,Healthcare,00901B105,AIM IMMUNOTECH INC,00901B10,946644.0
+EYEN,Eyenovia Inc. Common Stock,Healthcare,30234E104,EYENOVIA INC,30234E10,1682639.0
+DMYDF,DMYDF,Healthcare,,,nan,
+IRCLF,Intercure Ltd,Healthcare,,,nan,
+NVOS,Novo Integrated Sciences Inc,Healthcare,,,nan,
+CRTPF,Cardiol Therapeutics Inc - Class A,Healthcare,,,nan,
+NMRD,Nemaura Medical Inc. Common Stock,Healthcare,640442208,NEMAURA MED INC,64044220,
+GEN,Genesis Healthcare Inc. Common Stock,Healthcare,37185X106,GENESIS HEALTHCARE INC,37185X10,1351051.0
+BLPH,Bellerophon Therapeutics Inc. Common Stock,Healthcare,078771300,BELLEROPHON THERAPEUTICS INC,07877130,
+NURPF,Neuren Pharmaceuticals Ltd,Healthcare,,,nan,
+ARAV,Aravive Inc. Common Stock,Healthcare,03890D108,ARAVIVE INC,03890D10,1513818.0
+MTTCF,Meat-Tech 3D Ltd,Healthcare,,,nan,
+PRPH,ProPhase Labs Inc. Common Stock (DE),Healthcare,74345W108,PROPHASE LABS INC,74345W10,868278.0
+DMAC,DiaMedica Therapeutics Inc. Common Stock,Healthcare,25253X207,DIAMEDICA THERAPEUTICS INC,25253X20,1401040.0
+NBRV,Nabriva Therapeutics plc Ordinary Shares Ireland,Healthcare,G63637105,NABRIVA THERAPEUTICS PLC,G6363710,1641640.0
+CRBP,Corbus Pharmaceuticals Holdings Inc. Common Stock,Healthcare,21833P103,CORBUS PHARMACEUTICALS HLDGS,21833P10,1595097.0
+ELMD,Electromed Inc. Common Stock,Healthcare,285409108,ELECTROMED INC,28540910,1488917.0
+BNOEF,Bionomics Ltd.,Healthcare,,,nan,
+LIXT,Lixte Biotechnology Holdings Inc,Healthcare,,,nan,
+BNGO,Bionano Genomics Inc. Common Stock,Healthcare,09075F107,BIONANO GENOMICS INC,09075F10,1411690.0
+MXDHF,MDxHealth SA,Healthcare,,,nan,
+EDTXF,Spectral Medical Inc,Healthcare,,,nan,
+BBLG,Bone Biologics Corp,Healthcare,,,nan,
+APM,Aptorum Group Limited Class A Ordinary Shares,Healthcare,G6096M106,APTORUM GROUP LIMITED,G6096M10,1734005.0
+GNRRF,GeNeuro SA,Healthcare,,,nan,
+ETTX,Entasis Therapeutics Holdings Inc. Common Stock,Healthcare,293614103,ENTASIS THERAPEUTICS HLDGS I,29361410,1724344.0
+ALRN,Aileron Therapeutics Inc. Common Stock,Healthcare,00887A105,AILERON THERAPEUTICS INC,00887A10,1420565.0
+CRJTF,Crossject,Healthcare,,,nan,
+ADMP,Adamis Pharmaceuticals Corporation Common Stock,Healthcare,00547W208,ADAMIS PHARMACEUTICALS CORP,00547W20,887247.0
+KTOV,Kitov Pharma Ltd. American Depositary Shares,Healthcare,49803V107,KITOV PHARMA LTD,49803V10,1614744.0
+ASRT,Assertio Holdings Inc. Common Stock ,Healthcare,04546C106,ASSERTIO HOLDINGS INC,04546C10,
+MGFRF,MagForce AG Bearer Shares,Healthcare,,,nan,
+IDRA,Idera Pharmaceuticals Inc. Common Stock,Healthcare,45168K405,IDERA PHARMACEUTICALS INC,45168K40,861838.0
+ECOR,electroCore Inc. Common Stock,Healthcare,28531P103,ELECTROCORE INC,28531P10,1560258.0
+KIADF,Kiadis Pharma NV,Healthcare,,,nan,
+CCM,Concord Medical Services Holdings Limited ADS (Each represents three ordinary shares),Healthcare,206277105,CONCORD MED SVCS HLDGS LTD,20627710,1472072.0
+CYYNF,Cynata Therapeutics Limited,Healthcare,,,nan,
+MITO,Stealth BioTherapeutics Corp. ADS,Healthcare,85789A105,STEALTH BIOTHERAPEUTICS CORP,85789A10,1696396.0
+PXMBF,Paxman AB,Healthcare,,,nan,
+INFI,Infinity Pharmaceuticals Inc. Common Stock,Healthcare,45665G303,INFINITY PHARMACEUTICALS INC,45665G30,1177775.0
+GBOKF,Greenbrook TMS Inc,Healthcare,,,nan,
+MODD,Modular Medical Inc,Healthcare,,,nan,
+BOVNF,BioInvent International AB,Healthcare,,,nan,
+IGAP,Integrity Applications Inc,Healthcare,,,nan,
+STSA,Satsuma Pharmaceuticals Inc. Common Stock,Healthcare,80405P107,SATSUMA PHARMACEUTICALS INC,80405P10,1692830.0
+NOVN,Novan Inc. Common Stock,Healthcare,66988N106,NOVAN INC,66988N10,1467154.0
+GLMD,Galmed Pharmaceuticals Ltd. Ordinary Shares,Healthcare,M47238106,GALMED PHARMACEUTICALS LTD,M4723810,1595353.0
+ASLN,ASLAN Pharmaceuticals Limited American Depositary Shares,Healthcare,04522R101,ASLAN PHARMACEUTICALS LTD,04522R10,1722926.0
+SMDCF,SHL Telemedicine International Ltd,Healthcare,,,nan,
+IPIX,Innovation Pharmaceuticals Inc,Healthcare,,,nan,
+ARDS,Aridis Pharmaceuticals Inc. Common Stock,Healthcare,040334104,ARIDIS PHARMACEUTICALS INC,04033410,
+BWAY,Brainsway Ltd. American Depositary Shares,Healthcare,10501L106,BRAINSWAY LTD,10501L10,1505065.0
+COPHF,Creso Pharma Limited,Healthcare,,,nan,
+APLIF,Appili Therapeutics Inc,Healthcare,,,nan,
+SYBX,Synlogic Inc. Common Stock,Healthcare,87166L100,SYNLOGIC INC,87166L10,1614170.0
+BRSYF,Brainsway Ltd,Healthcare,10501L106,BRAINSWAY LTD,10501L10,1505065.0
+KZIA,Kazia Therapeutics Limited American Depositary Shares,Healthcare,48669G105,KAZIA THERAPEUTICS LTD,48669G10,
+NAVB,Navidea Biopharmaceuticals Inc. Common Stock,Healthcare,63937X202,NAVIDEA BIOPHARMACEUTICALS I,63937X20,810509.0
+ADOCY,Adocia ADR,Healthcare,,,nan,
+PRRUF,Immutep Limited,Healthcare,45257L108,IMMUTEP LTD,45257L10,1506184.0
+BMRA,Biomerica Inc. Common Stock,Healthcare,09061H307,BIOMERICA INC,09061H30,1417678.0
+ORMP,Oramed Pharmaceuticals Inc. Common Stock,Healthcare,68403P203,ORAMED PHARM INC,68403P20,1080340.0
+CLSD,Clearside Biomedical Inc. Common Stock,Healthcare,185063104,CLEARSIDE BIOMEDICAL INC,18506310,1539029.0
+TCON,TRACON Pharmaceuticals Inc. Common Stock,Healthcare,89237H209,TRACON PHARMACEUTICALS INC,89237H20,
+IPDQF,ImpediMed Ltd,Healthcare,,,nan,
+ARMP,Armata Pharmaceuticals Inc. Common Stock,Healthcare,04216R102,ARMATA PHARMACEUTICALS INC,04216R10,921114.0
+CTXR,Citius Pharmaceuticals Inc. Common Stock,Healthcare,17322U207,CITIUS PHARMACEUTICALS INC,17322U20,1506251.0
+HRPMF,Herantis Pharma OYJ,Healthcare,,,nan,
+EDSA,Edesa Biotech Inc. Common Shares,Healthcare,27966L108,EDESA BIOTECH INC,27966L10,1540159.0
+RGRX,Regenerx Biopharmaceuticals,Healthcare,,,nan,
+CLIFF,Cordlife Group Limited,Healthcare,,,nan,
+CRIS,Curis Inc. Common Stock,Healthcare,231269200,CURIS INC,23126920,1108205.0
+TRVI,Trevi Therapeutics Inc. Common Stock,Healthcare,89532M101,TREVI THERAPEUTICS INC,89532M10,1563880.0
+PLLWF,Polarean Imaging Plc,Healthcare,,,nan,
+AGE,AgeX Therapeutics Inc. Common Stock,Healthcare,00848H108,AGEX THERAPEUTICS INC,00848H10,1708599.0
+PNEXF,Pharnext,Healthcare,,,nan,
+ALLGF,Alligator Bioscience AB,Healthcare,,,nan,
+BIOC,Biocept Inc. Common Stock,Healthcare,09072V402,BIOCEPT INC,09072V40,1044378.0
+TMDI,Titan Medical Inc. Ordinary Shares,Healthcare,,,nan,
+TONJ,Tongji Healthcare Group Inc,Healthcare,,,nan,
+SVRA,Savara Inc. Common Stock,Healthcare,805111101,SAVARA INC,80511110,1461492.0
+EYPT,EyePoint Pharmaceuticals Inc. Common Stock,Healthcare,30233G100,EYEPOINT PHARMACEUTICALS INC,30233G10,1314102.0
+PTI,Proteostasis Therapeutics Inc. Common Stock,Healthcare,74373B109,PROTEOSTASIS THERAPEUTICS IN,74373B10,1445283.0
+CURR,CURE Pharmaceutical Holding Corp,Healthcare,,,nan,
+CSBTF,Kuros Biosciences AG,Healthcare,,,nan,
+BVXV,BiondVax Pharmaceuticals Ltd. American Depositary Shares,Healthcare,09073Q105,BIONDVAX PHARMACEUTICALS LTD,09073Q10,1611747.0
+NEPH,Nephros Inc. Common Stock,Healthcare,640671400,NEPHROS INC,64067140,
+ZIVO,Zivo Bioscience Inc,Healthcare,,,nan,
+DXR,Daxor Corporation Common Stock,Healthcare,239467103,DAXOR CORP,23946710,27367.0
+COCP,Cocrystal Pharma Inc. Common Stock,Healthcare,19188J300,COCRYSTAL PHARMA INC,19188J30,1412486.0
+BIOQ,Bioqual Inc,Healthcare,,,nan,
+VTGN,VistaGen Therapeutics Inc. Common Stock,Healthcare,92840H202,VISTAGEN THERAPEUTICS INC,92840H20,1411685.0
+MOHO,ECMOHO Limited American Depositary Shares,Healthcare,27888P104,ECMOHO LTD,27888P10,1763197.0
+ATXI,Avenue Therapeutics Inc. Common Stock,Healthcare,05360L205,AVENUE THERAPEUTICS INC,05360L20,1644963.0
+BASI,Bioanalytical Systems Inc. Common Stock,Healthcare,09058M103,BIOANALYTICAL SYS INC,09058M10,720154.0
+CFMS,Conformis Inc. Common Stock,Healthcare,20717E101,CONFORMIS INC,20717E10,1470962.0
+AKTX,Akari Therapeutics Plc ADR,Healthcare,00972G108,AKARI THERAPEUTICS PLC,00972G10,1541157.0
+ARPO,Aerpio Pharmaceuticals Inc. Common Stock,Healthcare,00810B105,AERPIO PHARMACEUTICALS INC,00810B10,1422142.0
+ELTP,Elite Pharmaceuticals Inc.,Healthcare,,,nan,
+MBOT,Microbot Medical Inc. Common Stock,Healthcare,59503A204,MICROBOT MED INC,59503A20,883975.0
+DFFN,Diffusion Pharmaceuticals Inc. Common Stock,Healthcare,253748305,DIFFUSION PHARMACEUTICALS IN,25374830,1053691.0
+ANIX,Anixa Biosciences Inc. Common Stock,Healthcare,03528H109,ANIXA BIOSCIENCES INC,03528H10,715446.0
+VBLT,Vascular Biogenics Ltd. Ordinary Shares,Healthcare,M96883109,VASCULAR BIOGENICS LTD,M9688310,1603207.0
+TRIB,Trinity Biotech plc American Depositary Shares,Healthcare,896438306,TRINITY BIOTECH PLC,89643830,888721.0
+ONVO,Organovo Holdings Inc. Common Stock,Healthcare,68620A104,ORGANOVO HLDGS INC,68620A10,1497253.0
+SNGX,Soligenix Inc. Common Stock,Healthcare,834223307,SOLIGENIX INC,83422330,812796.0
+NVCN,Neovasc Inc. Common Shares,Healthcare,64065J304,NEOVASC INC,64065J30,1399708.0
+SCYX,SCYNEXIS Inc. Common Stock,Healthcare,811292101,SCYNEXIS INC,81129210,1178253.0
+MNPR,Monopar Therapeutics Inc. Common Stock,Healthcare,61023L108,MONOPAR THERAPEUTICS INC,61023L10,1727357.0
+CWBR,CohBar Inc. Common Stock,Healthcare,19249J109,COHBAR INC,19249J10,1522602.0
+GWPD,GP Solutions Inc,Healthcare,36225V104,GP STRATEGIES CORP,36225V10,1114872.0
+ALNA,Allena Pharmaceuticals Inc. Common Stock,Healthcare,018119107,ALLENA PHARMACEUTICALS INC,01811910,1624658.0
+CCEL,Cryo-Cell International Inc.,Healthcare,,,nan,
+OCGN,Ocugen Inc. Common Stock,Healthcare,67577C105,OCUGEN INC,67577C10,1372299.0
+MACK,Merrimack Pharmaceuticals Inc. Common Stock,Healthcare,590328209,MERRIMACK PHARMACEUTICALS IN,59032820,1274792.0
+IGC,India Globalization Capital Inc. Common Stock,Healthcare,45408X308,INDIA GLOBALIZATION CAP INC,45408X30,1326205.0
+ONTX,Onconova Therapeutics Inc. Common Stock,Healthcare,68232V405,ONCONOVA THERAPEUTICS INC,68232V40,1130598.0
+NAII,Natural Alternatives International Inc. Common Stock,Healthcare,638842302,NATURAL ALTERNATIVES INTL IN,63884230,787253.0
+PFRCF,Novoheart Holdings Inc,Healthcare,,,nan,
+SZGEF,SenzaGen AB,Healthcare,,,nan,
+NUMD,Nu-Med Plus Inc,Healthcare,,,nan,
+ATHJF,Antisense Therapeut,Healthcare,,,nan,
+BITRF,Biotron Ltd,Healthcare,,,nan,
+LOVFF,Cannara Biotech Inc,Healthcare,,,nan,
+PRNAF,Alterity Therapeutics Ltd,Healthcare,02155X106,ALTERITY THERAPEUTICS LTD,02155X10,
+DIZTF,Dignitana AB,Healthcare,,,nan,
+IVIXF,Invion Limited,Healthcare,,,nan,
+VPHIF,Valeo Pharma Inc - Class A,Healthcare,,,nan,
+PDSB,PDS Biotechnology Corporation Common Stock,Healthcare,70465T107,PDS BIOTECHNOLOGY CORP,70465T10,
+NGENF,NervGen Pharma Corp,Healthcare,,,nan,
+MMNFF,MedMen Enterprises Inc - Class B (Sub Voting),Healthcare,,,nan,
+GENE,Genetic Technologies Ltd  Sponsored ADR,Healthcare,37185R307,GENETIC TECHNOLOGIES LTD,37185R30,
+MBRX,Moleculin Biotech Inc. Common Stock,Healthcare,60855D101,MOLECULIN BIOTECH INC,60855D10,1659617.0
+REPH,Recro Pharma Inc. Common Stock,Healthcare,75629F109,RECRO PHARMA INC,75629F10,1588972.0
+ACOR,Acorda Therapeutics Inc. Common Stock,Healthcare,00484M106,ACORDA THERAPEUTICS INC,00484M10,1098972.0
+DCTH,Delcath Systems Inc. Common Stock,Healthcare,24661P807,DELCATH SYS INC,24661P80,872912.0
+NTRB,Nutriband Inc,Healthcare,,,nan,
+SINT,SiNtx Technologies Inc. Common Stock,Healthcare,829392307,SINTX TECHNOLOGIES INC,82939230,1269026.0
+FWP,Forward Pharma A/S American Depositary Shares,Healthcare,34986J204,FORWARD PHARMA A/S,34986J20,1604924.0
+CLGN,CollPlant Biotechnologies Ltd American Depositary Shares,Healthcare,19516R107,COLLPLANT BIOTECHNOLOGIES LT,19516R10,1631487.0
+MAXAF,MAXAF,Healthcare,,,nan,
+SRTS,Sensus Healthcare Inc. Common Stock,Healthcare,81728J109,SENSUS HEALTHCARE INC,81728J10,
+NWPHF,Newron Pharmaceuticals Spa.,Healthcare,,,nan,
+CPIX,Cumberland Pharmaceuticals Inc. Common Stock,Healthcare,230770109,CUMBERLAND PHARMACEUTICALS I,23077010,1087294.0
+HAPP,Happiness Biotech Group Limited Ordinary Shares,Healthcare,G4289N114,HAPPINESS BIOTECH GROUP LTD,G4289N11,1751876.0
+AUVI,Applied UV Inc. Common Stock,Healthcare,,,nan,
+ADDXF,Addex Therapeutics Ltd,Healthcare,00654J107,ADDEX THERAPEUTICS LTD,00654J10,
+PRFX,PainReform Ltd. Ordinary Shares,Healthcare,,,nan,
+SSKN,Strata Skin Sciences Inc. Common Stock,Healthcare,86272A206,STRATA SKIN SCIENCES INC,86272A20,1051514.0
+CAIHF,Chia Tai Enterprises International Limited,Healthcare,16706W102,CHIASMA INC,16706W10,1339469.0
+SEEL,Seelos Therapeutics Inc. Common Stock,Healthcare,81577F109,SEELOS THERAPEUTICS INC,81577F10,1017491.0
+ICCC,ImmuCell Corporation Common Stock,Healthcare,452525306,IMMUCELL CORP,45252530,811641.0
+EMMA,Emmaus Life Sciences Incorporation,Healthcare,,,nan,
+NNVC,NanoViricides Inc. Common Stock,Healthcare,630087302,NANOVIRICIDES INC,63008730,1379006.0
+CBLI,Cleveland BioLabs Inc. Common Stock,Healthcare,185860202,CLEVELAND BIOLABS INC,18586020,1318641.0
+SPHDF,Santhera Pharmaceuticals Holding AG,Healthcare,,,nan,
+IMRN,Immuron Limited American Depositary Shares,Healthcare,45254U101,IMMURON LTD,45254U10,1660046.0
+RNUGF,Reneuron Group,Healthcare,,,nan,
+ZSAN,Zosano Pharma Corporation Common Stock,Healthcare,98979H202,ZOSANO PHARMA CORP,98979H20,1587221.0
+OSIMF,OSIMF,Healthcare,,,nan,
+ASPCF,Acerus Pharmaceuticals Corp,Healthcare,,,nan,
+EKSO,Ekso Bionics Holdings Inc. Common Stock,Healthcare,282644301,EKSO BIONICS HLDGS INC,28264430,
+APEN,Apollo Endosurgery Inc. Common Stock,Healthcare,03767D108,APOLLO ENDOSURGERY INC,03767D10,1251769.0
+SLGWF,SLANG Worldwide Inc,Healthcare,,,nan,
+VCNX,Vaccinex Inc. Common Stock,Healthcare,918640103,VACCINEX INC,91864010,1205922.0
+PMEDF,Predictmedix Inc,Healthcare,,,nan,
+NEOS,Neos Therapeutics Inc. Common Stock,Healthcare,64052L106,NEOS THERAPEUTICS INC,64052L10,1467652.0
+KMPH,KemPharm Inc,Healthcare,,,nan,
+PULM,Pulmatrix Inc. Common Stock,Healthcare,74584P202,PULMATRIX INC,74584P20,1574235.0
+ABIO,ARCA biopharma Inc. Common Stock,Healthcare,00211Y506,ARCA BIOPHARMA INC,00211Y50,907654.0
+ANPC,AnPac Bio-Medical Science Co. Ltd. American Depositary Shares,Healthcare,03635R107,ANPAC BIO MED SCIENCE CO LTD,03635R10,
+MVRBF,Medivir AB - Class B,Healthcare,,,nan,
+GPHG,Global Pharm Holdings Group Inc,Healthcare,,,nan,
+NEVPF,Abliva AB (publ),Healthcare,,,nan,
+ONCT,Oncternal Therapeutics Inc. Common Stock,Healthcare,68236P107,ONCTERNAL THERAPEUTICS INC,68236P10,1260990.0
+RPGLF,Regent Pacific Group Ltd.,Healthcare,,,nan,
+PRPO,Precipio Inc.  Common Stock,Healthcare,74019L503,PRECIPIO INC,74019L50,
+GCTY,GCTY,Healthcare,,,nan,
+ZGSI,Zero Gravity Solutions Inc,Healthcare,,,nan,
+CLCS,Cell Source Inc,Healthcare,,,nan,
+MTEX,Mannatech Incorporated Common Stock,Healthcare,563771203,MANNATECH INC,56377120,1056358.0
+ATHE,Alterity Therapeutics Limited American Depositary Shares,Healthcare,02155X106,ALTERITY THERAPEUTICS LTD,02155X10,
+ANVS,Annovis Bio Inc. Common Stock,Healthcare,03615A108,ANNOVIS BIO INC,03615A10,1477845.0
+KLFE,Kannalife Inc,Healthcare,,,nan,
+MDBBF,Medlab Clinical Limited,Healthcare,,,nan,
+MLND,Millendo Therapeutics Inc. Common Stock,Healthcare,60040X103,MILLENDO THERAPEUTICS INC,60040X10,1544227.0
+ADXS,Advaxis Inc. Common Stock,Healthcare,007624307,ADVAXIS INC,00762430,1100397.0
+OGEN,Oragenics Inc. Common Stock,Healthcare,684023302,ORAGENICS INC,68402330,1174940.0
+LIFE,aTyr Pharma Inc. Common Stock,Healthcare,002120202,ATYR PHARMA INC,00212020,1339970.0
+ACER,Acer Therapeutics Inc. Common Stock (DE),Healthcare,00444P108,ACER THERAPEUTICS INC,00444P10,1069308.0
+DARE,Dare Bioscience Inc. Common Stock,Healthcare,23666P101,DARE BIOSCIENCE INC,23666P10,1401914.0
+CLRB,Cellectar Biosciences Inc.  Common Stock,Healthcare,15117F500,CELLECTAR BIOSCIENCES INC,15117F50,1279704.0
+TAFFF,TAFFF,Healthcare,,,nan,
+OPNT,Opiant Pharmaceuticals Inc. Common Stock,Healthcare,683750103,OPIANT PHARMACEUTICALS INC,68375010,1385508.0
+ARTH,Arch Therapeutics Inc,Healthcare,,,nan,
+BLCM,Bellicum Pharmaceuticals Inc. Common Stock,Healthcare,079481404,BELLICUM PHARMACEUTICALS INC,07948140,1358403.0
+BLRX,BioLineRx Ltd. American Depositary Shares,Healthcare,09071M205,BIOLINERX LTD,09071M20,1498403.0
+CNSP,CNS Pharmaceuticals Inc. Common Stock,Healthcare,18978H102,CNS PHARMACEUTICALS INC,18978H10,
+MBGRF,Moberg Pharma AB,Healthcare,,,nan,
+LEPX,Mu Yan Technology Group,Healthcare,,,nan,
+RHNMF,Rhinomed Limited,Healthcare,,,nan,
+NBY,NovaBay Pharmaceuticals Inc. Common Stock,Healthcare,66987P201,NOVABAY PHARMACEUTICALS INC,66987P20,1389545.0
+ACHV,Achieve Life Sciences Inc. Common Shares,Healthcare,004468203,ACHIEVE LIFE SCIENCE INC,00446820,949858.0

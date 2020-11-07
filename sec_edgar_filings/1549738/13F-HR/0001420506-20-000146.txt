@@ -1,0 +1,256 @@
+<SEC-DOCUMENT>0001420506-20-000146.txt : 20200211
+<SEC-HEADER>0001420506-20-000146.hdr.sgml : 20200211
+<ACCEPTANCE-DATETIME>20200211163109
+ACCESSION NUMBER:		0001420506-20-000146
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200211
+DATE AS OF CHANGE:		20200211
+EFFECTIVENESS DATE:		20200211
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JW Asset Management, LLC
+		CENTRAL INDEX KEY:			0001549738
+		IRS NUMBER:				412123331
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-16404
+		FILM NUMBER:		20597031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		489 FIFTH AVENUE
+		STREET 2:		29TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		212-446-5362
+
+	MAIL ADDRESS:	
+		STREET 1:		489 FIFTH AVENUE
+		STREET 2:		29TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--EDGARfilingagent.com Form 13F Online Workstation (www.form13f.com)-->
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001549738</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2019</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <!--Start Form-->
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2019</reportCalendarOrQuarter>
+      <!--Amendment-->
+      <isAmendment>false</isAmendment>
+      <!--Institutional Investment Manager-->
+      <filingManager>
+        <name>JW Asset Management, LLC</name>
+        <address>
+          <ns1:street1>489 Fifth Avenue</ns1:street1>
+          <ns1:street2>29th Floor</ns1:street2>
+          <ns1:city>New York</ns1:city>
+          <ns1:stateOrCountry>NY</ns1:stateOrCountry>
+          <ns1:zipCode>10017</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-16404</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <!--Signature-->
+    <signatureBlock>
+      <name>Jason Klarreich</name>
+      <title>Managing Director and Chief Financial Officer</title>
+      <phone>212-446-5362</phone>
+      <signature>Jason Klarreich, Managing Director and Chief Financial Officer</signature>
+      <city>New York</city>
+      <stateOrCountry>NY</stateOrCountry>
+      <signatureDate>02-11-2020</signatureDate>
+    </signatureBlock>
+    <!--Summary Page-->
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>8</tableEntryTotal>
+      <tableValueTotal>138760</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>Form13F_InfoTable.xml
+<DESCRIPTION>INFORMATION TABLE FOR JW ASSET MANAGEMENT, LLC
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<informationTable xsi:schemaLocation="http://www.sec.gov/edgar/document/thirteenf/informationtable eis_13FDocument.xsd"
+	xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable"
+	xmlns:n1="http://www.sec.gov/edgar/document/thirteenf/informationtable"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<infoTable>
+		<nameOfIssuer>ALIMERA SCIENCES INC</nameOfIssuer>
+		<titleOfClass>COM NEW</titleOfClass>
+		<cusip>016259202</cusip>
+		<value>209</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>27552</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>27552</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>AMAZON COM INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>023135106</cusip>
+		<value>34281</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>18552</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>18552</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>ESTABLISHMENT LABS HLDGS INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>G31249108</cusip>
+		<value>86230</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>3117485</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>3117485</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>GROWGENERATION CORP</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>39986L109</cusip>
+		<value>3968</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>967741</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>967741</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>HORIZON THERAPEUTICS PUB LTD</nameOfIssuer>
+		<titleOfClass>SHS</titleOfClass>
+		<cusip>G46188101</cusip>
+		<value>3655</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>100973</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>100973</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>MICROSOFT CORP</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>594918104</cusip>
+		<value>6545</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>41500</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>41500</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>PETIQ INC</nameOfIssuer>
+		<titleOfClass>COM CL A</titleOfClass>
+		<cusip>71639T106</cusip>
+		<value>3208</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>128069</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>128069</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>SUNDIAL GROWERS INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>86730L109</cusip>
+		<value>664</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>220751</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>220751</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

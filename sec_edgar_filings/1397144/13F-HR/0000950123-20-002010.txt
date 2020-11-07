@@ -1,0 +1,370 @@
+<SEC-DOCUMENT>0000950123-20-002010.txt : 20200214
+<SEC-HEADER>0000950123-20-002010.hdr.sgml : 20200214
+<ACCEPTANCE-DATETIME>20200214060520
+ACCESSION NUMBER:		0000950123-20-002010
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200214
+DATE AS OF CHANGE:		20200214
+EFFECTIVENESS DATE:		20200214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Abingworth LLP
+		CENTRAL INDEX KEY:			0001397144
+		IRS NUMBER:				980518585
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-14285
+		FILM NUMBER:		20613517
+
+	BUSINESS ADDRESS:	
+		STREET 1:		38 JERMYN STREET
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			SW1Y 6DN
+		BUSINESS PHONE:		44 (0)20 7534 1500
+
+	MAIL ADDRESS:	
+		STREET 1:		38 JERMYN STREET
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			SW1Y 6DN
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001397144</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2019</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2019</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Abingworth LLP</name>
+        <address>
+          <ns1:street1>38 JERMYN STREET</ns1:street1>
+          <ns1:city>LONDON</ns1:city>
+          <ns1:stateOrCountry>X0</ns1:stateOrCountry>
+          <ns1:zipCode>SW1Y 6DN</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-14285</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>John Heard</name>
+      <title>General Counsel</title>
+      <phone>44 2075341508</phone>
+      <signature>John Heard</signature>
+      <city>London</city>
+      <stateOrCountry>X0</stateOrCountry>
+      <signatureDate>02-14-2020</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>16</tableEntryTotal>
+      <tableValueTotal>206909</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>form13fInfoTable.xml
+<DESCRIPTION>INFORMATION TABLE FOR FORM 13F
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <infoTable>
+       <nameOfIssuer>Aeglea</nameOfIssuer>
+       <titleOfClass>Common</titleOfClass>
+       <cusip>00773J103</cusip>
+       <value>1835</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>240500</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <votingAuthority>
+           <Sole>240500</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>Chiasma</nameOfIssuer>
+       <titleOfClass>Common</titleOfClass>
+       <cusip>16706W102</cusip>
+       <value>1835</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>370671</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <votingAuthority>
+           <Sole>370671</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>Crispr</nameOfIssuer>
+       <titleOfClass>NAMEN AKT</titleOfClass>
+       <cusip>H17182108</cusip>
+       <value>31619</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>519198</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <votingAuthority>
+           <Sole>519198</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>Cymabay</nameOfIssuer>
+       <titleOfClass>Common</titleOfClass>
+       <cusip>23257D103</cusip>
+       <value>256</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>131036</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <votingAuthority>
+           <Sole>131036</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>Exicure</nameOfIssuer>
+       <titleOfClass>Common</titleOfClass>
+       <cusip>30205M101</cusip>
+       <value>19884</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>6977000</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <votingAuthority>
+           <Sole>6977000</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>Molecular Templates</nameOfIssuer>
+       <titleOfClass>Common</titleOfClass>
+       <cusip>608550109</cusip>
+       <value>2796</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>200000</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <votingAuthority>
+           <Sole>200000</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>Ocugen</nameOfIssuer>
+       <titleOfClass>Common</titleOfClass>
+       <cusip>43358V109</cusip>
+       <value>4</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>7111</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <votingAuthority>
+           <Sole>7111</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>Obseva</nameOfIssuer>
+       <titleOfClass>Common</titleOfClass>
+       <cusip>H5861P103</cusip>
+       <value>335</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>87999</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <votingAuthority>
+           <Sole>87999</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>Paratek</nameOfIssuer>
+       <titleOfClass>Common</titleOfClass>
+       <cusip>699374302</cusip>
+       <value>4185</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>1041131</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <votingAuthority>
+           <Sole>1041131</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>Personalis</nameOfIssuer>
+       <titleOfClass>Common</titleOfClass>
+       <cusip>71535D106</cusip>
+       <value>59288</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>5449294</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <votingAuthority>
+           <Sole>5449294</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>Phathom</nameOfIssuer>
+       <titleOfClass>Common</titleOfClass>
+       <cusip>71722W107</cusip>
+       <value>37430</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>1203135</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <votingAuthority>
+           <Sole>1203135</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>Proteon</nameOfIssuer>
+       <titleOfClass>Common</titleOfClass>
+       <cusip>74371L109</cusip>
+       <value>879</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>2144517</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <votingAuthority>
+           <Sole>2144517</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>Sientra</nameOfIssuer>
+       <titleOfClass>Common</titleOfClass>
+       <cusip>82621J105</cusip>
+       <value>21326</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>2390843</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <votingAuthority>
+           <Sole>2390843</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>Sierra Oncology</nameOfIssuer>
+       <titleOfClass>Common</titleOfClass>
+       <cusip>82640U107</cusip>
+       <value>74</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>216667</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <votingAuthority>
+           <Sole>216667</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>Soleno</nameOfIssuer>
+       <titleOfClass>Common</titleOfClass>
+       <cusip>834203200</cusip>
+       <value>19932</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>6969272</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <votingAuthority>
+           <Sole>6969272</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+   <infoTable>
+       <nameOfIssuer>Verona</nameOfIssuer>
+       <titleOfClass>SPONDS ADR</titleOfClass>
+       <cusip>925050106</cusip>
+       <value>5231</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>901943</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <votingAuthority>
+           <Sole>901943</Sole>
+           <Shared>0</Shared>
+           <None>0</None>
+       </votingAuthority>
+   </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

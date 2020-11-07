@@ -1,0 +1,307 @@
+<SEC-DOCUMENT>0001567619-20-001921.txt : 20200203
+<SEC-HEADER>0001567619-20-001921.hdr.sgml : 20200203
+<ACCEPTANCE-DATETIME>20200203160037
+ACCESSION NUMBER:		0001567619-20-001921
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200203
+DATE AS OF CHANGE:		20200203
+EFFECTIVENESS DATE:		20200203
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Third Security, LLC
+		CENTRAL INDEX KEY:			0001542294
+		IRS NUMBER:				541923091
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-14815
+		FILM NUMBER:		20568622
+
+	BUSINESS ADDRESS:	
+		STREET 1:		THE GOVERNOR TYLER
+		STREET 2:		1881 GROVE AVENUE
+		CITY:			RADFORD
+		STATE:			VA
+		ZIP:			24141
+		BUSINESS PHONE:		5406337900
+
+	MAIL ADDRESS:	
+		STREET 1:		THE GOVERNOR TYLER
+		STREET 2:		1881 GROVE AVENUE
+		CITY:			RADFORD
+		STATE:			VA
+		ZIP:			24141
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001542294</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2019</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2019</reportCalendarOrQuarter>
+      <filingManager>
+        <name>Third Security, LLC</name>
+        <address>
+          <com:street1>THE GOVERNOR TYLER</com:street1>
+          <com:street2>1881 GROVE AVENUE</com:street2>
+          <com:city>RADFORD</com:city>
+          <com:stateOrCountry>VA</com:stateOrCountry>
+          <com:zipCode>24141</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-14815</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Randal J. Kirk</name>
+      <title>Chief Executive Officer</title>
+      <phone>540-633-7900</phone>
+      <signature>/s/ Randal J. Kirk</signature>
+      <city>Radford</city>
+      <stateOrCountry>VA</stateOrCountry>
+      <signatureDate>02-03-2020</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>12</tableEntryTotal>
+      <tableValueTotal>619900</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>form13fInfoTable.xml
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable">		<infoTable>
+			<nameOfIssuer>AQUABOUNTY TECHNOLOGIES INC</nameOfIssuer>
+			<titleOfClass>COM NEW</titleOfClass>
+			<cusip>03842K200</cusip>
+			<value>19697</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>9076753</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<votingAuthority>
+				<Sole>9076753</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>ENERGY TRANSFER LP</nameOfIssuer>
+			<titleOfClass>COM UT LTD PTN</titleOfClass>
+			<cusip>29273V100</cusip>
+			<value>13779</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>1073990</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<votingAuthority>
+				<Sole>1073990</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>ENTERPRISE PRODS PARTNERS L</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>293792107</cusip>
+			<value>31982</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>1135734</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<votingAuthority>
+				<Sole>1135734</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>HALOZYME THERAPEUTICS INC</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>40637H109</cusip>
+			<value>124932</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>7046385</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<votingAuthority>
+				<Sole>7046385</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>INTREXON CORP</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>46122T102</cusip>
+			<value>413820</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>75514573</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<votingAuthority>
+				<Sole>75514573</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>NUSTAR ENERGY LP</nameOfIssuer>
+			<titleOfClass>UNIT COM</titleOfClass>
+			<cusip>67058H102</cusip>
+			<value>3753</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>145200</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<votingAuthority>
+				<Sole>145200</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>ORAGENICS INC</nameOfIssuer>
+			<titleOfClass>COM PAR</titleOfClass>
+			<cusip>684023302</cusip>
+			<value>52</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>100056</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<votingAuthority>
+				<Sole>100056</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>ORAGENICS INC</nameOfIssuer>
+			<titleOfClass>COM PAR</titleOfClass>
+			<cusip>684023302</cusip>
+			<value>757</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>1448110</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>DFND</investmentDiscretion>
+			<votingAuthority>
+				<Sole>1448110</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>PTC THERAPEUTICS INC</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>69366J200</cusip>
+			<value>6607</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>137551</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<votingAuthority>
+				<Sole>137551</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>QUAKER CHEM CORP</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>747316107</cusip>
+			<value>212</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>1290</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<votingAuthority>
+				<Sole>1290</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>EMERGENT BIOSOLUTIONS INC</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>29089Q105</cusip>
+			<value>206</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>3810</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<votingAuthority>
+				<Sole>3810</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>TC PIPELINES LP</nameOfIssuer>
+			<titleOfClass>UT COM LTD PRT</titleOfClass>
+			<cusip>87233Q108</cusip>
+			<value>4103</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>97000</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<votingAuthority>
+				<Sole>97000</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

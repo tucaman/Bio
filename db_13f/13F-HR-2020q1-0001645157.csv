@@ -1,0 +1,10 @@
+nameofissuer,titleofclass,cusip,value,sshprnamt,sshprnamttype,investmentdiscretion,sole,shared,none,cik,reportcalendarorquarter,submissiontype,isamendment,filer,signaturedate,ticker
+Acceleron Pharma Inc.,COM,00434H108,3777,42030,SH,SOLE,42030,0,0,0001645157,03-31-2020,13F-HR,false,"Foresite Capital Management III, LLC",05-14-2020,XLRN
+"Aerie Pharmaceuticals, Inc.",COM,00771V108,4813,356492,SH,SOLE,356492,0,0,0001645157,03-31-2020,13F-HR,false,"Foresite Capital Management III, LLC",05-14-2020,AERI
+Biohaven Pharmaceutical Holding Company Ltd.,COM,G11196105,2118,62245,SH,SOLE,62245,0,0,0001645157,03-31-2020,13F-HR,false,"Foresite Capital Management III, LLC",05-14-2020,BHVN
+Blueprint Medicines Corporation,COM,09627Y109,9936,169900,SH,SOLE,169900,0,0,0001645157,03-31-2020,13F-HR,false,"Foresite Capital Management III, LLC",05-14-2020,BPMC
+"Epizyme, Inc.",COM,29428V104,11071,713812,SH,SOLE,713812,0,0,0001645157,03-31-2020,13F-HR,false,"Foresite Capital Management III, LLC",05-14-2020,EPZM
+"FibroGen, Inc.",COM,31572Q808,1390,40000,SH,SOLE,40000,0,0,0001645157,03-31-2020,13F-HR,false,"Foresite Capital Management III, LLC",05-14-2020,FGEN
+"Immunomedics, Inc.",COM,452907108,5392,400000,SH,SOLE,400000,0,0,0001645157,03-31-2020,13F-HR,false,"Foresite Capital Management III, LLC",05-14-2020,IMMU
+"Myokardia, Inc.",COM,62857M105,18070,385452,SH,SOLE,385452,0,0,0001645157,03-31-2020,13F-HR,false,"Foresite Capital Management III, LLC",05-14-2020,MYOK
+"Natera, Inc.",COM,632307104,6234,208768,SH,SOLE,208768,0,0,0001645157,03-31-2020,13F-HR,false,"Foresite Capital Management III, LLC",05-14-2020,NTRA

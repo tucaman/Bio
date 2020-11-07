@@ -1,0 +1,147 @@
+<SEC-DOCUMENT>0000950123-20-002511.txt : 20200214
+<SEC-HEADER>0000950123-20-002511.hdr.sgml : 20200214
+<ACCEPTANCE-DATETIME>20200214161930
+ACCESSION NUMBER:		0000950123-20-002511
+CONFORMED SUBMISSION TYPE:	13F-HR/A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20190930
+FILED AS OF DATE:		20200214
+DATE AS OF CHANGE:		20200214
+EFFECTIVENESS DATE:		20200214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aviva Holdings Ltd.
+		CENTRAL INDEX KEY:			0001603935
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			C5
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-17342
+		FILM NUMBER:		20620211
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CAY HOUSE
+		STREET 2:		EP TAYLOR DRIVE N7776
+		CITY:			LYFORD CAY, NEW PROVIDENCE
+		STATE:			C5
+		ZIP:			00000
+		BUSINESS PHONE:		407-909-9970
+
+	MAIL ADDRESS:	
+		STREET 1:		CAY HOUSE
+		STREET 2:		EP TAYLOR DRIVE N7776
+		CITY:			LYFORD CAY, NEW PROVIDENCE
+		STATE:			C5
+		ZIP:			00000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR/A</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001603935</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>09-30-2019</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>09-30-2019</reportCalendarOrQuarter>
+      <isAmendment>true</isAmendment>
+      <amendmentNo>1</amendmentNo>
+      <amendmentInfo>
+        <amendmentType>NEW HOLDINGS</amendmentType>
+      </amendmentInfo>
+      <filingManager>
+        <name>Aviva Holdings Ltd.</name>
+        <address>
+          <ns1:street1>CAY HOUSE</ns1:street1>
+          <ns1:street2>EP TAYLOR DRIVE N7776</ns1:street2>
+          <ns1:city>LYFORD CAY, NEW PROVIDENCE</ns1:city>
+          <ns1:stateOrCountry>C5</ns1:stateOrCountry>
+          <ns1:zipCode>00000</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-17342</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Jason C. Callender</name>
+      <title>Director</title>
+      <phone>242-676-6012</phone>
+      <signature>/s/ Jason C. Callender</signature>
+      <city>Nassau</city>
+      <stateOrCountry>C5</stateOrCountry>
+      <signatureDate>02-14-2020</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>1</otherIncludedManagersCount>
+      <tableEntryTotal>1</tableEntryTotal>
+      <tableValueTotal>55417</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <form13FFileNumber>28-17341</form13FFileNumber>
+            <name>Braslyn Ltd.</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>form13fInfoTable.xml
+<DESCRIPTION>INFORMATION TABLE FOR FORM 13F
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <infoTable>
+       <nameOfIssuer>PAMPA ENERGIA S A</nameOfIssuer>
+       <titleOfClass>SPONS ADR LVL I</titleOfClass>
+       <cusip>697660207</cusip>
+       <value>55417</value>
+       <shrsOrPrnAmt>
+           <sshPrnamt>3192244</sshPrnamt>
+           <sshPrnamtType>SH</sshPrnamtType>
+       </shrsOrPrnAmt>
+       <investmentDiscretion>DFND</investmentDiscretion>
+       <otherManager>1</otherManager>
+       <votingAuthority>
+           <Sole>0</Sole>
+           <Shared>0</Shared>
+           <None>3192244</None>
+       </votingAuthority>
+   </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
